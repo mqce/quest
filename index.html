@@ -1,0 +1,883 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ギャラリー - インスタレーション＆小型ロボット作品</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans JP", "Hiragino Sans", sans-serif;
+      background: #f8f9fa;
+      color: #212529;
+      line-height: 1.6;
+    }
+
+    .header {
+      background: #fff;
+      border-bottom: 1px solid #e9ecef;
+      padding: 1.5rem 1rem;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.04);
+    }
+
+    .header-content {
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+
+    h1 {
+      font-size: 1.75rem;
+      margin-bottom: 0.5rem;
+      color: #000;
+    }
+
+    .subtitle {
+      color: #6c757d;
+      font-size: 0.9rem;
+      margin-bottom: 1rem;
+    }
+
+    .controls {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      align-items: center;
+      margin-bottom: 0.75rem;
+    }
+
+    .btn-filter {
+      padding: 0.4rem 0.9rem;
+      border: 1px solid #dee2e6;
+      background: #fff;
+      border-radius: 20px;
+      cursor: pointer;
+      font-size: 0.875rem;
+      transition: all 0.2s;
+      white-space: nowrap;
+    }
+
+    .btn-filter:hover {
+      background: #f8f9fa;
+    }
+
+    .btn-filter.active {
+      background: #212529;
+      color: #fff;
+      border-color: #212529;
+    }
+
+    .btn-settings {
+      margin-left: auto;
+      padding: 0.4rem 0.9rem;
+      border: 1px solid #dee2e6;
+      background: #fff;
+      border-radius: 20px;
+      cursor: pointer;
+      font-size: 0.875rem;
+    }
+
+    .search-box {
+      flex: 1;
+      min-width: 200px;
+      max-width: 300px;
+      padding: 0.4rem 0.9rem;
+      border: 1px solid #dee2e6;
+      border-radius: 20px;
+      font-size: 0.875rem;
+    }
+
+    .container {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 1.5rem 1rem;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 1.5rem;
+    }
+
+    .card {
+      background: #fff;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+      transition: transform 0.2s, box-shadow 0.2s;
+      display: flex;
+      flex-direction: column;
+      position: relative;
+    }
+
+    .card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+    }
+
+    .card-media {
+      width: 100%;
+      aspect-ratio: 5/3;
+      background: #e9ecef;
+      position: relative;
+      overflow: hidden;
+      cursor: pointer;
+    }
+
+    .card-media img,
+    .card-media video {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+
+    .card-media .placeholder {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      font-size: 0.9rem;
+      font-weight: 500;
+      text-align: center;
+      padding: 1rem;
+    }
+
+    .card-favorite {
+      position: absolute;
+      top: 0.75rem;
+      right: 0.75rem;
+      background: rgba(255, 255, 255, 0.95);
+      border: none;
+      border-radius: 50%;
+      width: 36px;
+      height: 36px;
+      cursor: pointer;
+      font-size: 1.2rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: transform 0.2s;
+      z-index: 10;
+    }
+
+    .card-favorite:hover {
+      transform: scale(1.1);
+    }
+
+    .card-favorite.favorited {
+      background: #ffc107;
+    }
+
+    .card-body {
+      padding: 1rem;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .card-title {
+      font-size: 1.1rem;
+      font-weight: 600;
+      margin-bottom: 0.3rem;
+      color: #000;
+    }
+
+    .card-artist {
+      font-size: 0.875rem;
+      color: #6c757d;
+      margin-bottom: 0.5rem;
+    }
+
+    .card-summary {
+      font-size: 0.875rem;
+      color: #495057;
+      margin-bottom: 0.75rem;
+      flex: 1;
+    }
+
+    .card-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+      margin-bottom: 0.75rem;
+    }
+
+    .tag {
+      font-size: 0.75rem;
+      padding: 0.2rem 0.6rem;
+      background: #e9ecef;
+      border-radius: 12px;
+      color: #495057;
+    }
+
+    .card-footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding-top: 0.5rem;
+      border-top: 1px solid #f1f3f5;
+      font-size: 0.8rem;
+      color: #6c757d;
+    }
+
+    .card-footer a {
+      color: #0d6efd;
+      text-decoration: none;
+    }
+
+    .card-footer a:hover {
+      text-decoration: underline;
+    }
+
+    .modal {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.8);
+      z-index: 1000;
+      padding: 1rem;
+      overflow-y: auto;
+    }
+
+    .modal.show {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .modal-content {
+      background: #fff;
+      border-radius: 12px;
+      max-width: 800px;
+      width: 100%;
+      max-height: 90vh;
+      overflow-y: auto;
+      position: relative;
+    }
+
+    .modal-media {
+      width: 100%;
+      max-height: 400px;
+      background: #000;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .modal-media img,
+    .modal-media video {
+      max-width: 100%;
+      max-height: 400px;
+      object-fit: contain;
+    }
+
+    .modal-body {
+      padding: 1.5rem;
+    }
+
+    .modal-close {
+      position: absolute;
+      top: 1rem;
+      right: 1rem;
+      background: rgba(255, 255, 255, 0.95);
+      border: none;
+      border-radius: 50%;
+      width: 36px;
+      height: 36px;
+      cursor: pointer;
+      font-size: 1.5rem;
+      z-index: 10;
+    }
+
+    .thumbnail-upload {
+      margin-top: 1rem;
+      padding: 1rem;
+      background: #f8f9fa;
+      border-radius: 8px;
+    }
+
+    .thumbnail-upload h4 {
+      font-size: 0.9rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .thumbnail-upload input[type="text"],
+    .thumbnail-upload input[type="file"] {
+      width: 100%;
+      padding: 0.5rem;
+      border: 1px solid #dee2e6;
+      border-radius: 6px;
+      margin-bottom: 0.5rem;
+      font-size: 0.875rem;
+    }
+
+    .thumbnail-upload button {
+      padding: 0.5rem 1rem;
+      background: #212529;
+      color: #fff;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 0.875rem;
+      margin-right: 0.5rem;
+    }
+
+    .thumbnail-upload button:hover {
+      background: #000;
+    }
+
+    .settings-panel {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.5);
+      z-index: 1000;
+      padding: 1rem;
+      overflow-y: auto;
+    }
+
+    .settings-panel.show {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .settings-content {
+      background: #fff;
+      border-radius: 12px;
+      max-width: 600px;
+      width: 100%;
+      padding: 1.5rem;
+    }
+
+    .settings-content h2 {
+      margin-bottom: 1rem;
+    }
+
+    .settings-content label {
+      display: block;
+      margin-bottom: 0.5rem;
+      font-weight: 500;
+    }
+
+    .settings-content input,
+    .settings-content textarea {
+      width: 100%;
+      padding: 0.5rem;
+      border: 1px solid #dee2e6;
+      border-radius: 6px;
+      margin-bottom: 1rem;
+      font-size: 0.875rem;
+    }
+
+    .settings-content textarea {
+      font-family: monospace;
+      min-height: 120px;
+    }
+
+    .settings-content button {
+      padding: 0.5rem 1rem;
+      background: #212529;
+      color: #fff;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      margin-right: 0.5rem;
+    }
+
+    .settings-content button:hover {
+      background: #000;
+    }
+
+    .settings-content .btn-secondary {
+      background: #6c757d;
+    }
+
+    .settings-content .btn-secondary:hover {
+      background: #5a6268;
+    }
+
+    .empty-state {
+      text-align: center;
+      padding: 3rem 1rem;
+      color: #6c757d;
+    }
+
+    @media (max-width: 768px) {
+      h1 {
+        font-size: 1.4rem;
+      }
+
+      .grid {
+        grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+        gap: 1rem;
+      }
+
+      .controls {
+        flex-direction: column;
+        align-items: stretch;
+      }
+
+      .btn-settings {
+        margin-left: 0;
+      }
+
+      .search-box {
+        max-width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <div class="header-content">
+      <h1>インスタレーション＆小型ロボット作品ギャラリー</h1>
+      <p class="subtitle">マイコンを使ったロボット作品や、モーターとディスプレイを使ったインスタレーションアート</p>
+      
+      <div class="controls">
+        <button class="btn-filter active" data-filter="all">すべて</button>
+        <button class="btn-filter" data-filter="category:installation">インスタレーション</button>
+        <button class="btn-filter" data-filter="category:small-robot">小型ロボット</button>
+        <button class="btn-filter" data-filter="source:web">出典: Web</button>
+        <button class="btn-filter" data-filter="source:x">出典: X</button>
+        <button class="btn-filter" data-filter="favorites">お気に入りのみ</button>
+        <input type="text" class="search-box" placeholder="タグで検索...">
+        <button class="btn-settings" onclick="openSettings()">⚙️ 設定</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="grid" id="gallery"></div>
+    <div class="empty-state" id="empty-state" style="display: none;">
+      <p>該当する作品が見つかりませんでした。</p>
+    </div>
+  </div>
+
+  <div class="modal" id="modal">
+    <div class="modal-content">
+      <button class="modal-close" onclick="closeModal()">×</button>
+      <div class="modal-media" id="modal-media"></div>
+      <div class="modal-body" id="modal-body"></div>
+    </div>
+  </div>
+
+  <div class="settings-panel" id="settings-panel">
+    <div class="settings-content">
+      <h2>設定</h2>
+      
+      <label>GitHub Personal Access Token（オプション）</label>
+      <input type="password" id="github-token" placeholder="ghp_...">
+      <p style="font-size: 0.8rem; color: #6c757d; margin-top: -0.5rem; margin-bottom: 1rem;">
+        fine-grained token（Contents: Read and write）を設定すると、お気に入りとサムネイル変更をリポジトリに保存できます。<br>
+        未設定の場合はブラウザのlocalStorageに保存されます。
+      </p>
+
+      <label>データのエクスポート/インポート</label>
+      <div style="margin-bottom: 1rem;">
+        <button onclick="exportData()">エクスポート（JSON）</button>
+        <button onclick="document.getElementById('import-file').click()" class="btn-secondary">インポート</button>
+        <input type="file" id="import-file" accept=".json" style="display: none;" onchange="importData(event)">
+      </div>
+
+      <textarea id="export-data" placeholder="エクスポートされたデータがここに表示されます" readonly></textarea>
+
+      <div>
+        <button onclick="saveSettings()">保存</button>
+        <button onclick="closeSettings()" class="btn-secondary">閉じる</button>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    let works = [];
+    let userData = { favorites: [], thumbnailOverrides: {} };
+    let currentFilter = 'all';
+    let searchTerm = '';
+
+    async function init() {
+      await loadWorks();
+      await loadUserData();
+      renderGallery();
+      setupEventListeners();
+    }
+
+    async function loadWorks() {
+      const response = await fetch('data/works.json');
+      works = await response.json();
+    }
+
+    async function loadUserData() {
+      const localToken = localStorage.getItem('github-token');
+      
+      if (localToken) {
+        try {
+          const response = await fetch('https://api.github.com/repos/mqce/quest/contents/data/user.json', {
+            headers: {
+              'Authorization': `token ${localToken}`,
+              'Accept': 'application/vnd.github.v3+json'
+            }
+          });
+          
+          if (response.ok) {
+            const data = await response.json();
+            const content = atob(data.content);
+            userData = JSON.parse(content);
+            userData.sha = data.sha;
+            return;
+          }
+        } catch (e) {
+          console.warn('Failed to load from GitHub, using localStorage', e);
+        }
+      }
+      
+      const localData = localStorage.getItem('user-data');
+      if (localData) {
+        userData = JSON.parse(localData);
+      }
+    }
+
+    async function saveUserData() {
+      const localToken = localStorage.getItem('github-token');
+      
+      if (localToken) {
+        try {
+          const content = btoa(JSON.stringify({
+            favorites: userData.favorites,
+            thumbnailOverrides: userData.thumbnailOverrides
+          }, null, 2));
+          
+          const response = await fetch('https://api.github.com/repos/mqce/quest/contents/data/user.json', {
+            method: 'PUT',
+            headers: {
+              'Authorization': `token ${localToken}`,
+              'Accept': 'application/vnd.github.v3+json',
+              'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({
+              message: 'Update user data',
+              content: content,
+              sha: userData.sha
+            })
+          });
+          
+          if (response.ok) {
+            const data = await response.json();
+            userData.sha = data.content.sha;
+            console.log('Saved to GitHub');
+            return;
+          }
+        } catch (e) {
+          console.warn('Failed to save to GitHub, using localStorage', e);
+        }
+      }
+      
+      localStorage.setItem('user-data', JSON.stringify(userData));
+    }
+
+    function getThumbnail(work) {
+      if (userData.thumbnailOverrides[work.id]) {
+        return userData.thumbnailOverrides[work.id];
+      }
+      return work.thumbnail;
+    }
+
+    function isFavorited(workId) {
+      return userData.favorites.includes(workId);
+    }
+
+    function toggleFavorite(workId) {
+      if (isFavorited(workId)) {
+        userData.favorites = userData.favorites.filter(id => id !== workId);
+      } else {
+        userData.favorites.push(workId);
+      }
+      saveUserData();
+      renderGallery();
+    }
+
+    function renderGallery() {
+      const gallery = document.getElementById('gallery');
+      const emptyState = document.getElementById('empty-state');
+      
+      let filtered = works;
+      
+      if (currentFilter !== 'all') {
+        if (currentFilter === 'favorites') {
+          filtered = works.filter(w => isFavorited(w.id));
+        } else if (currentFilter.startsWith('category:')) {
+          const category = currentFilter.split(':')[1];
+          filtered = works.filter(w => w.category === category);
+        } else if (currentFilter.startsWith('source:')) {
+          const source = currentFilter.split(':')[1];
+          filtered = works.filter(w => w.source === source);
+        }
+      }
+      
+      if (searchTerm) {
+        filtered = filtered.filter(w => 
+          w.tags.some(tag => tag.toLowerCase().includes(searchTerm.toLowerCase())) ||
+          w.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
+          w.artist.toLowerCase().includes(searchTerm.toLowerCase())
+        );
+      }
+      
+      if (filtered.length === 0) {
+        gallery.innerHTML = '';
+        emptyState.style.display = 'block';
+        return;
+      }
+      
+      emptyState.style.display = 'none';
+      gallery.innerHTML = filtered.map(work => createCard(work)).join('');
+    }
+
+    function createCard(work) {
+      const thumbnail = getThumbnail(work);
+      const favorited = isFavorited(work.id);
+      
+      let mediaHtml = '';
+      if (thumbnail) {
+        if (thumbnail.match(/\.(mp4|webm)$/i)) {
+          mediaHtml = `<video src="${thumbnail}" muted loop autoplay playsinline></video>`;
+        } else {
+          mediaHtml = `<img src="${thumbnail}" alt="${work.title}" loading="lazy">`;
+        }
+      } else {
+        mediaHtml = `<div class="placeholder">サムネイル未設定<br>（詳細から追加できます）</div>`;
+      }
+      
+      return `
+        <div class="card">
+          <div class="card-media" onclick="openModal('${work.id}')">
+            ${mediaHtml}
+            <button class="card-favorite ${favorited ? 'favorited' : ''}" 
+                    onclick="event.stopPropagation(); toggleFavorite('${work.id}')">
+              ${favorited ? '★' : '☆'}
+            </button>
+          </div>
+          <div class="card-body">
+            <div class="card-title">${work.title}</div>
+            <div class="card-artist">${work.artist}</div>
+            <div class="card-summary">${work.summary}</div>
+            <div class="card-tags">
+              ${work.tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
+            </div>
+            <div class="card-footer">
+              <span>${work.category === 'installation' ? 'インスタレーション' : '小型ロボット'} • ${work.source === 'web' ? 'Web' : 'X'}</span>
+              <a href="${work.sourceUrl}" target="_blank" rel="noopener noreferrer">元ページ →</a>
+            </div>
+          </div>
+        </div>
+      `;
+    }
+
+    function openModal(workId) {
+      const work = works.find(w => w.id === workId);
+      if (!work) return;
+      
+      const modal = document.getElementById('modal');
+      const modalMedia = document.getElementById('modal-media');
+      const modalBody = document.getElementById('modal-body');
+      
+      const thumbnail = getThumbnail(work);
+      
+      let mediaHtml = '';
+      if (thumbnail) {
+        if (thumbnail.match(/\.(mp4|webm)$/i)) {
+          mediaHtml = `<video src="${thumbnail}" controls style="max-width: 100%; max-height: 400px;"></video>`;
+        } else {
+          mediaHtml = `<img src="${thumbnail}" alt="${work.title}">`;
+        }
+      } else {
+        mediaHtml = `<div style="padding: 2rem; color: #6c757d;">サムネイル未設定</div>`;
+      }
+      
+      modalMedia.innerHTML = mediaHtml;
+      
+      modalBody.innerHTML = `
+        <h2>${work.title}</h2>
+        <p style="color: #6c757d; margin-bottom: 1rem;">${work.artist} • ${work.year}</p>
+        <p style="margin-bottom: 1rem;">${work.summary}</p>
+        <div style="margin-bottom: 1rem;">
+          ${work.tags.map(tag => `<span class="tag">${tag}</span>`).join(' ')}
+        </div>
+        <p style="margin-bottom: 1rem;">
+          <strong>カテゴリ：</strong>${work.category === 'installation' ? 'インスタレーション' : '小型ロボット'}<br>
+          <strong>出典：</strong>${work.sourceSite}<br>
+          <strong>追加日：</strong>${work.addedDate}
+        </p>
+        <a href="${work.sourceUrl}" target="_blank" rel="noopener noreferrer" style="color: #0d6efd;">元ページを開く →</a>
+        
+        <div class="thumbnail-upload">
+          <h4>サムネイルを変更</h4>
+          <input type="text" id="thumbnail-url" placeholder="画像または動画のURL（https://...）">
+          <input type="file" id="thumbnail-file" accept="image/*,video/*">
+          <button onclick="updateThumbnail('${work.id}')">適用</button>
+          ${thumbnail ? `<button onclick="resetThumbnail('${work.id}')" class="btn-secondary">元に戻す</button>` : ''}
+        </div>
+      `;
+      
+      modal.classList.add('show');
+    }
+
+    function closeModal() {
+      document.getElementById('modal').classList.remove('show');
+    }
+
+    async function updateThumbnail(workId) {
+      const urlInput = document.getElementById('thumbnail-url');
+      const fileInput = document.getElementById('thumbnail-file');
+      
+      if (urlInput.value) {
+        userData.thumbnailOverrides[workId] = urlInput.value;
+        await saveUserData();
+        closeModal();
+        renderGallery();
+      } else if (fileInput.files.length > 0) {
+        const file = fileInput.files[0];
+        const reader = new FileReader();
+        
+        reader.onload = async (e) => {
+          const localToken = localStorage.getItem('github-token');
+          
+          if (localToken) {
+            try {
+              const content = e.target.result.split(',')[1];
+              const fileName = `media/override-${workId}-${Date.now()}${file.name.substring(file.name.lastIndexOf('.'))}`;
+              
+              const response = await fetch(`https://api.github.com/repos/mqce/quest/contents/${fileName}`, {
+                method: 'PUT',
+                headers: {
+                  'Authorization': `token ${localToken}`,
+                  'Accept': 'application/vnd.github.v3+json',
+                  'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                  message: `Add thumbnail override for ${workId}`,
+                  content: content
+                })
+              });
+              
+              if (response.ok) {
+                userData.thumbnailOverrides[workId] = fileName;
+                await saveUserData();
+                closeModal();
+                renderGallery();
+                return;
+              }
+            } catch (e) {
+              console.warn('Failed to upload to GitHub', e);
+            }
+          }
+          
+          userData.thumbnailOverrides[workId] = e.target.result;
+          await saveUserData();
+          closeModal();
+          renderGallery();
+        };
+        
+        reader.readAsDataURL(file);
+      }
+    }
+
+    async function resetThumbnail(workId) {
+      delete userData.thumbnailOverrides[workId];
+      await saveUserData();
+      closeModal();
+      renderGallery();
+    }
+
+    function setupEventListeners() {
+      document.querySelectorAll('.btn-filter').forEach(btn => {
+        btn.addEventListener('click', () => {
+          document.querySelectorAll('.btn-filter').forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+          currentFilter = btn.dataset.filter;
+          renderGallery();
+        });
+      });
+      
+      document.querySelector('.search-box').addEventListener('input', (e) => {
+        searchTerm = e.target.value;
+        renderGallery();
+      });
+      
+      document.getElementById('modal').addEventListener('click', (e) => {
+        if (e.target.id === 'modal') {
+          closeModal();
+        }
+      });
+    }
+
+    function openSettings() {
+      const panel = document.getElementById('settings-panel');
+      const tokenInput = document.getElementById('github-token');
+      tokenInput.value = localStorage.getItem('github-token') || '';
+      panel.classList.add('show');
+    }
+
+    function closeSettings() {
+      document.getElementById('settings-panel').classList.remove('show');
+    }
+
+    function saveSettings() {
+      const token = document.getElementById('github-token').value.trim();
+      if (token) {
+        localStorage.setItem('github-token', token);
+      } else {
+        localStorage.removeItem('github-token');
+      }
+      alert('設定を保存しました');
+      closeSettings();
+    }
+
+    function exportData() {
+      const exportTextarea = document.getElementById('export-data');
+      exportTextarea.value = JSON.stringify({
+        favorites: userData.favorites,
+        thumbnailOverrides: userData.thumbnailOverrides
+      }, null, 2);
+    }
+
+    function importData(event) {
+      const file = event.target.files[0];
+      if (!file) return;
+      
+      const reader = new FileReader();
+      reader.onload = async (e) => {
+        try {
+          const imported = JSON.parse(e.target.result);
+          userData.favorites = imported.favorites || [];
+          userData.thumbnailOverrides = imported.thumbnailOverrides || {};
+          await saveUserData();
+          renderGallery();
+          alert('データをインポートしました');
+        } catch (err) {
+          alert('インポートに失敗しました: ' + err.message);
+        }
+      };
+      reader.readAsText(file);
+    }
+
+    init();
+  </script>
+</body>
+</html>
