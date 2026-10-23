@@ -9,7 +9,11 @@
     "sourceUrl": "https://hackaday.com/2026/01/24/building-a-little-quadruped-robot/",
     "sourceSite": "Hackaday",
     "summary": "3Dプリントの小さな4脚ロボット。OLEDの顔で感情を表し、部品代は約60ドル。",
-    "tags": ["ESP32", "MG90S×8", "OLED"],
+    "tags": [
+      "ESP32",
+      "MG90S×8",
+      "OLED"
+    ],
     "thumbnail": "media/sesame.jpg",
     "addedDate": "2026-01-24"
   },
@@ -23,7 +27,13 @@
     "sourceUrl": "https://hackaday.com/2026/07/31/tiny-desktop-robot-has-radar/",
     "sourceSite": "Hackaday",
     "summary": "真鍮ボディのオープンソース卓上ロボット。",
-    "tags": ["ESP32-S3", "OLED", "24GHzレーダー", "IMU", "ギアモーター"],
+    "tags": [
+      "ESP32-S3",
+      "OLED",
+      "24GHzレーダー",
+      "IMU",
+      "ギアモーター"
+    ],
     "thumbnail": "media/tongdou.jpg",
     "addedDate": "2026-07-31"
   },
@@ -37,7 +47,12 @@
     "sourceUrl": "https://hackaday.io/project/205769-bugbot-vibration-based-quadruped",
     "sourceSite": "Hackaday.io",
     "summary": "7cm角の振動駆動・全方向4脚ロボット。群ロボット教材として安価に設計。",
-    "tags": ["XIAO ESP32-S3 Sense", "コアレスモーター", "VL53L5CX", "TinyML"],
+    "tags": [
+      "XIAO ESP32-S3 Sense",
+      "コアレスモーター",
+      "VL53L5CX",
+      "TinyML"
+    ],
     "thumbnail": "media/bugbot.jpg",
     "addedDate": "2026-01-15"
   },
@@ -51,7 +66,12 @@
     "sourceUrl": "https://hackaday.io/project/206865-neuromouse-v20-esp32-s3-micromouse-3rd-at-aamc",
     "sourceSite": "Hackaday.io",
     "summary": "2026年AAMCで総合3位のマイクロマウス。",
-    "tags": ["ESP32-S3", "N20", "DRV8833", "MPU-6500"],
+    "tags": [
+      "ESP32-S3",
+      "N20",
+      "DRV8833",
+      "MPU-6500"
+    ],
     "thumbnail": "media/neuro.jpg",
     "addedDate": "2026-03-10"
   },
@@ -65,7 +85,12 @@
     "sourceUrl": "https://www.hackster.io/tech_nickk/tn-24-v2-0-cute-desktop-companion-robot-44a472",
     "sourceSite": "Hackster",
     "summary": "OLEDの目で表情を出す歩行型の卓上ロボット。",
-    "tags": ["XIAO ESP32S3 Sense", "マイクロサーボ×4", "MPU6050", "OLED"],
+    "tags": [
+      "XIAO ESP32S3 Sense",
+      "マイクロサーボ×4",
+      "MPU6050",
+      "OLED"
+    ],
     "thumbnail": "media/tn24.jpg",
     "addedDate": "2026-02-05"
   },
@@ -79,7 +104,12 @@
     "sourceUrl": "https://www.hackster.io/Gokux/esp32-powered-4x4-rc-rover-fully-3d-printed-wi-fi-control-a7320d",
     "sourceSite": "Hackster",
     "summary": "全部3Dプリントの4WDローバー。ブラウザのジョイスティックで操作。",
-    "tags": ["XIAO ESP32C3", "DRV8833", "N20×4", "18650"],
+    "tags": [
+      "XIAO ESP32C3",
+      "DRV8833",
+      "N20×4",
+      "18650"
+    ],
     "thumbnail": "media/rover.jpg",
     "addedDate": "2026-04-12"
   },
@@ -93,7 +123,10 @@
     "sourceUrl": "https://x.com/albertlabo/status/2099740432649568580",
     "sourceSite": "X",
     "summary": "M5Stack Dialで動くクローラー型ロボットで、ドリルやカタナなどの装備を付け替えられる。",
-    "tags": ["M5Stack Dial", "クローラー"],
+    "tags": [
+      "M5Stack Dial",
+      "クローラー"
+    ],
     "thumbnail": "media/dial.jpg",
     "addedDate": "2026-08-15"
   },
@@ -107,7 +140,11 @@
     "sourceUrl": "https://x.com/sasuke9410/status/2100234383693410689",
     "sourceSite": "X",
     "summary": "M5Stackのコンテスト入賞作の再現で、サーボ4個で歩き、猫の頭と尻尾が付いている。",
-    "tags": ["M5Stack", "サーボ×4", "3Dプリント"],
+    "tags": [
+      "M5Stack",
+      "サーボ×4",
+      "3Dプリント"
+    ],
     "thumbnail": "media/atomdog.jpg",
     "addedDate": "2026-08-20"
   },
@@ -121,7 +158,10 @@
     "sourceUrl": "https://x.com/mityomi722/status/2086443485159387475",
     "sourceSite": "X",
     "summary": "スタックチャンがベースで、アプリで動かせて肉球がプニプニ。",
-    "tags": ["M5Stack", "スタックチャン"],
+    "tags": [
+      "M5Stack",
+      "スタックチャン"
+    ],
     "thumbnail": "media/neko.jpg",
     "addedDate": "2026-06-10"
   },
@@ -135,7 +175,11 @@
     "sourceUrl": "https://x.com/UtaAoya/status/2097089049026773462",
     "sourceSite": "X",
     "summary": "ATOMS3RとローカルAIの会話ロボットで、作り方を本に寄稿している。",
-    "tags": ["ATOMS3R", "ローカルAI", "スタックチャン"],
+    "tags": [
+      "ATOMS3R",
+      "ローカルAI",
+      "スタックチャン"
+    ],
     "thumbnail": "media/minimal.jpg",
     "addedDate": "2026-08-01"
   },
@@ -149,7 +193,12 @@
     "sourceUrl": "https://x.com/harshit87218175/status/2109187654978084975",
     "sourceSite": "X",
     "summary": "ESP32-S3とカメラで周りを見て、クラウドのLLMで考え、音声とサーボで反応する対話ロボット。",
-    "tags": ["ESP32-S3", "OV3660", "PCA9685", "LLM"],
+    "tags": [
+      "ESP32-S3",
+      "OV3660",
+      "PCA9685",
+      "LLM"
+    ],
     "thumbnail": "media/chibi.jpg",
     "addedDate": "2026-09-25"
   },
@@ -163,7 +212,13 @@
     "sourceUrl": "https://x.com/automo_emo/status/2101923813013549259",
     "sourceSite": "X",
     "summary": "ESP32ベースのボードでロボットアームを動かし、PCのシミュレータと100Hzで同期。",
-    "tags": ["ESP32", "Meridian", "Feetech", "SO-101", "UDP"],
+    "tags": [
+      "ESP32",
+      "Meridian",
+      "Feetech",
+      "SO-101",
+      "UDP"
+    ],
     "thumbnail": "media/meridian.jpg",
     "addedDate": "2026-08-28"
   },
@@ -177,7 +232,12 @@
     "sourceUrl": "https://www.navidnavab.com/organism-excitable-chaos",
     "sourceSite": "Prix Ars Electronica 2025",
     "summary": "ロボット三重振り子のカオス運動で、1910年製パイプオルガンの気流をサーボとバルブで変える。ゴールデン・ニカ受賞。",
-    "tags": ["三重振り子", "加速度センサー", "サーボ", "バルブ"],
+    "tags": [
+      "三重振り子",
+      "加速度センサー",
+      "サーボ",
+      "バルブ"
+    ],
     "thumbnail": null,
     "addedDate": "2025-09-10"
   },
@@ -191,7 +251,13 @@
     "sourceUrl": "https://hochschuh-donovan.com/portfolio/plasticity-of-mirrors/",
     "sourceSite": "Hochschuh & Donovan",
     "summary": "直径68mmの光る2輪ロボット10台の群れが観客の手と関わり合う。",
-    "tags": ["自作PCB", "ブラシレスモーター", "IMU", "RGB LED", "ハンドトラッキング"],
+    "tags": [
+      "自作PCB",
+      "ブラシレスモーター",
+      "IMU",
+      "RGB LED",
+      "ハンドトラッキング"
+    ],
     "thumbnail": null,
     "addedDate": "2025-11-20"
   },
@@ -205,7 +271,13 @@
     "sourceUrl": "https://michaelzhou.studio/creative-tech/wallaby-kinetic",
     "sourceSite": "michaelzhou.studio",
     "summary": "多数のステッピングモーターをネットワークで協調させるキネティック作品。",
-    "tags": ["ESP32-S3", "SAMD21", "TMC2209", "AS5600", "RS485"],
+    "tags": [
+      "ESP32-S3",
+      "SAMD21",
+      "TMC2209",
+      "AS5600",
+      "RS485"
+    ],
     "thumbnail": "media/wallaby.jpg",
     "addedDate": "2026-05-15"
   },
@@ -219,7 +291,12 @@
     "sourceUrl": "https://muzifang.cargo.site/pixel-chord",
     "sourceSite": "cargo.site",
     "summary": "ステッピングモーターをMIDIに対応させ、楽器として演奏させる。",
-    "tags": ["NEMA17", "DRV8825", "Arduino", "Max"],
+    "tags": [
+      "NEMA17",
+      "DRV8825",
+      "Arduino",
+      "Max"
+    ],
     "thumbnail": "media/pixel.jpg",
     "addedDate": "2026-03-22"
   },
@@ -233,7 +310,12 @@
     "sourceUrl": "https://www.sam-janssen.com/work-1/project-one-yrf8a-lc2jd-dgdlr-3kee8-gzph9",
     "sourceSite": "sam-janssen.com",
     "summary": "毎回違うパターンで回転し続けるCCTVカメラの作品。",
-    "tags": ["Arduino", "ステッピングモーター", "スリップリング", "CCTV"],
+    "tags": [
+      "Arduino",
+      "ステッピングモーター",
+      "スリップリング",
+      "CCTV"
+    ],
     "thumbnail": "media/together.jpg",
     "addedDate": "2026-07-08"
   },
@@ -247,7 +329,11 @@
     "sourceUrl": "https://www.scienceandmediamuseum.org.uk/about-us/press-office/national-science-and-media-museum-unveils-circus-nayan-kulkarni-brand-new",
     "sourceSite": "National Science and Media Museum",
     "summary": "観客を追うロボットカメラと固定カメラの映像を、家庭用テレビ上でリアルタイムに合成する。",
-    "tags": ["ロボットカメラ", "映像フィードバック", "TVモニター"],
+    "tags": [
+      "ロボットカメラ",
+      "映像フィードバック",
+      "TVモニター"
+    ],
     "thumbnail": null,
     "addedDate": "2026-09-15"
   },
@@ -261,7 +347,10 @@
     "sourceUrl": "https://x.com/hamuzou/status/2096435031480918121",
     "sourceSite": "X（紹介：はむぞう @hamuzou）",
     "summary": "藝祭2026の作品。モーターでススキの穂をなびかせるキネティックアートで、宮田亮平賞を受賞。",
-    "tags": ["モーター", "キネティック"],
+    "tags": [
+      "モーター",
+      "キネティック"
+    ],
     "thumbnail": "media/susuki.jpg",
     "addedDate": "2026-07-20"
   },
@@ -275,7 +364,12 @@
     "sourceUrl": "https://x.com/Behold3d/status/2084580861513515044",
     "sourceSite": "X（@Behold3d）",
     "summary": "Arduinoで制御するモーター付きのらせんが、糸でつった鳥を群れのように上下させる。",
-    "tags": ["Arduino", "モーター", "スチールらせん", "3Dプリント"],
+    "tags": [
+      "Arduino",
+      "モーター",
+      "スチールらせん",
+      "3Dプリント"
+    ],
     "thumbnail": "media/birds.jpg",
     "addedDate": "2026-05-28"
   },
@@ -289,8 +383,113 @@
     "sourceUrl": "https://x.com/KeiTsujimoto/status/2104880082989039647",
     "sourceSite": "X",
     "summary": "ESP32で動くロボットと音響を組み合わせたダンス作品の制作記録。",
-    "tags": ["ESP32", "ロボット", "音響", "ダンス"],
+    "tags": [
+      "ESP32",
+      "ロボット",
+      "音響",
+      "ダンス"
+    ],
     "thumbnail": "media/mo2.jpg",
     "addedDate": "2026-09-10"
+  },
+  {
+    "id": "whirly-loops",
+    "title": "Whirly Loops",
+    "artist": "Lieven Menschaert, Frederik De Bleser, Cèlia Tort Pujol（The Algorithmic Gaze）",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://algorithmicgaze.com/collaborations/whirly-loops/",
+    "sourceSite": "The Algorithmic Gaze（S.M.A.K.「Bow Echo」展, ゲント）",
+    "summary": "天井から吊るした5本の蛇腹チューブをモーターで回して風切り音で歌わせる作品。来場者の動きに反応し、誰もいないときは自動生成の楽譜を奏でる。",
+    "tags": [
+      "Arduino",
+      "モーター×5",
+      "ToFセンサー",
+      "MQTT",
+      "WiFi",
+      "サウンド"
+    ],
+    "thumbnail": "media/whirly-loops.jpg",
+    "addedDate": "2026-10-24"
+  },
+  {
+    "id": "g16-fragmentin",
+    "title": "G16",
+    "artist": "Fragmentin",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.fragment.in/artworks/g16/",
+    "sourceSite": "Fragmentin（Standard/Deluxe, ローザンヌ）",
+    "summary": "自動化・労働・AIに関わる16の指標を電動スライダーで表した円形のキネティック作品。来場者がスライダーを動かすと他の値が連動して崩れ、制御の限界を見せる。",
+    "tags": [
+      "マイコン",
+      "電動スライダー×16",
+      "アルミ",
+      "アクリル",
+      "インタラクティブ"
+    ],
+    "thumbnail": "media/g16-fragmentin.jpg",
+    "addedDate": "2026-10-24"
+  },
+  {
+    "id": "who-is-jumping-jack",
+    "title": "Who is jumping, Jack?",
+    "artist": "Nathalie Kronberger",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://ars.electronica.art/center/en/who-is-jumping-jack/",
+    "sourceSite": "Ars Electronica Center（TIME OUT .14 / Ars Electronica Festival 2026）",
+    "summary": "来場者の腕の動きをリアルタイムに読み取り、サーボで動くコルク抜きの列に置き換えるキネティック作品。操る側と操られる側の関係を問う。",
+    "tags": [
+      "サーボ",
+      "モーションキャプチャ",
+      "キネティック",
+      "インタラクティブ"
+    ],
+    "thumbnail": "media/who-is-jumping-jack.jpg",
+    "addedDate": "2026-10-24"
+  },
+  {
+    "id": "shape-shift-olwal",
+    "title": "SHAPE SHIFT",
+    "artist": "Alex Olwal",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://currentsnewmedia.org/work/shape-shift/",
+    "sourceSite": "CURRENTS 2026 Art & Technology Festival（サンタフェ）",
+    "summary": "電磁石の力で磁性流体を振り付けるキネティック彫刻のシリーズ。穏やかな波打ちから激しい衝突・分裂まで、制御と混沌のあいだの動きを見せる。",
+    "tags": [
+      "マイコン",
+      "電磁石",
+      "磁性流体",
+      "自作回路",
+      "ガラス",
+      "ミラー"
+    ],
+    "thumbnail": null,
+    "addedDate": "2026-10-24"
+  },
+  {
+    "id": "snailtube",
+    "title": "Snailtube",
+    "artist": "Moira（@Mo1ra_z）",
+    "year": 2021,
+    "category": "installation",
+    "source": "x",
+    "sourceUrl": "https://x.com/Mo1ra_z/status/2112188106615250956",
+    "sourceSite": "X",
+    "summary": "カタツムリの行動をセンサーで読み取り、生成映像に変えるインタラクティブ・インスタレーション。カタツムリの速度で観察する作品。",
+    "tags": [
+      "Arduino",
+      "TouchDesigner",
+      "センサー",
+      "生成映像"
+    ],
+    "thumbnail": "media/snailtube.jpg",
+    "addedDate": "2026-10-24"
   }
 ]
