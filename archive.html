@@ -159,11 +159,80 @@
     }
 
     .card-media img,
-    .card-media video {
+    .card-media video,
+    .card-media iframe {
       width: 100%;
       height: 100%;
       object-fit: cover;
       display: block;
+    }
+
+    .slideshow {
+      position: relative;
+      width: 100%;
+      height: 100%;
+    }
+
+    .slideshow-item {
+      display: none;
+      width: 100%;
+      height: 100%;
+    }
+
+    .slideshow-item.active {
+      display: block;
+    }
+
+    .slideshow-arrow {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      background: rgba(255, 255, 255, 0.9);
+      border: none;
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      cursor: pointer;
+      font-size: 1.2rem;
+      z-index: 5;
+      display: none;
+    }
+
+    .card-media:hover .slideshow-arrow {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .slideshow-arrow.prev {
+      left: 0.5rem;
+    }
+
+    .slideshow-arrow.next {
+      right: 0.5rem;
+    }
+
+    .slideshow-dots {
+      position: absolute;
+      bottom: 0.5rem;
+      left: 50%;
+      transform: translateX(-50%);
+      display: flex;
+      gap: 0.4rem;
+      z-index: 5;
+    }
+
+    .slideshow-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: rgba(255, 255, 255, 0.6);
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+
+    .slideshow-dot.active {
+      background: rgba(255, 255, 255, 1);
     }
 
     .card-media .placeholder {
@@ -204,6 +273,29 @@
 
     .card-favorite.favorited {
       background: #ffc107;
+    }
+
+    .btn-select-thumbnails {
+      position: absolute;
+      bottom: 0.75rem;
+      left: 0.75rem;
+      background: rgba(255, 255, 255, 0.95);
+      border: none;
+      border-radius: 16px;
+      padding: 0.4rem 0.8rem;
+      cursor: pointer;
+      font-size: 0.75rem;
+      z-index: 10;
+      transition: transform 0.2s;
+      display: none;
+    }
+
+    .card-media:hover .btn-select-thumbnails {
+      display: block;
+    }
+
+    .btn-select-thumbnails:hover {
+      transform: scale(1.05);
     }
 
     .card-body {
@@ -365,6 +457,78 @@
 
     .thumbnail-upload button:hover {
       background: #000;
+    }
+
+    .candidate-selector {
+      margin-top: 1rem;
+      padding: 1rem;
+      background: #f8f9fa;
+      border-radius: 8px;
+    }
+
+    .candidate-selector h4 {
+      font-size: 0.9rem;
+      margin-bottom: 0.75rem;
+    }
+
+    .candidate-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+      gap: 0.75rem;
+      margin-bottom: 1rem;
+    }
+
+    .candidate-item {
+      position: relative;
+      aspect-ratio: 5/3;
+      background: #fff;
+      border: 2px solid #dee2e6;
+      border-radius: 6px;
+      overflow: hidden;
+      cursor: pointer;
+      transition: border-color 0.2s;
+    }
+
+    .candidate-item:hover {
+      border-color: #6c757d;
+    }
+
+    .candidate-item.selected {
+      border-color: #212529;
+      border-width: 3px;
+    }
+
+    .candidate-item img,
+    .candidate-item video {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .candidate-order {
+      position: absolute;
+      top: 0.25rem;
+      left: 0.25rem;
+      background: #212529;
+      color: #fff;
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.75rem;
+      font-weight: 600;
+    }
+
+    .candidate-item.selected .candidate-order {
+      display: flex;
+    }
+
+    .candidate-controls {
+      display: flex;
+      gap: 0.5rem;
+      flex-wrap: wrap;
     }
 
     .settings-panel {
@@ -624,7 +788,7 @@
 
   <script>
     let works = [];
-    let userData = { favorites: [], thumbnailOverrides: {} };
+    let userData = { favorites: [], thumbnails: {} };
     let currentFilter = 'all';
     let searchTerm = '';
 
@@ -656,6 +820,16 @@
             const data = await response.json();
             const content = atob(data.content);
             userData = JSON.parse(content);
+            
+            // Migrate thumbnailOverrides to thumbnails format
+            if (userData.thumbnailOverrides && !userData.thumbnails) {
+              userData.thumbnails = {};
+              for (const [id, thumb] of Object.entries(userData.thumbnailOverrides)) {
+                userData.thumbnails[id] = [thumb];
+              }
+              delete userData.thumbnailOverrides;
+            }
+            
             userData.sha = data.sha;
             return;
           }
@@ -667,6 +841,15 @@
       const localData = localStorage.getItem('user-data');
       if (localData) {
         userData = JSON.parse(localData);
+        
+        // Migrate thumbnailOverrides to thumbnails format
+        if (userData.thumbnailOverrides && !userData.thumbnails) {
+          userData.thumbnails = {};
+          for (const [id, thumb] of Object.entries(userData.thumbnailOverrides)) {
+            userData.thumbnails[id] = [thumb];
+          }
+          delete userData.thumbnailOverrides;
+        }
       }
     }
 
@@ -677,7 +860,7 @@
         try {
           const content = btoa(JSON.stringify({
             favorites: userData.favorites,
-            thumbnailOverrides: userData.thumbnailOverrides
+            thumbnails: userData.thumbnails
           }, null, 2));
           
           const response = await fetch('https://api.github.com/repos/mqce/quest/contents/data/user.json', {
@@ -708,11 +891,23 @@
       localStorage.setItem('user-data', JSON.stringify(userData));
     }
 
-    function getThumbnail(work) {
-      if (userData.thumbnailOverrides[work.id]) {
-        return userData.thumbnailOverrides[work.id];
+    function getThumbnails(work) {
+      // Return user-selected thumbnails or default
+      if (userData.thumbnails[work.id] && userData.thumbnails[work.id].length > 0) {
+        return userData.thumbnails[work.id];
       }
-      return work.thumbnail;
+      
+      // Fall back to work's default thumbnail
+      if (work.thumbnail) {
+        return [work.thumbnail];
+      }
+      
+      // Fall back to first candidate if available
+      if (work.candidates && work.candidates.length > 0) {
+        return [work.candidates[0].src];
+      }
+      
+      return [];
     }
 
     function isFavorited(workId) {
@@ -804,15 +999,45 @@
     }
 
     function createCard(work) {
-      const thumbnail = getThumbnail(work);
+      const thumbnails = getThumbnails(work);
       const favorited = isFavorited(work.id);
+      const hasCandidates = work.candidates && work.candidates.length > 0;
       
       let mediaHtml = '';
-      if (thumbnail) {
-        if (thumbnail.match(/\.(mp4|webm)$/i)) {
-          mediaHtml = `<video src="${thumbnail}" muted loop autoplay playsinline></video>`;
+      if (thumbnails.length > 0) {
+        if (thumbnails.length === 1) {
+          // Single thumbnail - no slideshow
+          const thumb = thumbnails[0];
+          if (thumb.match(/\.(mp4|webm)$/i)) {
+            mediaHtml = `<video src="${thumb}" muted loop autoplay playsinline></video>`;
+          } else {
+            mediaHtml = `<img src="${thumb}" alt="${work.title}" loading="lazy">`;
+          }
         } else {
-          mediaHtml = `<img src="${thumbnail}" alt="${work.title}" loading="lazy">`;
+          // Multiple thumbnails - slideshow
+          mediaHtml = `<div class="slideshow" data-work-id="${work.id}">`;
+          thumbnails.forEach((thumb, idx) => {
+            if (thumb.match(/\.(mp4|webm)$/i)) {
+              mediaHtml += `<div class="slideshow-item ${idx === 0 ? 'active' : ''}">
+                <video src="${thumb}" muted loop ${idx === 0 ? 'autoplay' : ''} playsinline></video>
+              </div>`;
+            } else if (thumb.match(/youtube\.com\/embed|player\.vimeo\.com/)) {
+              mediaHtml += `<div class="slideshow-item ${idx === 0 ? 'active' : ''}">
+                <iframe src="${thumb}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen loading="lazy"></iframe>
+              </div>`;
+            } else {
+              mediaHtml += `<div class="slideshow-item ${idx === 0 ? 'active' : ''}">
+                <img src="${thumb}" alt="${work.title}" loading="lazy">
+              </div>`;
+            }
+          });
+          mediaHtml += `
+            <button class="slideshow-arrow prev" onclick="event.stopPropagation(); prevSlide('${work.id}')">‹</button>
+            <button class="slideshow-arrow next" onclick="event.stopPropagation(); nextSlide('${work.id}')">›</button>
+            <div class="slideshow-dots">
+              ${thumbnails.map((_, idx) => `<div class="slideshow-dot ${idx === 0 ? 'active' : ''}" onclick="event.stopPropagation(); goToSlide('${work.id}', ${idx})"></div>`).join('')}
+            </div>
+          </div>`;
         }
       } else {
         mediaHtml = `<div class="placeholder">サムネイル未設定<br>（詳細から追加できます）</div>`;
@@ -826,6 +1051,7 @@
                     onclick="event.stopPropagation(); toggleFavorite('${work.id}')">
               ${favorited ? '★' : '☆'}
             </button>
+            ${hasCandidates ? `<button class="btn-select-thumbnails" onclick="event.stopPropagation(); openCandidateSelector('${work.id}')">サムネイルを選ぶ</button>` : ''}
           </div>
           <div class="card-body">
             <div class="card-title">${work.title}</div>
@@ -843,6 +1069,154 @@
       `;
     }
 
+    function prevSlide(workId) {
+      const slideshow = document.querySelector(`.slideshow[data-work-id="${workId}"]`);
+      if (!slideshow) return;
+      
+      const items = slideshow.querySelectorAll('.slideshow-item');
+      const dots = slideshow.querySelectorAll('.slideshow-dot');
+      const activeIdx = Array.from(items).findIndex(item => item.classList.contains('active'));
+      
+      items[activeIdx].classList.remove('active');
+      dots[activeIdx].classList.remove('active');
+      
+      const newIdx = (activeIdx - 1 + items.length) % items.length;
+      items[newIdx].classList.add('active');
+      dots[newIdx].classList.add('active');
+    }
+
+    function nextSlide(workId) {
+      const slideshow = document.querySelector(`.slideshow[data-work-id="${workId}"]`);
+      if (!slideshow) return;
+      
+      const items = slideshow.querySelectorAll('.slideshow-item');
+      const dots = slideshow.querySelectorAll('.slideshow-dot');
+      const activeIdx = Array.from(items).findIndex(item => item.classList.contains('active'));
+      
+      items[activeIdx].classList.remove('active');
+      dots[activeIdx].classList.remove('active');
+      
+      const newIdx = (activeIdx + 1) % items.length;
+      items[newIdx].classList.add('active');
+      dots[newIdx].classList.add('active');
+    }
+
+    function goToSlide(workId, idx) {
+      const slideshow = document.querySelector(`.slideshow[data-work-id="${workId}"]`);
+      if (!slideshow) return;
+      
+      const items = slideshow.querySelectorAll('.slideshow-item');
+      const dots = slideshow.querySelectorAll('.slideshow-dot');
+      
+      items.forEach(item => item.classList.remove('active'));
+      dots.forEach(dot => dot.classList.remove('active'));
+      
+      items[idx].classList.add('active');
+      dots[idx].classList.add('active');
+    }
+
+    function openCandidateSelector(workId) {
+      const work = works.find(w => w.id === workId);
+      if (!work || !work.candidates) return;
+      
+      const modal = document.getElementById('modal');
+      const modalMedia = document.getElementById('modal-media');
+      const modalBody = document.getElementById('modal-body');
+      
+      modalMedia.innerHTML = '';
+      
+      const selectedThumbnails = userData.thumbnails[workId] || [];
+      
+      modalBody.innerHTML = `
+        <h2>サムネイルを選択 - ${work.title}</h2>
+        <div class="candidate-selector">
+          <h4>候補一覧（クリックして選択、複数選択可）</h4>
+          <div class="candidate-grid" id="candidate-grid">
+            ${work.candidates.map((candidate, idx) => {
+              const isSelected = selectedThumbnails.includes(candidate.src);
+              const order = selectedThumbnails.indexOf(candidate.src) + 1;
+              let thumbHtml = '';
+              
+              if (candidate.type === 'video') {
+                if (candidate.poster) {
+                  thumbHtml = `<img src="${candidate.poster}" alt="Video thumbnail" loading="lazy">`;
+                } else {
+                  thumbHtml = `<div style="display: flex; align-items: center; justify-content: center; height: 100%; background: #e9ecef; font-size: 2rem;">▶</div>`;
+                }
+              } else {
+                thumbHtml = `<img src="${candidate.src}" alt="Candidate ${idx + 1}" loading="lazy">`;
+              }
+              
+              return `
+                <div class="candidate-item ${isSelected ? 'selected' : ''}" 
+                     data-src="${candidate.src}" 
+                     onclick="toggleCandidate('${workId}', '${candidate.src.replace(/'/g, "\\'")}')">
+                  ${thumbHtml}
+                  <div class="candidate-order">${order || ''}</div>
+                </div>
+              `;
+            }).join('')}
+          </div>
+          
+          <div class="candidate-controls">
+            <button onclick="saveThumbnailSelection('${work.id}')">保存</button>
+            <button onclick="closeModal()" class="btn-secondary">キャンセル</button>
+            ${selectedThumbnails.length > 0 ? `<button onclick="clearThumbnailSelection('${work.id}')" class="btn-secondary">選択をクリア</button>` : ''}
+          </div>
+        </div>
+      `;
+      
+      modal.classList.add('show');
+    }
+
+    function toggleCandidate(workId, src) {
+      if (!userData.thumbnails[workId]) {
+        userData.thumbnails[workId] = [];
+      }
+      
+      const thumbnails = userData.thumbnails[workId];
+      const idx = thumbnails.indexOf(src);
+      
+      if (idx >= 0) {
+        thumbnails.splice(idx, 1);
+      } else {
+        thumbnails.push(src);
+      }
+      
+      // Update UI
+      const candidateItem = document.querySelector(`.candidate-item[data-src="${src.replace(/"/g, '&quot;')}"]`);
+      if (candidateItem) {
+        if (idx >= 0) {
+          candidateItem.classList.remove('selected');
+        } else {
+          candidateItem.classList.add('selected');
+        }
+        
+        // Update order numbers
+        document.querySelectorAll('.candidate-item').forEach(item => {
+          const itemSrc = item.getAttribute('data-src');
+          const order = thumbnails.indexOf(itemSrc) + 1;
+          const orderEl = item.querySelector('.candidate-order');
+          if (orderEl) {
+            orderEl.textContent = order || '';
+          }
+        });
+      }
+    }
+
+    async function saveThumbnailSelection(workId) {
+      await saveUserData();
+      closeModal();
+      renderGallery();
+    }
+
+    async function clearThumbnailSelection(workId) {
+      delete userData.thumbnails[workId];
+      await saveUserData();
+      closeModal();
+      renderGallery();
+    }
+
     function openModal(workId) {
       const work = works.find(w => w.id === workId);
       if (!work) return;
@@ -851,20 +1225,25 @@
       const modalMedia = document.getElementById('modal-media');
       const modalBody = document.getElementById('modal-body');
       
-      const thumbnail = getThumbnail(work);
+      const thumbnails = getThumbnails(work);
       
       let mediaHtml = '';
-      if (thumbnail) {
-        if (thumbnail.match(/\.(mp4|webm)$/i)) {
-          mediaHtml = `<video src="${thumbnail}" controls style="max-width: 100%; max-height: 400px;"></video>`;
+      if (thumbnails.length > 0) {
+        const thumb = thumbnails[0];
+        if (thumb.match(/\.(mp4|webm)$/i)) {
+          mediaHtml = `<video src="${thumb}" controls style="max-width: 100%; max-height: 400px;"></video>`;
+        } else if (thumb.match(/youtube\.com\/embed|player\.vimeo\.com/)) {
+          mediaHtml = `<iframe src="${thumb}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="width: 100%; height: 400px;"></iframe>`;
         } else {
-          mediaHtml = `<img src="${thumbnail}" alt="${work.title}">`;
+          mediaHtml = `<img src="${thumb}" alt="${work.title}">`;
         }
       } else {
         mediaHtml = `<div style="padding: 2rem; color: #6c757d;">サムネイル未設定</div>`;
       }
       
       modalMedia.innerHTML = mediaHtml;
+      
+      const hasCandidates = work.candidates && work.candidates.length > 0;
       
       modalBody.innerHTML = `
         <h2>${work.title}</h2>
@@ -880,12 +1259,19 @@
         </p>
         <a href="${work.sourceUrl}" target="_blank" rel="noopener noreferrer" style="color: #0d6efd;">元ページを開く →</a>
         
+        ${hasCandidates ? `
         <div class="thumbnail-upload">
-          <h4>サムネイルを変更</h4>
+          <h4>サムネイル候補から選ぶ</h4>
+          <button onclick="openCandidateSelector('${work.id}')">候補一覧を開く（${work.candidates.length}個）</button>
+        </div>
+        ` : ''}
+        
+        <div class="thumbnail-upload">
+          <h4>URLから追加</h4>
           <input type="text" id="thumbnail-url" placeholder="画像または動画のURL（https://...）">
           <input type="file" id="thumbnail-file" accept="image/*,video/*">
           <button onclick="updateThumbnail('${work.id}')">適用</button>
-          ${thumbnail ? `<button onclick="resetThumbnail('${work.id}')" class="btn-secondary">元に戻す</button>` : ''}
+          ${thumbnails.length > 0 ? `<button onclick="resetThumbnail('${work.id}')" class="btn-secondary">元に戻す</button>` : ''}
         </div>
       `;
       
@@ -901,7 +1287,10 @@
       const fileInput = document.getElementById('thumbnail-file');
       
       if (urlInput.value) {
-        userData.thumbnailOverrides[workId] = urlInput.value;
+        if (!userData.thumbnails[workId]) {
+          userData.thumbnails[workId] = [];
+        }
+        userData.thumbnails[workId].push(urlInput.value);
         await saveUserData();
         closeModal();
         renderGallery();
@@ -911,6 +1300,7 @@
         
         reader.onload = async (e) => {
           const localToken = localStorage.getItem('github-token');
+          let thumbnailUrl = e.target.result;
           
           if (localToken) {
             try {
@@ -925,24 +1315,23 @@
                   'Content-Type': 'application/json'
                 },
                 body: JSON.stringify({
-                  message: `Add thumbnail override for ${workId}`,
+                  message: `Add thumbnail for ${workId}`,
                   content: content
                 })
               });
               
               if (response.ok) {
-                userData.thumbnailOverrides[workId] = fileName;
-                await saveUserData();
-                closeModal();
-                renderGallery();
-                return;
+                thumbnailUrl = fileName;
               }
             } catch (e) {
               console.warn('Failed to upload to GitHub', e);
             }
           }
           
-          userData.thumbnailOverrides[workId] = e.target.result;
+          if (!userData.thumbnails[workId]) {
+            userData.thumbnails[workId] = [];
+          }
+          userData.thumbnails[workId].push(thumbnailUrl);
           await saveUserData();
           closeModal();
           renderGallery();
@@ -953,7 +1342,7 @@
     }
 
     async function resetThumbnail(workId) {
-      delete userData.thumbnailOverrides[workId];
+      delete userData.thumbnails[workId];
       await saveUserData();
       closeModal();
       renderGallery();
@@ -979,6 +1368,41 @@
           closeModal();
         }
       });
+      
+      // Touch/swipe support for slideshows
+      setupSwipeSupport();
+    }
+
+    function setupSwipeSupport() {
+      let touchStartX = 0;
+      let touchEndX = 0;
+      
+      document.addEventListener('touchstart', (e) => {
+        const slideshow = e.target.closest('.slideshow');
+        if (!slideshow) return;
+        touchStartX = e.changedTouches[0].screenX;
+      });
+      
+      document.addEventListener('touchend', (e) => {
+        const slideshow = e.target.closest('.slideshow');
+        if (!slideshow) return;
+        touchEndX = e.changedTouches[0].screenX;
+        handleSwipe(slideshow);
+      });
+      
+      function handleSwipe(slideshow) {
+        const threshold = 50;
+        const diff = touchStartX - touchEndX;
+        
+        if (Math.abs(diff) < threshold) return;
+        
+        const workId = slideshow.getAttribute('data-work-id');
+        if (diff > 0) {
+          nextSlide(workId);
+        } else {
+          prevSlide(workId);
+        }
+      }
     }
 
     function openSettings() {
