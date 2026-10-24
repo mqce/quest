@@ -917,5 +917,131 @@
         "origin": "https://x.com/Mo1ra_z/status/2112188106615250956"
       }
     ]
+  },
+  {
+    "id": "timber-timbre",
+    "title": "Timber / Timbre",
+    "artist": "真鍋大度 x カリモク家具",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://projects.daito.ws/timber-timbre/",
+    "sourceSite": "Machines of Loving Grace（KARIMOKU RESEARCH CENTER、東京）",
+    "summary": "カリモク製の木製ケースに収めたモジュラーシンセサイザー、植物の電位センサー、Claude AIによる自律的な音と映像の生成を組み合わせたインスタレーション。制御電圧で音と映像を同期させ、植物と来場者の動きが音を揺らす。家具と楽器のあいだを探る作品。",
+    "tags": [
+      "モジュラーシンセ",
+      "Claude AI",
+      "植物センサー",
+      "制御電圧",
+      "木工",
+      "サウンド"
+    ],
+    "thumbnail": null,
+    "addedDate": "2026-10-25",
+    "candidates": []
+  },
+  {
+    "id": "schattenrequisit-column",
+    "title": "Schattenrequisit: Column",
+    "artist": "Youtaro Sakamoto",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.designboom.com/art/youtaro-sakamoto-kinetic-thread-column-human-presence-shifting-shadows-schattenrequisit/",
+    "sourceSite": "designboom（日比谷 OKUROJI、東京）",
+    "summary": "細い糸で構成された円柱状のキネティックインスタレーション。ミリ波センサーで来場者の接近を検知し、ステッピングモーターで糸の束をゆっくり回転させて、影の形を変化させる。日本の簾（すだれ）から着想を得た、建築の静と人の動きの関係を探る作品。",
+    "tags": [
+      "ステッピングモーター",
+      "ミリ波センサー",
+      "キネティック",
+      "糸",
+      "影"
+    ],
+    "thumbnail": null,
+    "addedDate": "2026-10-25",
+    "candidates": []
+  },
+  {
+    "id": "mushroom-robot",
+    "title": "Mushroom Robot（きのこロボット）",
+    "artist": "Shirokuma（しろくまMAKE）",
+    "year": 2026,
+    "category": "small-robot",
+    "source": "web",
+    "sourceUrl": "https://shirokumamake.com/blog/kinoko-robot-at-hakubutufes12",
+    "sourceSite": "Hakubutsu Festa! 12（2026年7月、東京）",
+    "summary": "顔のないキノコ型ロボット。ESP32-S3と2つのサーボで首を振り、呼吸するように揺れる。横の葉に触れるとチルトセンサーが反応し、触られた方向を向く。動きだけで感情を伝える実験作品。",
+    "tags": [
+      "ESP32-S3",
+      "サーボ×2",
+      "チルトセンサー",
+      "インタラクティブ"
+    ],
+    "thumbnail": null,
+    "addedDate": "2026-10-25",
+    "candidates": []
+  },
+  {
+    "id": "sybil-mitterberger",
+    "title": "Sybil",
+    "artist": "Daniela Mitterberger, MAEID",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://ars.electronica.art/negotiatinghumanity/en/view/sybil-38938ddb450c816db093e78c21f4f4e3/",
+    "sourceSite": "Ars Electronica Festival 2026（リンツ）",
+    "summary": "来場者が砂に描いた線をカメラで追跡し、UR10eロボットアームが種を埋め込んだネットに水を吹きかけるインタラクティブ作品。人の意図、アルゴリズム、生物の成長が重なり、未来を「予測」ではなく「育てる」ものとして提示する。",
+    "tags": [
+      "UR10eロボットアーム",
+      "カメラトラッキング",
+      "種と成長",
+      "インタラクティブ",
+      "マルチモーダル"
+    ],
+    "thumbnail": null,
+    "addedDate": "2026-10-25",
+    "candidates": []
+  },
+  {
+    "id": "capture-resemble",
+    "title": "Capture / Resemble",
+    "artist": "Andreas Lutz",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://andreaslutz.com/capture-resemble/",
+    "sourceSite": "SLASH SLASH Festival 2026（ディジョン、フランス）",
+    "summary": "来場者の顔と表情をカメラで捉え、XYZアクチュエーターが抽象的な動きに変換するインタラクティブ彫刻。AIエージェントのように各訪問者の特徴を学習・記憶し、後で統合して人間と機械の普遍的な振り付けを探る。",
+    "tags": [
+      "カメラ",
+      "XYZアクチュエーター",
+      "AI学習",
+      "LED",
+      "顔認識"
+    ],
+    "thumbnail": null,
+    "addedDate": "2026-10-25",
+    "candidates": []
+  },
+  {
+    "id": "fragmentations-unity",
+    "title": "Fragmentations of Unity",
+    "artist": "So Kanno, Takuro Yonezawa, Yutaro Kyono",
+    "year": 2025,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.kanno.so/project/fragmentations-of-unity",
+    "sourceSite": "Common Nexus STEAM Gallery（愛知、2025年）",
+    "summary": "天井から吊るされた29本の半透明チューブが群れとして振る舞うロボット光インスタレーション。各ユニットは回転機構、RGB LED、サーマルセンサーを内蔵し、来場者の存在に反応して向きと色を変える。個と社会の関係を問う。",
+    "tags": [
+      "RGB LED×29",
+      "サーマルセンサー",
+      "回転機構",
+      "群れ行動",
+      "インタラクティブ"
+    ],
+    "thumbnail": null,
+    "addedDate": "2026-10-25",
+    "candidates": []
   }
 ]
