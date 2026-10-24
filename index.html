@@ -21,7 +21,7 @@
     .header {
       background: #fff;
       border-bottom: 1px solid #e9ecef;
-      padding: 1.5rem 1rem;
+      padding: 1rem;
       position: sticky;
       top: 0;
       z-index: 100;
@@ -34,15 +34,36 @@
     }
 
     h1 {
-      font-size: 1.75rem;
-      margin-bottom: 0.5rem;
+      font-size: 1.5rem;
+      margin-bottom: 0.25rem;
       color: #000;
     }
 
     .subtitle {
       color: #6c757d;
+      font-size: 0.85rem;
+      margin-bottom: 0.75rem;
+    }
+
+    .nav-links {
+      margin-bottom: 0.75rem;
+    }
+
+    .nav-links a {
+      color: #0d6efd;
+      text-decoration: none;
       font-size: 0.9rem;
+    }
+
+    .nav-links a:hover {
+      text-decoration: underline;
+    }
+
+    .page-heading {
+      font-size: 1.25rem;
+      font-weight: 600;
       margin-bottom: 1rem;
+      color: #000;
     }
 
     .controls {
@@ -420,6 +441,96 @@
       color: #6c757d;
     }
 
+    .menu-toggle {
+      display: none;
+      padding: 0.4rem 0.9rem;
+      border: 1px solid #dee2e6;
+      background: #fff;
+      border-radius: 20px;
+      cursor: pointer;
+      font-size: 0.875rem;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    @media (max-width: 640px) {
+      .header {
+        padding: 0.35rem 0.5rem;
+        position: relative;
+      }
+
+      h1 {
+        font-size: 0.78rem;
+        line-height: 1.25;
+        margin-bottom: 0.15rem;
+      }
+
+      .subtitle {
+        font-size: 0.65rem;
+        margin-bottom: 0.25rem;
+        line-height: 1.2;
+      }
+
+      .nav-links {
+        margin-bottom: 0.25rem;
+      }
+
+      .nav-links a {
+        font-size: 0.7rem;
+      }
+
+      .page-heading {
+        font-size: 1rem;
+        margin-bottom: 0.75rem;
+      }
+
+      .menu-toggle {
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        padding: 0.3rem 0.7rem;
+        font-size: 0.75rem;
+      }
+
+      .controls {
+        display: none;
+        flex-direction: column;
+        align-items: stretch;
+        margin-top: 0.3rem;
+        gap: 0.3rem;
+      }
+
+      .controls.show {
+        display: flex;
+      }
+
+      .btn-filter {
+        padding: 0.3rem 0.7rem;
+        font-size: 0.75rem;
+      }
+
+      .btn-settings {
+        margin-left: 0;
+        padding: 0.3rem 0.7rem;
+        font-size: 0.75rem;
+      }
+
+      .search-box {
+        max-width: 100%;
+        padding: 0.3rem 0.7rem;
+        font-size: 0.75rem;
+      }
+
+      .container {
+        padding: 1rem 0.5rem;
+      }
+
+      .grid {
+        grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+        gap: 1rem;
+      }
+    }
+
     @media (max-width: 768px) {
       h1 {
         font-size: 1.4rem;
@@ -450,8 +561,16 @@
     <div class="header-content">
       <h1>インスタレーション＆小型ロボット作品ギャラリー</h1>
       <p class="subtitle">マイコンを使ったロボット作品や、モーターとディスプレイを使ったインスタレーションアート</p>
+      <div class="nav-links">
+        <a href="archive.html">過去の作品を見る →</a>
+      </div>
       
-      <div class="controls">
+      <button class="menu-toggle" onclick="toggleMenu()">
+        <span>🔍</span>
+        <span id="menu-toggle-text">フィルタを表示</span>
+      </button>
+
+      <div class="controls" id="controls">
         <button class="btn-filter active" data-filter="all">すべて</button>
         <button class="btn-filter" data-filter="category:installation">インスタレーション</button>
         <button class="btn-filter" data-filter="category:small-robot">小型ロボット</button>
@@ -465,6 +584,7 @@
   </div>
 
   <div class="container">
+    <h2 class="page-heading" id="page-heading"></h2>
     <div class="grid" id="gallery"></div>
     <div class="empty-state" id="empty-state" style="display: none;">
       <p>該当する作品が見つかりませんでした。</p>
@@ -613,21 +733,38 @@
       renderGallery();
     }
 
+    function toggleMenu() {
+      const controls = document.getElementById('controls');
+      const toggleText = document.getElementById('menu-toggle-text');
+      const isVisible = controls.classList.contains('show');
+      
+      if (isVisible) {
+        controls.classList.remove('show');
+        toggleText.textContent = 'フィルタを表示';
+      } else {
+        controls.classList.add('show');
+        toggleText.textContent = 'フィルタを閉じる';
+      }
+    }
+
     function renderGallery() {
       const gallery = document.getElementById('gallery');
       const emptyState = document.getElementById('empty-state');
+      const pageHeading = document.getElementById('page-heading');
       
-      let filtered = works;
+      const latestDate = works.reduce((max, w) => w.addedDate > max ? w.addedDate : max, '');
+      
+      let filtered = works.filter(w => w.addedDate === latestDate);
       
       if (currentFilter !== 'all') {
         if (currentFilter === 'favorites') {
-          filtered = works.filter(w => isFavorited(w.id));
+          filtered = filtered.filter(w => isFavorited(w.id));
         } else if (currentFilter.startsWith('category:')) {
           const category = currentFilter.split(':')[1];
-          filtered = works.filter(w => w.category === category);
+          filtered = filtered.filter(w => w.category === category);
         } else if (currentFilter.startsWith('source:')) {
           const source = currentFilter.split(':')[1];
-          filtered = works.filter(w => w.source === source);
+          filtered = filtered.filter(w => w.source === source);
         }
       }
       
@@ -638,6 +775,8 @@
           w.artist.toLowerCase().includes(searchTerm.toLowerCase())
         );
       }
+      
+      pageHeading.textContent = `${latestDate} に追加した作品（${filtered.length}件）`;
       
       if (filtered.length === 0) {
         gallery.innerHTML = '';

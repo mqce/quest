@@ -4,16 +4,19 @@
 
 ## 🌐 公開URL
 
-https://mqce.github.io/quest/
+- **トップページ**: https://mqce.github.io/quest/
+- **アーカイブ**: https://mqce.github.io/quest/archive.html
 
 ## ✨ 機能
 
+- **最新作品の表示**: トップページには最新の追加日の作品のみを表示
+- **アーカイブページ**: 過去の全作品を追加日ごとにグループ化して表示
 - **カードグリッド表示**: 画像・動画サムネイル対応（自動再生、ループ）
 - **フィルタリング**: カテゴリ（インスタレーション / 小型ロボット）、出典（Web / X）、お気に入り、タグ検索
 - **お気に入り**: 作品にスターマークを付けて管理
 - **サムネイル変更**: 作品ごとにサムネイルを追加・変更可能
 - **データ永続化**: GitHubトークンで複数デバイス間で同期、またはブラウザのlocalStorageに保存
-- **モバイル対応**: レスポンシブデザイン
+- **モバイル対応**: レスポンシブデザイン、スマートフォンでも見やすいコンパクトなヘッダー
 
 ## 🚀 初回セットアップ（オーナー向け）
 
@@ -75,7 +78,9 @@ https://mqce.github.io/quest/
 - **summary**: 日本語の説明文
 - **tags**: タグの配列（技術要素など）
 - **thumbnail**: 画像または動画のパス（`media/` 以下）、またはURL。`null` でプレースホルダー表示
-- **addedDate**: 追加日（YYYY-MM-DD形式）
+- **addedDate**: **このギャラリーサイトへの追加日**（YYYY-MM-DD形式、必須）
+  - 作品の元の公開日ではなく、このサイトに追加した日付を記入してください
+  - トップページには最新の `addedDate` の作品のみが表示されます
 
 ### ユーザーデータ（`data/user.json`）
 
@@ -105,6 +110,8 @@ https://mqce.github.io/quest/
 curl -o media/new-work.jpg "https://example.com/image.jpg"
 
 # 2. works.json に追記（jq 使用例）
+# ⚠️ addedDate には必ず今日の日付（YYYY-MM-DD）を記入してください
+TODAY=$(date +%Y-%m-%d)
 jq '. += [{
   "id": "new-work",
   "title": "新作品",
@@ -117,7 +124,7 @@ jq '. += [{
   "summary": "作品の説明",
   "tags": ["Arduino", "モーター"],
   "thumbnail": "media/new-work.jpg",
-  "addedDate": "2026-10-22"
+  "addedDate": "'"$TODAY"'"
 }]' data/works.json > data/works.tmp.json && mv data/works.tmp.json data/works.json
 
 # 3. コミット＆プッシュ
@@ -125,6 +132,12 @@ git add data/works.json media/new-work.jpg
 git commit -m "Add new work: 新作品"
 git push
 ```
+
+### 重要：addedDate について
+
+- `addedDate` には**必ず**作品を追加した日付を記入してください
+- トップページには最新の `addedDate` の作品のみが表示されます
+- 過去の作品はアーカイブページ（archive.html）で日付ごとにグループ化されて表示されます
 
 ### サムネイルについて
 
@@ -150,7 +163,8 @@ python3 -m http.server 8000
 
 ```
 .
-├── index.html          # メインHTML
+├── index.html          # トップページ（最新作品）
+├── archive.html        # アーカイブページ（全作品）
 ├── data/
 │   ├── works.json      # 作品データ
 │   └── user.json       # ユーザーデータ（お気に入り等）
@@ -163,14 +177,18 @@ python3 -m http.server 8000
         └── deploy.yml  # GitHub Pages デプロイ設定
 ```
 
-## 📝 シードデータ
+## 📝 作品データ
 
-初期データとして21作品を登録済み：
+現在26作品を登録済み：
 
-- **小型ロボット**: 12作品（Sesame, TongDou, BugBot, NeuroMouse, TN-24, Rover, ダイアル・ナイツ、AtomDog、猫型ロボット、Stack-Chan Minimal、Chibi Ram、Meridian）
-- **インスタレーション**: 9作品（Organism + Excitable Chaos, Plasticity of Mirrors, Wallaby Kinetic, Pixel Chord, Together, Circus, 機械仕掛けのススキ, Birds In Flight, 舞台作品「模#2」）
+- **2026-10-22 追加**: 21作品
+  - 小型ロボット: 12作品
+  - インスタレーション: 9作品
+- **2026-10-24 追加**: 5作品
+  - Whirly Loops, G16, Who is jumping, Jack?, SHAPE SHIFT, Snailtube
 
-画像未設定の作品（Organism + Excitable Chaos, Plasticity of Mirrors, Circus）はプレースホルダー表示され、サイト上から追加可能です。
+トップページには最新の追加日（2026-10-24）の5作品が表示されます。
+過去の作品はアーカイブページで閲覧できます。
 
 ## 📄 ライセンス
 

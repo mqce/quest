@@ -15,7 +15,7 @@
       "OLED"
     ],
     "thumbnail": "media/sesame.jpg",
-    "addedDate": "2026-01-24"
+    "addedDate": "2026-10-22"
   },
   {
     "id": "tongdou",
@@ -35,7 +35,7 @@
       "ギアモーター"
     ],
     "thumbnail": "media/tongdou.jpg",
-    "addedDate": "2026-07-31"
+    "addedDate": "2026-10-22"
   },
   {
     "id": "bugbot",
@@ -54,7 +54,7 @@
       "TinyML"
     ],
     "thumbnail": "media/bugbot.jpg",
-    "addedDate": "2026-01-15"
+    "addedDate": "2026-10-22"
   },
   {
     "id": "neuro",
@@ -73,7 +73,7 @@
       "MPU-6500"
     ],
     "thumbnail": "media/neuro.jpg",
-    "addedDate": "2026-03-10"
+    "addedDate": "2026-10-22"
   },
   {
     "id": "tn24",
@@ -92,7 +92,7 @@
       "OLED"
     ],
     "thumbnail": "media/tn24.jpg",
-    "addedDate": "2026-02-05"
+    "addedDate": "2026-10-22"
   },
   {
     "id": "rover",
@@ -111,7 +111,7 @@
       "18650"
     ],
     "thumbnail": "media/rover.jpg",
-    "addedDate": "2026-04-12"
+    "addedDate": "2026-10-22"
   },
   {
     "id": "dial",
@@ -128,7 +128,7 @@
       "クローラー"
     ],
     "thumbnail": "media/dial.jpg",
-    "addedDate": "2026-08-15"
+    "addedDate": "2026-10-22"
   },
   {
     "id": "atomdog",
@@ -146,7 +146,7 @@
       "3Dプリント"
     ],
     "thumbnail": "media/atomdog.jpg",
-    "addedDate": "2026-08-20"
+    "addedDate": "2026-10-22"
   },
   {
     "id": "neko",
@@ -163,7 +163,7 @@
       "スタックチャン"
     ],
     "thumbnail": "media/neko.jpg",
-    "addedDate": "2026-06-10"
+    "addedDate": "2026-10-22"
   },
   {
     "id": "minimal",
@@ -181,7 +181,7 @@
       "スタックチャン"
     ],
     "thumbnail": "media/minimal.jpg",
-    "addedDate": "2026-08-01"
+    "addedDate": "2026-10-22"
   },
   {
     "id": "chibi",
@@ -200,7 +200,7 @@
       "LLM"
     ],
     "thumbnail": "media/chibi.jpg",
-    "addedDate": "2026-09-25"
+    "addedDate": "2026-10-22"
   },
   {
     "id": "meridian",
@@ -220,7 +220,7 @@
       "UDP"
     ],
     "thumbnail": "media/meridian.jpg",
-    "addedDate": "2026-08-28"
+    "addedDate": "2026-10-22"
   },
   {
     "id": "organism",
@@ -239,7 +239,7 @@
       "バルブ"
     ],
     "thumbnail": null,
-    "addedDate": "2025-09-10"
+    "addedDate": "2026-10-22"
   },
   {
     "id": "plasticity",
@@ -259,7 +259,7 @@
       "ハンドトラッキング"
     ],
     "thumbnail": null,
-    "addedDate": "2025-11-20"
+    "addedDate": "2026-10-22"
   },
   {
     "id": "wallaby",
@@ -279,7 +279,7 @@
       "RS485"
     ],
     "thumbnail": "media/wallaby.jpg",
-    "addedDate": "2026-05-15"
+    "addedDate": "2026-10-22"
   },
   {
     "id": "pixel",
@@ -298,7 +298,7 @@
       "Max"
     ],
     "thumbnail": "media/pixel.jpg",
-    "addedDate": "2026-03-22"
+    "addedDate": "2026-10-22"
   },
   {
     "id": "together",
@@ -317,7 +317,7 @@
       "CCTV"
     ],
     "thumbnail": "media/together.jpg",
-    "addedDate": "2026-07-08"
+    "addedDate": "2026-10-22"
   },
   {
     "id": "circus",
@@ -335,7 +335,7 @@
       "TVモニター"
     ],
     "thumbnail": null,
-    "addedDate": "2026-09-15"
+    "addedDate": "2026-10-22"
   },
   {
     "id": "susuki",
@@ -352,7 +352,7 @@
       "キネティック"
     ],
     "thumbnail": "media/susuki.jpg",
-    "addedDate": "2026-07-20"
+    "addedDate": "2026-10-22"
   },
   {
     "id": "birds",
@@ -371,7 +371,7 @@
       "3Dプリント"
     ],
     "thumbnail": "media/birds.jpg",
-    "addedDate": "2026-05-28"
+    "addedDate": "2026-10-22"
   },
   {
     "id": "mo2",
@@ -390,7 +390,7 @@
       "ダンス"
     ],
     "thumbnail": "media/mo2.jpg",
-    "addedDate": "2026-09-10"
+    "addedDate": "2026-10-22"
   },
   {
     "id": "whirly-loops",
