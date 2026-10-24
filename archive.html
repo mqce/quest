@@ -852,15 +852,41 @@
       
       const localData = localStorage.getItem('user-data');
       if (localData) {
-        userData = JSON.parse(localData);
-        
-        // Migrate thumbnailOverrides to thumbnails format
-        if (userData.thumbnailOverrides && !userData.thumbnails) {
-          userData.thumbnails = {};
-          for (const [id, thumb] of Object.entries(userData.thumbnailOverrides)) {
-            userData.thumbnails[id] = [thumb];
+        try {
+          const parsed = JSON.parse(localData);
+          
+          // Ensure userData has valid structure
+          userData = {
+            favorites: Array.isArray(parsed.favorites) ? parsed.favorites : [],
+            thumbnails: {}
+          };
+          
+          // Migrate thumbnailOverrides to thumbnails format
+          if (parsed.thumbnailOverrides && typeof parsed.thumbnailOverrides === 'object') {
+            for (const [id, thumb] of Object.entries(parsed.thumbnailOverrides)) {
+              if (thumb) {
+                userData.thumbnails[id] = [thumb];
+              }
+            }
           }
-          delete userData.thumbnailOverrides;
+          
+          // Use existing thumbnails if valid
+          if (parsed.thumbnails && typeof parsed.thumbnails === 'object') {
+            for (const [id, thumbs] of Object.entries(parsed.thumbnails)) {
+              if (Array.isArray(thumbs) && thumbs.length > 0) {
+                userData.thumbnails[id] = thumbs;
+              }
+            }
+          }
+          
+          // Preserve sha if exists
+          if (parsed.sha) {
+            userData.sha = parsed.sha;
+          }
+        } catch (e) {
+          console.warn('Failed to parse localStorage user-data, resetting', e);
+          localStorage.removeItem('user-data');
+          userData = { favorites: [], thumbnails: {} };
         }
       }
     }
@@ -1001,7 +1027,14 @@
           <div class="date-section">
             <h2 class="date-heading">${date} に追加した作品（${dateWorks.length}件）</h2>
             <div class="grid">
-              ${dateWorks.map(work => createCard(work)).join('')}
+              ${dateWorks.map(work => {
+                try {
+                  return createCard(work);
+                } catch (e) {
+                  console.error(`Failed to render card for work ${work.id}:`, e);
+                  return '';
+                }
+              }).join('')}
             </div>
           </div>
         `;
