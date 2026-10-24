@@ -45,8 +45,13 @@
       margin-bottom: 0.75rem;
     }
 
-    .nav-links {
-      margin-bottom: 0.75rem;
+    .content-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 1rem;
+      flex-wrap: wrap;
+      gap: 0.5rem;
     }
 
     .nav-links a {
@@ -62,7 +67,7 @@
     .page-heading {
       font-size: 1.25rem;
       font-weight: 600;
-      margin-bottom: 1rem;
+      margin: 0;
       color: #000;
     }
 
@@ -455,48 +460,50 @@
 
     @media (max-width: 640px) {
       .header {
-        padding: 0.35rem 0.5rem;
+        padding: 0.3rem 0.5rem;
         position: relative;
       }
 
       h1 {
-        font-size: 0.78rem;
-        line-height: 1.25;
+        font-size: 0.75rem;
+        line-height: 1.2;
         margin-bottom: 0.15rem;
       }
 
       .subtitle {
-        font-size: 0.65rem;
-        margin-bottom: 0.25rem;
-        line-height: 1.2;
+        font-size: 0.63rem;
+        margin-bottom: 0.2rem;
+        line-height: 1.15;
       }
 
-      .nav-links {
-        margin-bottom: 0.25rem;
+      .content-header {
+        flex-direction: column;
+        align-items: flex-start;
+        margin-bottom: 0.75rem;
+        gap: 0.3rem;
       }
 
       .nav-links a {
-        font-size: 0.7rem;
+        font-size: 0.8rem;
       }
 
       .page-heading {
-        font-size: 1rem;
-        margin-bottom: 0.75rem;
+        font-size: 0.95rem;
       }
 
       .menu-toggle {
         display: flex;
         width: 100%;
         justify-content: center;
-        padding: 0.3rem 0.7rem;
-        font-size: 0.75rem;
+        padding: 0.28rem 0.65rem;
+        font-size: 0.73rem;
       }
 
       .controls {
         display: none;
         flex-direction: column;
         align-items: stretch;
-        margin-top: 0.3rem;
+        margin-top: 0.25rem;
         gap: 0.3rem;
       }
 
@@ -505,20 +512,20 @@
       }
 
       .btn-filter {
-        padding: 0.3rem 0.7rem;
-        font-size: 0.75rem;
+        padding: 0.28rem 0.65rem;
+        font-size: 0.73rem;
       }
 
       .btn-settings {
         margin-left: 0;
-        padding: 0.3rem 0.7rem;
-        font-size: 0.75rem;
+        padding: 0.28rem 0.65rem;
+        font-size: 0.73rem;
       }
 
       .search-box {
         max-width: 100%;
-        padding: 0.3rem 0.7rem;
-        font-size: 0.75rem;
+        padding: 0.28rem 0.65rem;
+        font-size: 0.73rem;
       }
 
       .container {
@@ -561,9 +568,6 @@
     <div class="header-content">
       <h1>インスタレーション＆小型ロボット作品ギャラリー</h1>
       <p class="subtitle">マイコンを使ったロボット作品や、モーターとディスプレイを使ったインスタレーションアート</p>
-      <div class="nav-links">
-        <a href="archive.html">過去の作品を見る →</a>
-      </div>
       
       <button class="menu-toggle" onclick="toggleMenu()">
         <span>🔍</span>
@@ -584,7 +588,12 @@
   </div>
 
   <div class="container">
-    <h2 class="page-heading" id="page-heading"></h2>
+    <div class="content-header">
+      <h2 class="page-heading" id="page-heading"></h2>
+      <div class="nav-links">
+        <a href="archive.html">過去の作品を見る →</a>
+      </div>
+    </div>
     <div class="grid" id="gallery"></div>
     <div class="empty-state" id="empty-state" style="display: none;">
       <p>該当する作品が見つかりませんでした。</p>
