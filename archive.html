@@ -249,6 +249,15 @@
       padding: 1rem;
     }
 
+    .card-media .placeholder.clickable {
+      cursor: pointer;
+      transition: opacity 0.2s;
+    }
+
+    .card-media .placeholder.clickable:hover {
+      opacity: 0.9;
+    }
+
     .card-favorite {
       position: absolute;
       top: 0.75rem;
@@ -930,7 +939,7 @@
     }
 
     function getThumbnails(work) {
-      // Return user-selected thumbnails or default
+      // Return user-selected thumbnails
       if (userData.thumbnails[work.id] && userData.thumbnails[work.id].length > 0) {
         return userData.thumbnails[work.id];
       }
@@ -940,12 +949,17 @@
         return [work.thumbnail];
       }
       
-      // Fall back to first candidate if available
-      if (work.candidates && work.candidates.length > 0) {
-        return [work.candidates[0].src];
-      }
-      
+      // No thumbnail and no user selection - return empty
       return [];
+    }
+    
+    function hasUserSelectedThumbnail(work) {
+      return userData.thumbnails[work.id] && userData.thumbnails[work.id].length > 0;
+    }
+    
+    function needsThumbnailSelection(work) {
+      // Needs selection if no default thumbnail and user hasn't selected one yet
+      return !work.thumbnail && !hasUserSelectedThumbnail(work);
     }
 
     function isFavorited(workId) {
@@ -1046,9 +1060,12 @@
     function createCard(work) {
       const thumbnails = getThumbnails(work);
       const favorited = isFavorited(work.id);
+      const needsSelection = needsThumbnailSelection(work);
       const hasCandidates = work.candidates && work.candidates.length > 0;
       
       let mediaHtml = '';
+      let mediaClickHandler = `openModal('${work.id}')`;
+      
       if (thumbnails.length > 0) {
         if (thumbnails.length === 1) {
           // Single thumbnail - no slideshow
@@ -1084,19 +1101,23 @@
             </div>
           </div>`;
         }
+      } else if (needsSelection && hasCandidates) {
+        // No thumbnail but has candidates - make placeholder clickable to select
+        mediaHtml = `<div class="placeholder clickable">サムネイル未設定<br>候補から選ぶ</div>`;
+        mediaClickHandler = `openCandidateSelector('${work.id}')`;
       } else {
-        mediaHtml = `<div class="placeholder">サムネイル未設定<br>（詳細から追加できます）</div>`;
+        // No thumbnail and no candidates
+        mediaHtml = `<div class="placeholder">サムネイル未設定</div>`;
       }
       
       return `
         <div class="card">
-          <div class="card-media" onclick="openModal('${work.id}')">
+          <div class="card-media" onclick="${mediaClickHandler}">
             ${mediaHtml}
             <button class="card-favorite ${favorited ? 'favorited' : ''}" 
                     onclick="event.stopPropagation(); toggleFavorite('${work.id}')">
               ${favorited ? '★' : '☆'}
             </button>
-            ${hasCandidates ? `<button class="btn-select-thumbnails" onclick="event.stopPropagation(); openCandidateSelector('${work.id}')">サムネイルを選ぶ</button>` : ''}
           </div>
           <div class="card-body">
             <div class="card-title">${work.title}</div>
@@ -1289,6 +1310,28 @@
       modalMedia.innerHTML = mediaHtml;
       
       const hasCandidates = work.candidates && work.candidates.length > 0;
+      const needsSelection = needsThumbnailSelection(work);
+      const hasUserThumbnail = hasUserSelectedThumbnail(work);
+      
+      let candidateSectionHtml = '';
+      if (hasCandidates) {
+        if (needsSelection) {
+          // No thumbnail yet - show prominent button
+          candidateSectionHtml = `
+        <div class="thumbnail-upload">
+          <h4>サムネイル候補から選ぶ</h4>
+          <button onclick="openCandidateSelector('${work.id}')">候補一覧を開く（${work.candidates.length}個）</button>
+        </div>`;
+        } else if (hasUserThumbnail || work.thumbnail) {
+          // Has thumbnail - show subtle re-select link
+          candidateSectionHtml = `
+        <div class="thumbnail-upload">
+          <p style="margin: 0; color: #6c757d; font-size: 0.9rem;">
+            <a href="javascript:void(0);" onclick="openCandidateSelector('${work.id}')" style="color: #6c757d;">選び直す</a>
+          </p>
+        </div>`;
+        }
+      }
       
       modalBody.innerHTML = `
         <h2>${work.title}</h2>
@@ -1304,12 +1347,7 @@
         </p>
         <a href="${work.sourceUrl}" target="_blank" rel="noopener noreferrer" style="color: #0d6efd;">元ページを開く →</a>
         
-        ${hasCandidates ? `
-        <div class="thumbnail-upload">
-          <h4>サムネイル候補から選ぶ</h4>
-          <button onclick="openCandidateSelector('${work.id}')">候補一覧を開く（${work.candidates.length}個）</button>
-        </div>
-        ` : ''}
+        ${candidateSectionHtml}
         
         <div class="thumbnail-upload">
           <h4>URLから追加</h4>
