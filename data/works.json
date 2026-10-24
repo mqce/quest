@@ -486,7 +486,13 @@
     ],
     "thumbnail": null,
     "addedDate": "2025-11-20",
-    "candidates": []
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/plasticity/01-mockup.jpg",
+        "origin": "Hochschuh & Donovan website"
+      }
+    ]
   },
   {
     "id": "wallaby",
