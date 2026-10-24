@@ -15,7 +15,53 @@
       "OLED"
     ],
     "thumbnail": "media/sesame.jpg",
+<<<<<<< HEAD
     "addedDate": "2026-10-22"
+=======
+    "addedDate": "2026-01-24",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/sesame.jpg",
+        "origin": "existing"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/sesame/02.png",
+        "origin": "https://hackaday.com/2026/01/24/building-a-little-quadruped-robot/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/sesame/03.png",
+        "origin": "https://hackaday.com/2026/01/24/building-a-little-quadruped-robot/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/sesame/04.png",
+        "origin": "https://hackaday.com/2026/01/24/building-a-little-quadruped-robot/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/sesame/05.png",
+        "origin": "https://hackaday.com/2026/01/24/building-a-little-quadruped-robot/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/sesame/06.jpg",
+        "origin": "https://hackaday.com/2026/01/24/building-a-little-quadruped-robot/"
+      },
+      {
+        "type": "video",
+        "src": "https://www.youtube.com/embed/1UDsWkcQZhc",
+        "poster": "https://img.youtube.com/vi/1UDsWkcQZhc/maxresdefault.jpg"
+      },
+      {
+        "type": "video",
+        "src": "https://www.youtube.com/embed/1UDsWkcQZhc",
+        "poster": "https://img.youtube.com/vi/1UDsWkcQZhc/maxresdefault.jpg"
+      }
+    ]
+>>>>>>> ded53b7 (Add thumbnail candidate collection and slideshow functionality)
   },
   {
     "id": "tongdou",
@@ -35,7 +81,48 @@
       "ギアモーター"
     ],
     "thumbnail": "media/tongdou.jpg",
+<<<<<<< HEAD
     "addedDate": "2026-10-22"
+=======
+    "addedDate": "2026-07-31",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/tongdou.jpg",
+        "origin": "existing"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/tongdou/02.png",
+        "origin": "https://hackaday.com/2026/07/31/tiny-desktop-robot-has-radar/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/tongdou/03.png",
+        "origin": "https://hackaday.com/2026/07/31/tiny-desktop-robot-has-radar/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/tongdou/04.png",
+        "origin": "https://hackaday.com/2026/07/31/tiny-desktop-robot-has-radar/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/tongdou/05.png",
+        "origin": "https://hackaday.com/2026/07/31/tiny-desktop-robot-has-radar/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/tongdou/06.jpg",
+        "origin": "https://hackaday.com/2026/07/31/tiny-desktop-robot-has-radar/"
+      },
+      {
+        "type": "video",
+        "src": "https://www.youtube.com/embed/3ZoqmiloRdA",
+        "poster": "https://img.youtube.com/vi/3ZoqmiloRdA/maxresdefault.jpg"
+      }
+    ]
+>>>>>>> ded53b7 (Add thumbnail candidate collection and slideshow functionality)
   },
   {
     "id": "bugbot",
@@ -54,7 +141,53 @@
       "TinyML"
     ],
     "thumbnail": "media/bugbot.jpg",
+<<<<<<< HEAD
     "addedDate": "2026-10-22"
+=======
+    "addedDate": "2026-01-15",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/bugbot.jpg",
+        "origin": "existing"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/bugbot/02.jpg",
+        "origin": "https://hackaday.io/project/205769-bugbot-vibration-based-quadruped"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/bugbot/03.jpg",
+        "origin": "https://hackaday.io/project/205769-bugbot-vibration-based-quadruped"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/bugbot/04.jpg",
+        "origin": "https://hackaday.io/project/205769-bugbot-vibration-based-quadruped"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/bugbot/05.jpg",
+        "origin": "https://hackaday.io/project/205769-bugbot-vibration-based-quadruped"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/bugbot/06.jpg",
+        "origin": "https://hackaday.io/project/205769-bugbot-vibration-based-quadruped"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/bugbot/07.jpg",
+        "origin": "https://hackaday.io/project/205769-bugbot-vibration-based-quadruped"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/bugbot/08.jpg",
+        "origin": "https://hackaday.io/project/205769-bugbot-vibration-based-quadruped"
+      }
+    ]
+>>>>>>> ded53b7 (Add thumbnail candidate collection and slideshow functionality)
   },
   {
     "id": "neuro",
@@ -73,7 +206,53 @@
       "MPU-6500"
     ],
     "thumbnail": "media/neuro.jpg",
+<<<<<<< HEAD
     "addedDate": "2026-10-22"
+=======
+    "addedDate": "2026-03-10",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/neuro.jpg",
+        "origin": "existing"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/neuro/02.jpg",
+        "origin": "https://hackaday.io/project/206865-neuromouse-v20-esp32-s3-micromouse-3rd-at-aamc"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/neuro/03.jpg",
+        "origin": "https://hackaday.io/project/206865-neuromouse-v20-esp32-s3-micromouse-3rd-at-aamc"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/neuro/04.jpg",
+        "origin": "https://hackaday.io/project/206865-neuromouse-v20-esp32-s3-micromouse-3rd-at-aamc"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/neuro/05.jpg",
+        "origin": "https://hackaday.io/project/206865-neuromouse-v20-esp32-s3-micromouse-3rd-at-aamc"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/neuro/06.jpg",
+        "origin": "https://hackaday.io/project/206865-neuromouse-v20-esp32-s3-micromouse-3rd-at-aamc"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/neuro/07.jpg",
+        "origin": "https://hackaday.io/project/206865-neuromouse-v20-esp32-s3-micromouse-3rd-at-aamc"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/neuro/08.jpg",
+        "origin": "https://hackaday.io/project/206865-neuromouse-v20-esp32-s3-micromouse-3rd-at-aamc"
+      }
+    ]
+>>>>>>> ded53b7 (Add thumbnail candidate collection and slideshow functionality)
   },
   {
     "id": "tn24",
@@ -92,7 +271,33 @@
       "OLED"
     ],
     "thumbnail": "media/tn24.jpg",
+<<<<<<< HEAD
     "addedDate": "2026-10-22"
+=======
+    "addedDate": "2026-02-05",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/tn24.jpg",
+        "origin": "existing"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/tn24/02.gif",
+        "origin": "https://www.hackster.io/tech_nickk/tn-24-v2-0-cute-desktop-companion-robot-44a472"
+      },
+      {
+        "type": "video",
+        "src": "https://www.youtube.com/embed/rkP49o8-wiM",
+        "poster": "https://img.youtube.com/vi/rkP49o8-wiM/maxresdefault.jpg"
+      },
+      {
+        "type": "video",
+        "src": "https://www.youtube.com/embed/3hISVFGLEw0",
+        "poster": "https://img.youtube.com/vi/3hISVFGLEw0/maxresdefault.jpg"
+      }
+    ]
+>>>>>>> ded53b7 (Add thumbnail candidate collection and slideshow functionality)
   },
   {
     "id": "rover",
@@ -111,7 +316,28 @@
       "18650"
     ],
     "thumbnail": "media/rover.jpg",
+<<<<<<< HEAD
     "addedDate": "2026-10-22"
+=======
+    "addedDate": "2026-04-12",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/rover.jpg",
+        "origin": "existing"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/rover/02.gif",
+        "origin": "https://www.hackster.io/Gokux/esp32-powered-4x4-rc-rover-fully-3d-printed-wi-fi-control-a7320d"
+      },
+      {
+        "type": "video",
+        "src": "https://www.youtube.com/embed/KEPDO-_6qFU",
+        "poster": "https://img.youtube.com/vi/KEPDO-_6qFU/maxresdefault.jpg"
+      }
+    ]
+>>>>>>> ded53b7 (Add thumbnail candidate collection and slideshow functionality)
   },
   {
     "id": "dial",
@@ -128,7 +354,18 @@
       "クローラー"
     ],
     "thumbnail": "media/dial.jpg",
+<<<<<<< HEAD
     "addedDate": "2026-10-22"
+=======
+    "addedDate": "2026-08-15",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/dial.jpg",
+        "origin": "existing"
+      }
+    ]
+>>>>>>> ded53b7 (Add thumbnail candidate collection and slideshow functionality)
   },
   {
     "id": "atomdog",
@@ -146,7 +383,28 @@
       "3Dプリント"
     ],
     "thumbnail": "media/atomdog.jpg",
+<<<<<<< HEAD
     "addedDate": "2026-10-22"
+=======
+    "addedDate": "2026-08-20",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/atomdog.jpg",
+        "origin": "existing"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/atomdog/02.jpg",
+        "origin": "https://x.com/sasuke9410/status/2100234383693410689"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/atomdog/03.jpg",
+        "origin": "https://x.com/sasuke9410/status/2100234383693410689"
+      }
+    ]
+>>>>>>> ded53b7 (Add thumbnail candidate collection and slideshow functionality)
   },
   {
     "id": "neko",
@@ -163,7 +421,28 @@
       "スタックチャン"
     ],
     "thumbnail": "media/neko.jpg",
+<<<<<<< HEAD
     "addedDate": "2026-10-22"
+=======
+    "addedDate": "2026-06-10",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/neko.jpg",
+        "origin": "existing"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/neko/02.jpg",
+        "origin": "https://x.com/mityomi722/status/2086443485159387475"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/neko/03.jpg",
+        "origin": "https://x.com/mityomi722/status/2086443485159387475"
+      }
+    ]
+>>>>>>> ded53b7 (Add thumbnail candidate collection and slideshow functionality)
   },
   {
     "id": "minimal",
@@ -181,7 +460,28 @@
       "スタックチャン"
     ],
     "thumbnail": "media/minimal.jpg",
+<<<<<<< HEAD
     "addedDate": "2026-10-22"
+=======
+    "addedDate": "2026-08-01",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/minimal.jpg",
+        "origin": "existing"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/minimal/02.jpg",
+        "origin": "https://x.com/UtaAoya/status/2097089049026773462"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/minimal/03.jpg",
+        "origin": "https://x.com/UtaAoya/status/2097089049026773462"
+      }
+    ]
+>>>>>>> ded53b7 (Add thumbnail candidate collection and slideshow functionality)
   },
   {
     "id": "chibi",
@@ -200,7 +500,18 @@
       "LLM"
     ],
     "thumbnail": "media/chibi.jpg",
+<<<<<<< HEAD
     "addedDate": "2026-10-22"
+=======
+    "addedDate": "2026-09-25",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/chibi.jpg",
+        "origin": "existing"
+      }
+    ]
+>>>>>>> ded53b7 (Add thumbnail candidate collection and slideshow functionality)
   },
   {
     "id": "meridian",
@@ -220,7 +531,33 @@
       "UDP"
     ],
     "thumbnail": "media/meridian.jpg",
+<<<<<<< HEAD
     "addedDate": "2026-10-22"
+=======
+    "addedDate": "2026-08-28",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/meridian.jpg",
+        "origin": "existing"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/meridian/02.jpg",
+        "origin": "https://x.com/automo_emo/status/2101923813013549259"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/meridian/03.jpg",
+        "origin": "https://x.com/automo_emo/status/2101923813013549259"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/meridian/04.jpg",
+        "origin": "https://x.com/automo_emo/status/2101923813013549259"
+      }
+    ]
+>>>>>>> ded53b7 (Add thumbnail candidate collection and slideshow functionality)
   },
   {
     "id": "organism",
@@ -239,7 +576,58 @@
       "バルブ"
     ],
     "thumbnail": null,
+<<<<<<< HEAD
     "addedDate": "2026-10-22"
+=======
+    "addedDate": "2025-09-10",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/organism/01.jpg",
+        "origin": "https://www.navidnavab.com/organism-excitable-chaos"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/organism/02.jpg",
+        "origin": "https://www.navidnavab.com/organism-excitable-chaos"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/organism/03.jpeg",
+        "origin": "https://www.navidnavab.com/organism-excitable-chaos"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/organism/04.jpeg",
+        "origin": "https://www.navidnavab.com/organism-excitable-chaos"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/organism/05.jpeg",
+        "origin": "https://www.navidnavab.com/organism-excitable-chaos"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/organism/06.jpeg",
+        "origin": "https://www.navidnavab.com/organism-excitable-chaos"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/organism/07.jpeg",
+        "origin": "https://www.navidnavab.com/organism-excitable-chaos"
+      },
+      {
+        "type": "video",
+        "src": "https://www.youtube.com/embed/Kc9bjdte1sY",
+        "poster": "https://img.youtube.com/vi/Kc9bjdte1sY/maxresdefault.jpg"
+      },
+      {
+        "type": "video",
+        "src": "https://www.youtube.com/embed/yuNqOzT81qI",
+        "poster": "https://img.youtube.com/vi/yuNqOzT81qI/maxresdefault.jpg"
+      }
+    ]
+>>>>>>> ded53b7 (Add thumbnail candidate collection and slideshow functionality)
   },
   {
     "id": "plasticity",
@@ -259,7 +647,12 @@
       "ハンドトラッキング"
     ],
     "thumbnail": null,
+<<<<<<< HEAD
     "addedDate": "2026-10-22"
+=======
+    "addedDate": "2025-11-20",
+    "candidates": []
+>>>>>>> ded53b7 (Add thumbnail candidate collection and slideshow functionality)
   },
   {
     "id": "wallaby",
@@ -279,7 +672,53 @@
       "RS485"
     ],
     "thumbnail": "media/wallaby.jpg",
+<<<<<<< HEAD
     "addedDate": "2026-10-22"
+=======
+    "addedDate": "2026-05-15",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/wallaby.jpg",
+        "origin": "existing"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/wallaby/02.jpg",
+        "origin": "https://michaelzhou.studio/creative-tech/wallaby-kinetic"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/wallaby/03.jpg",
+        "origin": "https://michaelzhou.studio/creative-tech/wallaby-kinetic"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/wallaby/04.jpg",
+        "origin": "https://michaelzhou.studio/creative-tech/wallaby-kinetic"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/wallaby/05.jpg",
+        "origin": "https://michaelzhou.studio/creative-tech/wallaby-kinetic"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/wallaby/06.jpg",
+        "origin": "https://michaelzhou.studio/creative-tech/wallaby-kinetic"
+      },
+      {
+        "type": "video",
+        "src": "https://www.youtube.com/embed/pKdWqgcKy2I",
+        "poster": "https://img.youtube.com/vi/pKdWqgcKy2I/maxresdefault.jpg"
+      },
+      {
+        "type": "video",
+        "src": "https://www.youtube.com/embed/2Pqyp4504uU",
+        "poster": "https://img.youtube.com/vi/2Pqyp4504uU/maxresdefault.jpg"
+      }
+    ]
+>>>>>>> ded53b7 (Add thumbnail candidate collection and slideshow functionality)
   },
   {
     "id": "pixel",
@@ -298,7 +737,28 @@
       "Max"
     ],
     "thumbnail": "media/pixel.jpg",
+<<<<<<< HEAD
     "addedDate": "2026-10-22"
+=======
+    "addedDate": "2026-03-22",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/pixel.jpg",
+        "origin": "existing"
+      },
+      {
+        "type": "video",
+        "src": "https://www.youtube.com/embed/U_U1m9-OWZ4",
+        "poster": "https://img.youtube.com/vi/U_U1m9-OWZ4/maxresdefault.jpg"
+      },
+      {
+        "type": "video",
+        "src": "https://www.youtube.com/embed/U_U1m9-OWZ4",
+        "poster": "https://img.youtube.com/vi/U_U1m9-OWZ4/maxresdefault.jpg"
+      }
+    ]
+>>>>>>> ded53b7 (Add thumbnail candidate collection and slideshow functionality)
   },
   {
     "id": "together",
@@ -317,7 +777,18 @@
       "CCTV"
     ],
     "thumbnail": "media/together.jpg",
+<<<<<<< HEAD
     "addedDate": "2026-10-22"
+=======
+    "addedDate": "2026-07-08",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/together.jpg",
+        "origin": "existing"
+      }
+    ]
+>>>>>>> ded53b7 (Add thumbnail candidate collection and slideshow functionality)
   },
   {
     "id": "circus",
@@ -335,7 +806,18 @@
       "TVモニター"
     ],
     "thumbnail": null,
+<<<<<<< HEAD
     "addedDate": "2026-10-22"
+=======
+    "addedDate": "2026-09-15",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/circus/01.jpg",
+        "origin": "https://www.scienceandmediamuseum.org.uk/about-us/press-office/national-science-and-media-museum-unveils-circus-nayan-kulkarni-brand-new"
+      }
+    ]
+>>>>>>> ded53b7 (Add thumbnail candidate collection and slideshow functionality)
   },
   {
     "id": "susuki",
@@ -352,7 +834,28 @@
       "キネティック"
     ],
     "thumbnail": "media/susuki.jpg",
+<<<<<<< HEAD
     "addedDate": "2026-10-22"
+=======
+    "addedDate": "2026-07-20",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/susuki.jpg",
+        "origin": "existing"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/susuki/02.jpg",
+        "origin": "https://x.com/hamuzou/status/2096435031480918121"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/susuki/03.jpg",
+        "origin": "https://x.com/hamuzou/status/2096435031480918121"
+      }
+    ]
+>>>>>>> ded53b7 (Add thumbnail candidate collection and slideshow functionality)
   },
   {
     "id": "birds",
@@ -371,7 +874,18 @@
       "3Dプリント"
     ],
     "thumbnail": "media/birds.jpg",
+<<<<<<< HEAD
     "addedDate": "2026-10-22"
+=======
+    "addedDate": "2026-05-28",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/birds.jpg",
+        "origin": "existing"
+      }
+    ]
+>>>>>>> ded53b7 (Add thumbnail candidate collection and slideshow functionality)
   },
   {
     "id": "mo2",
@@ -390,7 +904,18 @@
       "ダンス"
     ],
     "thumbnail": "media/mo2.jpg",
+<<<<<<< HEAD
     "addedDate": "2026-10-22"
+=======
+    "addedDate": "2026-09-10",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/mo2.jpg",
+        "origin": "existing"
+      }
+    ]
+>>>>>>> ded53b7 (Add thumbnail candidate collection and slideshow functionality)
   },
   {
     "id": "whirly-loops",
@@ -411,7 +936,54 @@
       "サウンド"
     ],
     "thumbnail": "media/whirly-loops.jpg",
-    "addedDate": "2026-10-24"
+    "addedDate": "2026-10-24",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/whirly-loops.jpg",
+        "origin": "existing"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/whirly-loops/02.jpg",
+        "origin": "https://algorithmicgaze.com/collaborations/whirly-loops/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/whirly-loops/03.jpg",
+        "origin": "https://algorithmicgaze.com/collaborations/whirly-loops/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/whirly-loops/04.jpg",
+        "origin": "https://algorithmicgaze.com/collaborations/whirly-loops/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/whirly-loops/05.png",
+        "origin": "https://algorithmicgaze.com/collaborations/whirly-loops/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/whirly-loops/06.jpg",
+        "origin": "https://algorithmicgaze.com/collaborations/whirly-loops/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/whirly-loops/07.jpg",
+        "origin": "https://algorithmicgaze.com/collaborations/whirly-loops/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/whirly-loops/08.png",
+        "origin": "https://algorithmicgaze.com/collaborations/whirly-loops/"
+      },
+      {
+        "type": "video",
+        "src": "https://www.youtube.com/embed/mcJf_YNCcAw",
+        "poster": "https://img.youtube.com/vi/mcJf_YNCcAw/maxresdefault.jpg"
+      }
+    ]
   },
   {
     "id": "g16-fragmentin",
@@ -431,7 +1003,14 @@
       "インタラクティブ"
     ],
     "thumbnail": "media/g16-fragmentin.jpg",
-    "addedDate": "2026-10-24"
+    "addedDate": "2026-10-24",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/g16-fragmentin.jpg",
+        "origin": "existing"
+      }
+    ]
   },
   {
     "id": "who-is-jumping-jack",
@@ -450,7 +1029,29 @@
       "インタラクティブ"
     ],
     "thumbnail": "media/who-is-jumping-jack.jpg",
-    "addedDate": "2026-10-24"
+    "addedDate": "2026-10-24",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/who-is-jumping-jack.jpg",
+        "origin": "existing"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/who-is-jumping-jack/02.jpg",
+        "origin": "https://ars.electronica.art/center/en/who-is-jumping-jack/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/who-is-jumping-jack/03.png",
+        "origin": "https://ars.electronica.art/center/en/who-is-jumping-jack/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/who-is-jumping-jack/04.jpg",
+        "origin": "https://ars.electronica.art/center/en/who-is-jumping-jack/"
+      }
+    ]
   },
   {
     "id": "shape-shift-olwal",
@@ -471,7 +1072,8 @@
       "ミラー"
     ],
     "thumbnail": null,
-    "addedDate": "2026-10-24"
+    "addedDate": "2026-10-24",
+    "candidates": []
   },
   {
     "id": "snailtube",
@@ -490,6 +1092,23 @@
       "生成映像"
     ],
     "thumbnail": "media/snailtube.jpg",
-    "addedDate": "2026-10-24"
+    "addedDate": "2026-10-24",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/snailtube.jpg",
+        "origin": "existing"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/snailtube/02.jpg",
+        "origin": "https://x.com/Mo1ra_z/status/2112188106615250956"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/snailtube/03.jpg",
+        "origin": "https://x.com/Mo1ra_z/status/2112188106615250956"
+      }
+    ]
   }
 ]
