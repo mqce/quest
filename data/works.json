@@ -1249,5 +1249,204 @@
         "origin": "https://www.kanno.so/project/fragmentations-of-unity"
       }
     ]
+  },
+  {
+    "id": "room-as-instrument",
+    "title": "Room as Instrument",
+    "artist": "Steven Benton, Lisa Li, Monsieur Blanc",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://derivative.ca/community-post/room-instrument-motion-sound-and-projection-touchdesigner/75477",
+    "sourceSite": "SITE 2026, Goat Farm Arts Center（アトランタ、2026年）",
+    "summary": "ステッピングモーター駆動のウインチで吊られた12個の木製球体が、音楽に合わせて壁面の前を上下に動くキネティック・インスタレーション。TouchDesignerからシリアル通信で2枚のBTT Octopus基板を制御し、球体の動きと連動した映像投影とスピーカーの音響で、部屋全体をひとつの楽器にする。",
+    "tags": [
+      "ステッピングモーター×12",
+      "BTT Octopus",
+      "TouchDesigner",
+      "シリアル通信",
+      "プロジェクション",
+      "サウンド"
+    ],
+    "thumbnail": "media/candidates/room-as-instrument/01.jpg",
+    "addedDate": "2026-10-26",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/room-as-instrument/01.jpg",
+        "origin": "https://derivative.ca/community-post/room-instrument-motion-sound-and-projection-touchdesigner/75477"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/room-as-instrument/02.jpg",
+        "origin": "https://derivative.ca/community-post/room-instrument-motion-sound-and-projection-touchdesigner/75477"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/room-as-instrument/03.jpg",
+        "origin": "https://derivative.ca/community-post/room-instrument-motion-sound-and-projection-touchdesigner/75477"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/room-as-instrument/04.jpg",
+        "origin": "https://www.youtube.com/watch?v=JRAWbJ2GAV8"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/room-as-instrument/05.jpg",
+        "origin": "https://www.youtube.com/watch?v=sOypLpiI-fk"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/room-as-instrument/06.jpg",
+        "origin": "https://www.youtube.com/watch?v=zygfD8yY2o4"
+      }
+    ]
+  },
+  {
+    "id": "machines-in-d",
+    "title": "Machines in D",
+    "artist": "Garam Choi",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://garamchoi.com/en/works/machines-in-d",
+    "sourceSite": "Garam Choi 作品ページ",
+    "summary": "4台のステッピングモーターを“声”として使う4チャンネルの機械合唱団。3DプリントしたPETGのホーンから、グレゴリオ聖歌に着想を得た音階のモーター音がジェネラティブに鳴り、部屋を取り囲むように響き合う。Arduinoで制御。",
+    "tags": [
+      "ステッピングモーター×4",
+      "Arduino",
+      "3Dプリント（PETG）",
+      "4chサウンド",
+      "ジェネラティブ"
+    ],
+    "thumbnail": "media/candidates/machines-in-d/01.jpg",
+    "addedDate": "2026-10-26",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/machines-in-d/01.jpg",
+        "origin": "https://www.youtube.com/watch?v=7eRve2gGmvA"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/machines-in-d/02.jpg",
+        "origin": "https://garamchoi.com/en/works/machines-in-d"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/machines-in-d/03.jpg",
+        "origin": "https://garamchoi.com/en/works/machines-in-d"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/machines-in-d/04.jpg",
+        "origin": "https://garamchoi.com/en/works/machines-in-d"
+      }
+    ]
+  },
+  {
+    "id": "syntact",
+    "title": "SynTact",
+    "artist": "Ricoh × Ars Electronica Futurelab",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://ars.electronica.art/futurelab/en/syntact/",
+    "sourceSite": "Ars Electronica Festival 2026（リンツ、2026年9月）",
+    "summary": "生きた植物とロボットの“つる”を組み合わせたインタラクティブ作品。リコーのセンシング技術と機械学習で、触れ方の種類や強さを識別し、つるの動きで応答する。人と植物と機械が触覚でやりとりする、未来の応答する環境を探るプロトタイプ。",
+    "tags": [
+      "ロボットアーム（つる）",
+      "タッチセンシング",
+      "機械学習",
+      "植物",
+      "インタラクティブ"
+    ],
+    "thumbnail": "media/candidates/syntact/01.jpg",
+    "addedDate": "2026-10-26",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/syntact/01.jpg",
+        "origin": "https://ars.electronica.art/futurelab/en/syntact/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/syntact/02.jpg",
+        "origin": "https://ars.electronica.art/futurelab/en/syntact/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/syntact/03.jpg",
+        "origin": "https://ars.electronica.art/futurelab/en/syntact/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/syntact/04.jpg",
+        "origin": "https://ars.electronica.art/futurelab/en/syntact/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/syntact/05.jpg",
+        "origin": "https://ars.electronica.art/futurelab/en/syntact/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/syntact/06.jpg",
+        "origin": "https://ars.electronica.art/futurelab/en/syntact/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/syntact/07.jpg",
+        "origin": "https://ars.electronica.art/futurelab/en/syntact/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/syntact/08.jpg",
+        "origin": "https://ars.electronica.art/futurelab/en/syntact/"
+      }
+    ]
+  },
+  {
+    "id": "infinite-library-devlin",
+    "title": "An Infinite Library",
+    "artist": "Es Devlin",
+    "year": 2026,
+    "category": "installation",
+    "source": "x",
+    "sourceUrl": "https://www.designboom.com/design/es-devlin-rotating-library-2000-books-london-design-museum-other-worlds/",
+    "sourceSite": "Design Museum「Es Devlin: Other Worlds」（ロンドン、2026年10月〜2027年4月）",
+    "summary": "2,000冊以上の本を色順に並べた幅8mの三角形の本棚が、円形の鏡の上でゆっくり回転するキネティック彫刻。棚の上を映像投影が流れ、デヴリン自身の声が本の一節を朗読する。展覧会の最終室を占める大型作品（X経由で発見）。",
+    "tags": [
+      "回転機構",
+      "モーター駆動",
+      "プロジェクション",
+      "鏡",
+      "サウンド（朗読）"
+    ],
+    "thumbnail": "media/candidates/infinite-library-devlin/01.jpg",
+    "addedDate": "2026-10-26",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/infinite-library-devlin/01.jpg",
+        "origin": "https://www.designboom.com/design/es-devlin-rotating-library-2000-books-london-design-museum-other-worlds/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/infinite-library-devlin/02.jpg",
+        "origin": "https://www.designboom.com/design/es-devlin-rotating-library-2000-books-london-design-museum-other-worlds/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/infinite-library-devlin/03.jpg",
+        "origin": "https://www.designboom.com/design/es-devlin-rotating-library-2000-books-london-design-museum-other-worlds/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/infinite-library-devlin/04.jpg",
+        "origin": "https://www.designboom.com/design/es-devlin-rotating-library-2000-books-london-design-museum-other-worlds/"
+      }
+    ]
   }
 ]
