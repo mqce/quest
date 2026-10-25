@@ -296,11 +296,8 @@
       font-size: 0.75rem;
       z-index: 10;
       transition: transform 0.2s;
-      display: none;
-    }
-
-    .card-media:hover .btn-select-thumbnails {
       display: block;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     }
 
     .btn-select-thumbnails:hover {
@@ -720,10 +717,6 @@
     }
 
     @media (hover: none) {
-      .btn-select-thumbnails {
-        display: block;
-      }
-
       .slideshow-arrow {
         display: flex;
         align-items: center;
@@ -1120,6 +1113,10 @@
                     onclick="event.stopPropagation(); toggleFavorite('${work.id}')">
               ${favorited ? '★' : '☆'}
             </button>
+            <button class="btn-select-thumbnails" 
+                    onclick="event.stopPropagation(); openCandidateSelector('${work.id}')">
+              ${needsSelection ? '候補を選ぶ' : '変更'}
+            </button>
           </div>
           <div class="card-body">
             <div class="card-title">${work.title}</div>
@@ -1195,14 +1192,51 @@
       
       const selectedThumbnails = userData.thumbnails[workId] || [];
       const hasCandidates = work.candidates && work.candidates.length > 0;
+      const hasAutoThumbnail = work.thumbnail && !hasUserSelectedThumbnail(work);
+      
+      // Build combined candidate list: auto thumbnail (if exists) + all candidates
+      let allCandidates = [];
+      
+      // Add auto thumbnail as first option if it exists
+      if (work.thumbnail) {
+        allCandidates.push({
+          type: 'image',
+          src: work.thumbnail,
+          label: '自動サムネイル'
+        });
+      }
+      
+      // Add all candidates
+      if (hasCandidates) {
+        work.candidates.forEach(candidate => {
+          // Skip if it's the same as auto thumbnail
+          if (candidate.src !== work.thumbnail) {
+            allCandidates.push({
+              ...candidate,
+              label: null
+            });
+          }
+        });
+      }
+      
+      // Determine what should be pre-checked
+      let preChecked = [];
+      if (selectedThumbnails.length > 0) {
+        // User has saved selections
+        preChecked = selectedThumbnails;
+      } else if (work.thumbnail) {
+        // No user selection, use auto thumbnail
+        preChecked = [work.thumbnail];
+      }
       
       let candidateGridHtml = '';
       
-      if (hasCandidates) {
-        candidateGridHtml = work.candidates.map((candidate, idx) => {
-          const isSelected = selectedThumbnails.includes(candidate.src);
-          const order = selectedThumbnails.indexOf(candidate.src) + 1;
+      if (allCandidates.length > 0) {
+        candidateGridHtml = allCandidates.map((candidate, idx) => {
+          const isSelected = preChecked.includes(candidate.src);
+          const order = preChecked.indexOf(candidate.src) + 1;
           let thumbHtml = '';
+          let labelHtml = candidate.label ? `<div style="position: absolute; top: 0.25rem; right: 0.25rem; background: rgba(0,0,0,0.7); color: white; padding: 0.2rem 0.4rem; border-radius: 4px; font-size: 0.65rem;">${candidate.label}</div>` : '';
           
           if (candidate.type === 'video') {
             if (candidate.poster) {
@@ -1219,10 +1253,16 @@
                  data-src="${candidate.src}" 
                  onclick="toggleCandidate('${workId}', '${candidate.src.replace(/'/g, "\\'")}')">
               ${thumbHtml}
+              ${labelHtml}
               <div class="candidate-order">${order || ''}</div>
             </div>
           `;
         }).join('');
+        
+        // Initialize userData.thumbnails with pre-checked items if user hasn't selected anything yet
+        if (selectedThumbnails.length === 0 && preChecked.length > 0) {
+          userData.thumbnails[workId] = [...preChecked];
+        }
       } else {
         candidateGridHtml = `<p style="color: #6c757d; margin: 1rem 0;">この作品には候補画像がありません。</p>`;
       }
@@ -1230,16 +1270,16 @@
       modalBody.innerHTML = `
         <h2>サムネイルを選択 - ${work.title}</h2>
         <div class="candidate-selector">
-          <h4>${hasCandidates ? '候補一覧（クリックして選択、複数選択可）' : 'サムネイル候補'}</h4>
+          <h4>${allCandidates.length > 0 ? '候補一覧（クリックして選択、複数選択可）' : 'サムネイル候補'}</h4>
           <div class="candidate-grid" id="candidate-grid">
             ${candidateGridHtml}
           </div>
           
-          ${hasCandidates ? `
+          ${allCandidates.length > 0 ? `
           <div class="candidate-controls">
             <button onclick="saveThumbnailSelection('${work.id}')">保存</button>
             <button onclick="closeModal()" class="btn-secondary">キャンセル</button>
-            ${selectedThumbnails.length > 0 ? `<button onclick="clearThumbnailSelection('${work.id}')" class="btn-secondary">選択をクリア</button>` : ''}
+            ${userData.thumbnails[workId] && userData.thumbnails[workId].length > 0 ? `<button onclick="clearThumbnailSelection('${work.id}')" class="btn-secondary">選択をクリア</button>` : ''}
           </div>
           ` : ''}
         </div>
@@ -1248,7 +1288,7 @@
           <h4>URLから追加</h4>
           <input type="text" id="thumbnail-url" placeholder="画像または動画のURL（https://...）">
           <button onclick="updateThumbnail('${work.id}')">適用</button>
-          ${selectedThumbnails.length > 0 ? `<button onclick="resetThumbnail('${work.id}')" class="btn-secondary">元に戻す</button>` : ''}
+          ${userData.thumbnails[workId] && userData.thumbnails[workId].length > 0 ? `<button onclick="resetThumbnail('${work.id}')" class="btn-secondary">元に戻す</button>` : ''}
         </div>
       `;
       
