@@ -1095,12 +1095,13 @@
             </div>
           </div>`;
         }
-      } else if (needsSelection && hasCandidates) {
-        // No thumbnail but has candidates - make placeholder clickable to select
-        mediaHtml = `<div class="placeholder clickable">サムネイル未設定<br>候補から選ぶ</div>`;
+      } else if (needsSelection) {
+        // No thumbnail - make placeholder clickable to select (whether or not there are candidates)
+        const text = hasCandidates ? 'サムネイル未設定<br>候補から選ぶ' : 'サムネイル未設定<br>URLを貼り付け';
+        mediaHtml = `<div class="placeholder clickable">${text}</div>`;
         mediaClickHandler = `openCandidateSelector('${work.id}')`;
       } else {
-        // No thumbnail and no candidates
+        // Has thumbnail but not user-selected - should not reach here normally
         mediaHtml = `<div class="placeholder">サムネイル未設定</div>`;
       }
       
@@ -1177,7 +1178,7 @@
 
     function openCandidateSelector(workId) {
       const work = works.find(w => w.id === workId);
-      if (!work || !work.candidates) return;
+      if (!work) return;
       
       const modal = document.getElementById('modal');
       const modalMedia = document.getElementById('modal-media');
@@ -1186,43 +1187,61 @@
       modalMedia.innerHTML = '';
       
       const selectedThumbnails = userData.thumbnails[workId] || [];
+      const hasCandidates = work.candidates && work.candidates.length > 0;
+      
+      let candidateGridHtml = '';
+      
+      if (hasCandidates) {
+        candidateGridHtml = work.candidates.map((candidate, idx) => {
+          const isSelected = selectedThumbnails.includes(candidate.src);
+          const order = selectedThumbnails.indexOf(candidate.src) + 1;
+          let thumbHtml = '';
+          
+          if (candidate.type === 'video') {
+            if (candidate.poster) {
+              thumbHtml = `<img src="${candidate.poster}" alt="Video thumbnail" loading="lazy">`;
+            } else {
+              thumbHtml = `<div style="display: flex; align-items: center; justify-content: center; height: 100%; background: #e9ecef; font-size: 2rem;">▶</div>`;
+            }
+          } else {
+            thumbHtml = `<img src="${candidate.src}" alt="Candidate ${idx + 1}" loading="lazy">`;
+          }
+          
+          return `
+            <div class="candidate-item ${isSelected ? 'selected' : ''}" 
+                 data-src="${candidate.src}" 
+                 onclick="toggleCandidate('${workId}', '${candidate.src.replace(/'/g, "\\'")}')">
+              ${thumbHtml}
+              <div class="candidate-order">${order || ''}</div>
+            </div>
+          `;
+        }).join('');
+      } else {
+        candidateGridHtml = `<p style="color: #6c757d; margin: 1rem 0;">この作品には候補画像がありません。</p>`;
+      }
       
       modalBody.innerHTML = `
         <h2>サムネイルを選択 - ${work.title}</h2>
         <div class="candidate-selector">
-          <h4>候補一覧（クリックして選択、複数選択可）</h4>
+          <h4>${hasCandidates ? '候補一覧（クリックして選択、複数選択可）' : 'サムネイル候補'}</h4>
           <div class="candidate-grid" id="candidate-grid">
-            ${work.candidates.map((candidate, idx) => {
-              const isSelected = selectedThumbnails.includes(candidate.src);
-              const order = selectedThumbnails.indexOf(candidate.src) + 1;
-              let thumbHtml = '';
-              
-              if (candidate.type === 'video') {
-                if (candidate.poster) {
-                  thumbHtml = `<img src="${candidate.poster}" alt="Video thumbnail" loading="lazy">`;
-                } else {
-                  thumbHtml = `<div style="display: flex; align-items: center; justify-content: center; height: 100%; background: #e9ecef; font-size: 2rem;">▶</div>`;
-                }
-              } else {
-                thumbHtml = `<img src="${candidate.src}" alt="Candidate ${idx + 1}" loading="lazy">`;
-              }
-              
-              return `
-                <div class="candidate-item ${isSelected ? 'selected' : ''}" 
-                     data-src="${candidate.src}" 
-                     onclick="toggleCandidate('${workId}', '${candidate.src.replace(/'/g, "\\'")}')">
-                  ${thumbHtml}
-                  <div class="candidate-order">${order || ''}</div>
-                </div>
-              `;
-            }).join('')}
+            ${candidateGridHtml}
           </div>
           
+          ${hasCandidates ? `
           <div class="candidate-controls">
             <button onclick="saveThumbnailSelection('${work.id}')">保存</button>
             <button onclick="closeModal()" class="btn-secondary">キャンセル</button>
             ${selectedThumbnails.length > 0 ? `<button onclick="clearThumbnailSelection('${work.id}')" class="btn-secondary">選択をクリア</button>` : ''}
           </div>
+          ` : ''}
+        </div>
+        
+        <div class="thumbnail-upload">
+          <h4>URLから追加</h4>
+          <input type="text" id="thumbnail-url" placeholder="画像または動画のURL（https://...）">
+          <button onclick="updateThumbnail('${work.id}')">適用</button>
+          ${selectedThumbnails.length > 0 ? `<button onclick="resetThumbnail('${work.id}')" class="btn-secondary">元に戻す</button>` : ''}
         </div>
       `;
       

@@ -936,9 +936,50 @@
       "木工",
       "サウンド"
     ],
-    "thumbnail": null,
+    "thumbnail": "media/candidates/timber-timbre/01.webp",
     "addedDate": "2026-10-25",
-    "candidates": []
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/timber-timbre/01.webp",
+        "origin": "https://projects.daito.ws/timber-timbre/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/timber-timbre/02.webp",
+        "origin": "https://projects.daito.ws/timber-timbre/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/timber-timbre/03.webp",
+        "origin": "https://projects.daito.ws/timber-timbre/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/timber-timbre/04.webp",
+        "origin": "https://projects.daito.ws/timber-timbre/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/timber-timbre/05.webp",
+        "origin": "https://projects.daito.ws/timber-timbre/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/timber-timbre/06.webp",
+        "origin": "https://projects.daito.ws/timber-timbre/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/timber-timbre/07.webp",
+        "origin": "https://projects.daito.ws/timber-timbre/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/timber-timbre/08.webp",
+        "origin": "https://projects.daito.ws/timber-timbre/"
+      }
+    ]
   },
   {
     "id": "schattenrequisit-column",
@@ -957,9 +998,50 @@
       "糸",
       "影"
     ],
-    "thumbnail": null,
+    "thumbnail": "media/candidates/schattenrequisit-column/01.jpg",
     "addedDate": "2026-10-25",
-    "candidates": []
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/schattenrequisit-column/01.jpg",
+        "origin": "https://www.designboom.com/art/youtaro-sakamoto-kinetic-thread-column-human-presence-shifting-shadows-schattenrequisit/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/schattenrequisit-column/02.jpg",
+        "origin": "https://www.designboom.com/art/youtaro-sakamoto-kinetic-thread-column-human-presence-shifting-shadows-schattenrequisit/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/schattenrequisit-column/03.jpg",
+        "origin": "https://www.designboom.com/art/youtaro-sakamoto-kinetic-thread-column-human-presence-shifting-shadows-schattenrequisit/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/schattenrequisit-column/04.gif",
+        "origin": "https://www.designboom.com/art/youtaro-sakamoto-kinetic-thread-column-human-presence-shifting-shadows-schattenrequisit/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/schattenrequisit-column/05.jpg",
+        "origin": "https://www.designboom.com/art/youtaro-sakamoto-kinetic-thread-column-human-presence-shifting-shadows-schattenrequisit/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/schattenrequisit-column/06.jpg",
+        "origin": "https://www.designboom.com/art/youtaro-sakamoto-kinetic-thread-column-human-presence-shifting-shadows-schattenrequisit/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/schattenrequisit-column/07.jpg",
+        "origin": "https://www.designboom.com/art/youtaro-sakamoto-kinetic-thread-column-human-presence-shifting-shadows-schattenrequisit/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/schattenrequisit-column/08.jpg",
+        "origin": "https://www.designboom.com/art/youtaro-sakamoto-kinetic-thread-column-human-presence-shifting-shadows-schattenrequisit/"
+      }
+    ]
   },
   {
     "id": "mushroom-robot",
@@ -977,9 +1059,50 @@
       "チルトセンサー",
       "インタラクティブ"
     ],
-    "thumbnail": null,
+    "thumbnail": "media/candidates/mushroom-robot/01.webp",
     "addedDate": "2026-10-25",
-    "candidates": []
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/mushroom-robot/01.webp",
+        "origin": "https://shirokumamake.com/blog/kinoko-robot-at-hakubutufes12"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/mushroom-robot/02.webp",
+        "origin": "https://shirokumamake.com/blog/kinoko-robot-at-hakubutufes12"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/mushroom-robot/03.webp",
+        "origin": "https://shirokumamake.com/blog/kinoko-robot-at-hakubutufes12"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/mushroom-robot/04.jpg",
+        "origin": "https://shirokumamake.com/blog/kinoko-robot-at-hakubutufes12"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/mushroom-robot/05.webp",
+        "origin": "https://shirokumamake.com/blog/kinoko-robot-at-hakubutufes12"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/mushroom-robot/06.webp",
+        "origin": "https://shirokumamake.com/blog/kinoko-robot-at-hakubutufes12"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/mushroom-robot/07.jpg",
+        "origin": "https://shirokumamake.com/blog/kinoko-robot-at-hakubutufes12"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/mushroom-robot/08.webp",
+        "origin": "https://shirokumamake.com/blog/kinoko-robot-at-hakubutufes12"
+      }
+    ]
   },
   {
     "id": "sybil-mitterberger",
@@ -998,9 +1121,30 @@
       "インタラクティブ",
       "マルチモーダル"
     ],
-    "thumbnail": null,
+    "thumbnail": "media/candidates/sybil-mitterberger/01.jpg",
     "addedDate": "2026-10-25",
-    "candidates": []
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/sybil-mitterberger/01.jpg",
+        "origin": "https://ars.electronica.art/negotiatinghumanity/en/view/sybil-38938ddb450c816db093e78c21f4f4e3/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/sybil-mitterberger/02.jpg",
+        "origin": "https://ars.electronica.art/negotiatinghumanity/en/view/sybil-38938ddb450c816db093e78c21f4f4e3/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/sybil-mitterberger/03.jpg",
+        "origin": "https://ars.electronica.art/negotiatinghumanity/en/view/sybil-38938ddb450c816db093e78c21f4f4e3/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/sybil-mitterberger/04.jpg",
+        "origin": "https://ars.electronica.art/negotiatinghumanity/en/view/sybil-38938ddb450c816db093e78c21f4f4e3/"
+      }
+    ]
   },
   {
     "id": "capture-resemble",
@@ -1019,9 +1163,50 @@
       "LED",
       "顔認識"
     ],
-    "thumbnail": null,
+    "thumbnail": "media/candidates/capture-resemble/01.jpg",
     "addedDate": "2026-10-25",
-    "candidates": []
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/capture-resemble/01.jpg",
+        "origin": "https://andreaslutz.com/capture-resemble/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/capture-resemble/02.jpg",
+        "origin": "https://andreaslutz.com/capture-resemble/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/capture-resemble/03.jpg",
+        "origin": "https://andreaslutz.com/capture-resemble/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/capture-resemble/04.jpg",
+        "origin": "https://andreaslutz.com/capture-resemble/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/capture-resemble/05.jpg",
+        "origin": "https://andreaslutz.com/capture-resemble/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/capture-resemble/06.jpg",
+        "origin": "https://andreaslutz.com/capture-resemble/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/capture-resemble/07.jpg",
+        "origin": "https://andreaslutz.com/capture-resemble/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/capture-resemble/08.jpg",
+        "origin": "https://andreaslutz.com/capture-resemble/"
+      }
+    ]
   },
   {
     "id": "fragmentations-unity",
@@ -1040,8 +1225,49 @@
       "群れ行動",
       "インタラクティブ"
     ],
-    "thumbnail": null,
+    "thumbnail": "media/candidates/fragmentations-unity/01.jpg",
     "addedDate": "2026-10-25",
-    "candidates": []
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/fragmentations-unity/01.jpg",
+        "origin": "https://www.kanno.so/project/fragmentations-of-unity"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/fragmentations-unity/02.jpg",
+        "origin": "https://www.kanno.so/project/fragmentations-of-unity"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/fragmentations-unity/03.jpg",
+        "origin": "https://www.kanno.so/project/fragmentations-of-unity"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/fragmentations-unity/04.jpg",
+        "origin": "https://www.kanno.so/project/fragmentations-of-unity"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/fragmentations-unity/05.jpg",
+        "origin": "https://www.kanno.so/project/fragmentations-of-unity"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/fragmentations-unity/06.jpg",
+        "origin": "https://www.kanno.so/project/fragmentations-of-unity"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/fragmentations-unity/07.jpg",
+        "origin": "https://www.kanno.so/project/fragmentations-of-unity"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/fragmentations-unity/08.jpg",
+        "origin": "https://www.kanno.so/project/fragmentations-of-unity"
+      }
+    ]
   }
 ]
