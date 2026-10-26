@@ -1448,5 +1448,236 @@
         "origin": "https://www.designboom.com/design/es-devlin-rotating-library-2000-books-london-design-museum-other-worlds/"
       }
     ]
+  },
+  {
+    "id": "dance-as-waves",
+    "title": "Dance as Waves",
+    "artist": "神山友輔（Spline Design Hub）",
+    "year": 2026,
+    "category": "installation",
+    "source": "x",
+    "sourceUrl": "https://www.spline-d.com/projects/dance-as-waves",
+    "sourceSite": "Anthropic「Machines of Loving Grace」KARIMOKU RESEARCH CENTER（東京・西麻布、2026年10月17日〜25日）",
+    "summary": "木製の構造体3体が、LEDを灯したしなやかなアームをうねらせて踊るキネティック・インスタレーション。モーターで重りを回し、その遠心力と重力だけでアームが上下する。赤川純一のサウンドとOSCで双方向に連動し、制御ソフトはClaude Codeと共に開発された（X経由で発見）。",
+    "tags": [
+      "モーター",
+      "遠心力機構",
+      "LED",
+      "OSC",
+      "サウンド連動",
+      "Claude Code"
+    ],
+    "thumbnail": "media/candidates/dance-as-waves/01.jpg",
+    "addedDate": "2026-10-27",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/dance-as-waves/01.jpg",
+        "origin": "https://x.com/MMizu12012284/status/2112908319568654527"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/dance-as-waves/02.jpg",
+        "origin": "https://x.com/nullinbetween/status/2111741705305428118"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/dance-as-waves/03.jpg",
+        "origin": "https://x.com/ArataHorie/status/2111344710421770717"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/dance-as-waves/04.jpg",
+        "origin": "https://www.spline-d.com/projects/dance-as-waves"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/dance-as-waves/05.jpg",
+        "origin": "https://www.spline-d.com/projects/dance-as-waves"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/dance-as-waves/06.jpg",
+        "origin": "https://www.spline-d.com/projects/dance-as-waves"
+      }
+    ]
+  },
+  {
+    "id": "liquid-tiles",
+    "title": "Liquid Tiles",
+    "artist": "Playmodes × Lightnet",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.playmodes.com/work/liquidtiles/",
+    "sourceSite": "Light + Building 2026（フランクフルト、2026年3月）",
+    "summary": "60度に湾曲した光るアーム126個を三角格子に並べ、それぞれをコンピューター制御で回転させるキネティックな光と音の壁面作品。つながった線が「トゥルシェ・タイル」の模様を描き、ヘビ・万華鏡・羽根などのジェネラティブなふるまいで模様と音が絶えず組み変わる。",
+    "tags": [
+      "回転アクチュエーター×126",
+      "LED",
+      "ジェネラティブ",
+      "サウンド",
+      "トゥルシェ・タイル"
+    ],
+    "thumbnail": "media/candidates/liquid-tiles/01.jpg",
+    "addedDate": "2026-10-27",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/liquid-tiles/01.jpg",
+        "origin": "https://www.lightnet-group.com/en/inspirations/light-art-17/kinetic-light-installation-liquid-tiles-413/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/liquid-tiles/02.jpg",
+        "origin": "https://www.lightnet-group.com/en/inspirations/light-art-17/kinetic-light-installation-liquid-tiles-413/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/liquid-tiles/03.jpg",
+        "origin": "https://www.lightnet-group.com/en/inspirations/light-art-17/kinetic-light-installation-liquid-tiles-413/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/liquid-tiles/04.jpg",
+        "origin": "https://www.lightnet-group.com/en/inspirations/light-art-17/kinetic-light-installation-liquid-tiles-413/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/liquid-tiles/05.jpg",
+        "origin": "https://www.lightnet-group.com/en/inspirations/light-art-17/kinetic-light-installation-liquid-tiles-413/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/liquid-tiles/06.jpg",
+        "origin": "https://www.lightnet-group.com/en/inspirations/light-art-17/kinetic-light-installation-liquid-tiles-413/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/liquid-tiles/07.jpg",
+        "origin": "https://www.lightnet-group.com/en/inspirations/light-art-17/kinetic-light-installation-liquid-tiles-413/"
+      }
+    ]
+  },
+  {
+    "id": "reactive-matter-voxels",
+    "title": "Reactive Matter: Voxels Structure 002",
+    "artist": "Scenocosme（Grégory Lasserre & Anaïs met den Ancxt）",
+    "year": 2021,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.scenocosme.com/reactive_matter_voxels_002_e.htm",
+    "sourceSite": "WIP Arts and Technology Festival「Flows」（ニコシア、2026年10月16日〜25日）ほか",
+    "summary": "450個のロボット“細胞”をつないだ、声に反応する光と音の彫刻。120個のマイコン、スピーカー、光源を内蔵し、声の抑揚や長さに応じて光と音を出す。刺激は隣の細胞へ連鎖して広がり、ライフゲームのような自己生成的なパターンが生まれる。FEMTO-STの「プログラマブル・マター」技術を使用。",
+    "tags": [
+      "マイコン×120",
+      "マイクロスピーカー",
+      "LED",
+      "音声反応",
+      "セル・オートマトン",
+      "モジュール"
+    ],
+    "thumbnail": "media/candidates/reactive-matter-voxels/01.jpg",
+    "addedDate": "2026-10-27",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/reactive-matter-voxels/01.jpg",
+        "origin": "https://www.scenocosme.com/reactive_matter_voxels_002_e.htm"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/reactive-matter-voxels/02.jpg",
+        "origin": "https://www.scenocosme.com/reactive_matter_voxels_002_e.htm"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/reactive-matter-voxels/03.jpg",
+        "origin": "https://www.scenocosme.com/reactive_matter_voxels_002_e.htm"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/reactive-matter-voxels/04.jpg",
+        "origin": "https://www.scenocosme.com/reactive_matter_voxels_002_e.htm"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/reactive-matter-voxels/05.jpg",
+        "origin": "https://www.scenocosme.com/reactive_matter_voxels_002_e.htm"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/reactive-matter-voxels/06.jpg",
+        "origin": "https://www.scenocosme.com/reactive_matter_voxels_002_e.htm"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/reactive-matter-voxels/07.jpg",
+        "origin": "https://www.scenocosme.com/reactive_matter_voxels_002_e.htm"
+      }
+    ]
+  },
+  {
+    "id": "recalibrating-identity",
+    "title": "[Re]Calibrating Identity",
+    "artist": "Madhi Ur Rehman",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.creativeapplications.net/project/recalibrating-identity-an-autonomous-walker-explores-mental-maps-of-lahores-walled-city/",
+    "sourceSite": "ウェストミンスター大学 MA Architecture 修了制作（CreativeApplications.Net 掲載、2026年10月）",
+    "summary": "ラホール旧市街の住民が記憶だけで描いた手描き地図を学習した“自律的な歩行者”が、毎回ちがう散歩ルートを生成し、ペンプロッターで描き出す作品。Arduinoで動くサーマルプリンターが、ルートの環境音を言葉にした一文と記録を印字し、地図とともに来場者に手渡す。",
+    "tags": [
+      "ペンプロッター（GRBL）",
+      "Arduino Uno",
+      "サーマルプリンター",
+      "p5.js",
+      "Python",
+      "生成モデル"
+    ],
+    "thumbnail": "media/candidates/recalibrating-identity/01.jpg",
+    "addedDate": "2026-10-27",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/recalibrating-identity/01.jpg",
+        "origin": "https://www.creativeapplications.net/project/recalibrating-identity-an-autonomous-walker-explores-mental-maps-of-lahores-walled-city/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/recalibrating-identity/02.jpg",
+        "origin": "https://www.creativeapplications.net/project/recalibrating-identity-an-autonomous-walker-explores-mental-maps-of-lahores-walled-city/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/recalibrating-identity/03.jpg",
+        "origin": "https://www.creativeapplications.net/project/recalibrating-identity-an-autonomous-walker-explores-mental-maps-of-lahores-walled-city/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/recalibrating-identity/04.jpg",
+        "origin": "https://www.creativeapplications.net/project/recalibrating-identity-an-autonomous-walker-explores-mental-maps-of-lahores-walled-city/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/recalibrating-identity/05.jpg",
+        "origin": "https://www.creativeapplications.net/project/recalibrating-identity-an-autonomous-walker-explores-mental-maps-of-lahores-walled-city/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/recalibrating-identity/06.jpg",
+        "origin": "https://www.creativeapplications.net/project/recalibrating-identity-an-autonomous-walker-explores-mental-maps-of-lahores-walled-city/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/recalibrating-identity/07.jpg",
+        "origin": "https://www.creativeapplications.net/project/recalibrating-identity-an-autonomous-walker-explores-mental-maps-of-lahores-walled-city/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/recalibrating-identity/08.jpg",
+        "origin": "https://www.creativeapplications.net/project/recalibrating-identity-an-autonomous-walker-explores-mental-maps-of-lahores-walled-city/"
+      }
+    ]
   }
 ]
