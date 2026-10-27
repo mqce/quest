@@ -1679,5 +1679,272 @@
         "origin": "https://www.creativeapplications.net/project/recalibrating-identity-an-autonomous-walker-explores-mental-maps-of-lahores-walled-city/"
       }
     ]
+  },
+  {
+    "id": "become-and-break",
+    "title": "Become and Break I",
+    "artist": "Tim Auzinger & Daniel Baer",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.creativeapplications.net/member/become-and-break-algorithmic-ensemble-of-computer-aided-performers/",
+    "sourceSite": "CreativeApplications.Net（2026年4月掲載）／継続中のキネティック光彫刻シリーズ",
+    "summary": "1mのRGBW LEDバー2本を関節でつないだ“機械のパフォーマー”2体が、ベルト駆動のスライダーで開閉しながら踊るオーディオビジュアル・キネティック彫刻。触れそうで触れない二者の緊張関係を、TouchDesignerの生成的な振付で描く。各体はESP32で制御され、E1.31（DMX over Ethernet）で位置と色をリアルタイム受信。機構音をサンプリングしたサウンドも連動する。",
+    "tags": [
+      "ESP32",
+      "RGBW LED",
+      "サーボ／ベルト駆動",
+      "TouchDesigner",
+      "E1.31 (sACN)",
+      "Ableton Live",
+      "3Dプリント"
+    ],
+    "thumbnail": "media/candidates/become-and-break/01.jpg",
+    "addedDate": "2026-10-28",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/become-and-break/01.jpg",
+        "origin": "https://www.creativeapplications.net/member/become-and-break-algorithmic-ensemble-of-computer-aided-performers/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/become-and-break/02.jpg",
+        "origin": "https://www.creativeapplications.net/member/become-and-break-algorithmic-ensemble-of-computer-aided-performers/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/become-and-break/03.jpg",
+        "origin": "https://www.creativeapplications.net/member/become-and-break-algorithmic-ensemble-of-computer-aided-performers/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/become-and-break/04.jpg",
+        "origin": "https://www.creativeapplications.net/member/become-and-break-algorithmic-ensemble-of-computer-aided-performers/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/become-and-break/05.jpg",
+        "origin": "https://www.creativeapplications.net/member/become-and-break-algorithmic-ensemble-of-computer-aided-performers/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/become-and-break/06.jpg",
+        "origin": "https://www.creativeapplications.net/member/become-and-break-algorithmic-ensemble-of-computer-aided-performers/"
+      }
+    ]
+  },
+  {
+    "id": "partition-heartbeat-plotter",
+    "title": "Partition",
+    "artist": "Pascal Piron",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.creativeapplications.net/member/partition-you-look-through-a-wall-the-wall-looks-through-you/",
+    "sourceSite": "CreativeApplications.Net（2026年3月掲載）／作家サイト pascalpiron.com",
+    "summary": "壁ののぞき穴から向こう側を見ると、ペンプロッターが正弦波を描き続けている。実は壁の裏のESP32-S3が、WiFiの電波の乱れ（CSI）から覗き込む人の心拍を同意なしに読み取り、その心拍がペンの速度になっている。「壁はあなたから機械を隠すが、機械からあなたを隠さない」という監視をテーマにした作品。波長はWiFi 2.4GHzの実波長12.5cm。",
+    "tags": [
+      "ESP32-S3",
+      "WiFi CSIセンシング",
+      "心拍検出",
+      "ペンプロッター（GRBL）",
+      "ステッピングモーター",
+      "Python"
+    ],
+    "thumbnail": "media/candidates/partition-heartbeat-plotter/01.jpg",
+    "addedDate": "2026-10-28",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/partition-heartbeat-plotter/01.jpg",
+        "origin": "https://www.creativeapplications.net/member/partition-you-look-through-a-wall-the-wall-looks-through-you/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/partition-heartbeat-plotter/02.jpg",
+        "origin": "https://www.creativeapplications.net/member/partition-you-look-through-a-wall-the-wall-looks-through-you/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/partition-heartbeat-plotter/03.jpg",
+        "origin": "https://www.creativeapplications.net/member/partition-you-look-through-a-wall-the-wall-looks-through-you/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/partition-heartbeat-plotter/04.jpg",
+        "origin": "https://www.creativeapplications.net/member/partition-you-look-through-a-wall-the-wall-looks-through-you/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/partition-heartbeat-plotter/05.jpg",
+        "origin": "https://www.creativeapplications.net/member/partition-you-look-through-a-wall-the-wall-looks-through-you/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/partition-heartbeat-plotter/06.jpg",
+        "origin": "https://www.creativeapplications.net/member/partition-you-look-through-a-wall-the-wall-looks-through-you/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/partition-heartbeat-plotter/07.jpg",
+        "origin": "https://www.creativeapplications.net/member/partition-you-look-through-a-wall-the-wall-looks-through-you/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/partition-heartbeat-plotter/08.jpg",
+        "origin": "https://www.creativeapplications.net/member/partition-you-look-through-a-wall-the-wall-looks-through-you/"
+      }
+    ]
+  },
+  {
+    "id": "muon-vortex",
+    "title": "Muon/Vortex",
+    "artist": "Barney Haynes",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.creativeapplications.net/member/muon-vortex-rendering-chance-as-a-material-force/",
+    "sourceSite": "Not/Ready Gallery（カリフォルニア州エメリービル）／CreativeApplications.Net（2026年6月掲載）",
+    "summary": "宇宙から降り注ぐ素粒子ミューオンを検出器が捉えるたびに、2つの水槽の中で渦が生まれる彫刻システム。到来が途切れると水面は静まり、集中して届くと乱流が水に筋を刻む。タイミングを決めるのは作家ではなく宇宙という、偶然を素材にした作品。Raspberry Pi 5とopenFrameworksで、磁気カップリングした3Dプリントのインペラーを回す。",
+    "tags": [
+      "宇宙線検出器（PicoMuon）",
+      "Raspberry Pi 5",
+      "openFrameworks",
+      "DCモーター",
+      "磁気カップリング",
+      "水",
+      "3Dプリント"
+    ],
+    "thumbnail": "media/candidates/muon-vortex/01.jpg",
+    "addedDate": "2026-10-28",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/muon-vortex/01.jpg",
+        "origin": "https://www.bitspaz.org/muons.html"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/muon-vortex/02.jpg",
+        "origin": "https://www.bitspaz.org/muons.html"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/muon-vortex/03.jpg",
+        "origin": "https://www.bitspaz.org/muons.html"
+      }
+    ]
+  },
+  {
+    "id": "no-bird",
+    "title": "No Bird",
+    "artist": "UJOO+LIMHEEYOUNG",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.designboom.com/art/robotic-bird-installation-sand-diorama-footprints-social-commentary/",
+    "sourceSite": "designboom（2026年2月掲載）／ソウル市・ソウル文化財団の助成",
+    "summary": "韓国の夫婦アーティストによる、砂の地形のジオラマを舞台にしたキネティック作品。金属製のロボットの鳥が砂の上に足跡を残しながら歩き、後ろを追う機械が歯ブラシ、回転ピン、柔らかいブラシで足跡を消していく。来場者が近づくと人感センサーで約2分間動き出す。記憶と忘却、破壊と再生の繰り返しを表現している。",
+    "tags": [
+      "ロボット（鳥型）",
+      "モーター機構",
+      "近接センサー",
+      "ジオラマ",
+      "砂",
+      "メタルワーク"
+    ],
+    "thumbnail": "media/candidates/no-bird/01.jpg",
+    "addedDate": "2026-10-28",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/no-bird/01.jpg",
+        "origin": "https://www.designboom.com/art/robotic-bird-installation-sand-diorama-footprints-social-commentary/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/no-bird/02.jpg",
+        "origin": "https://www.designboom.com/art/robotic-bird-installation-sand-diorama-footprints-social-commentary/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/no-bird/03.jpg",
+        "origin": "https://www.designboom.com/art/robotic-bird-installation-sand-diorama-footprints-social-commentary/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/no-bird/04.jpg",
+        "origin": "https://www.designboom.com/art/robotic-bird-installation-sand-diorama-footprints-social-commentary/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/no-bird/05.jpg",
+        "origin": "https://www.designboom.com/art/robotic-bird-installation-sand-diorama-footprints-social-commentary/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/no-bird/06.jpg",
+        "origin": "https://www.designboom.com/art/robotic-bird-installation-sand-diorama-footprints-social-commentary/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/no-bird/07.jpg",
+        "origin": "https://www.designboom.com/art/robotic-bird-installation-sand-diorama-footprints-social-commentary/"
+      }
+    ]
+  },
+  {
+    "id": "shy-society",
+    "title": "Shy Society",
+    "artist": "Studio DRIFT（Lonneke Gordijn & Ralph Nauta）",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.designboom.com/art/luminous-robotic-blooms-drift-venice-waterways/",
+    "sourceSite": "Palazzo Balbi（ヴェネツィア・カナル・グランデ）、ヴェネツィア・ビエンナーレ2026期間中（〜2026年5月10日）",
+    "summary": "ヴェネツィアのカナル・グランデに面したパラッツォ・バルビのファサードに、シルクとLEDでできたロボットの花を吊るしたサイトスペシフィックなキネティック光インスタレーション。花の就眠運動にならい、人の安静時の心拍に合わせて一斉に開閉する。代表作「Shylight」シリーズを都市スケールに広げた作品で、5年の研究を経て制作された。",
+    "tags": [
+      "キネティック",
+      "ロボティック・テキスタイル",
+      "シルク",
+      "LED",
+      "同期制御",
+      "パブリックアート"
+    ],
+    "thumbnail": "media/candidates/shy-society/01.jpg",
+    "addedDate": "2026-10-28",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/shy-society/01.jpg",
+        "origin": "https://www.designboom.com/art/luminous-robotic-blooms-drift-venice-waterways/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/shy-society/02.jpg",
+        "origin": "https://www.designboom.com/art/luminous-robotic-blooms-drift-venice-waterways/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/shy-society/03.jpg",
+        "origin": "https://www.designboom.com/art/luminous-robotic-blooms-drift-venice-waterways/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/shy-society/04.jpg",
+        "origin": "https://www.designboom.com/art/luminous-robotic-blooms-drift-venice-waterways/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/shy-society/05.jpg",
+        "origin": "https://www.designboom.com/art/luminous-robotic-blooms-drift-venice-waterways/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/shy-society/06.jpg",
+        "origin": "https://www.designboom.com/art/luminous-robotic-blooms-drift-venice-waterways/"
+      }
+    ]
   }
 ]
