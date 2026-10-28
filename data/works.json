@@ -1946,5 +1946,153 @@
         "origin": "https://www.designboom.com/art/luminous-robotic-blooms-drift-venice-waterways/"
       }
     ]
+  },
+  {
+    "id": "heat-mapping-entropy",
+    "title": "Heat Mapping Entropy",
+    "artist": "Lauren Walker",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://lauren-walker.cargo.site/heat-mapping-entropy",
+    "sourceSite": "something answered when we turned the lights on（ワイマール、2026年2月）",
+    "summary": "熱と光を合成してエントロピーを可視化するインタラクティブ作品。温度センサー31個を埋め込んだ金属面が触覚入力に反応し、周囲のLEDマトリクスに影響を与える。局所的な熱が低エントロピーの領域を作り、時間とともに拡散する様子を光で表現。秩序と無秩序の連続的な交渉としてエントロピーを明らかにする。",
+    "tags": [
+      "ESP32",
+      "Arduino",
+      "温度センサー×31",
+      "LED×270",
+      "加熱コイル",
+      "金属板"
+    ],
+    "thumbnail": null,
+    "addedDate": "2026-10-29",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/heat-mapping-entropy/02.jpg",
+        "origin": "https://lauren-walker.cargo.site/heat-mapping-entropy"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/heat-mapping-entropy/05.jpg",
+        "origin": "https://lauren-walker.cargo.site/heat-mapping-entropy"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/heat-mapping-entropy/06.jpg",
+        "origin": "https://lauren-walker.cargo.site/heat-mapping-entropy"
+      }
+    ]
+  },
+  {
+    "id": "hard-times-soft-sounds",
+    "title": "Hard Times – Soft Sounds",
+    "artist": "Moritz Simon Geist",
+    "year": 2025,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://ars.electronica.art/negotiatinghumanity/en/view/hard-times-soft-sounds-39038ddb450c81d190d4c17b9c5597ef/",
+    "sourceSite": "Ars Electronica Festival 2026（リンツ、2026年9月）",
+    "summary": "世界各地の貝殻に水を入れ、モーターで回転させて静かな音を生み出すキネティック・サウンド作品。回転する貝殻が水中の気泡を動かし、ASMRのような繊細で反復的な音のテクスチャーを作り出す。スピーカーを使わず、各貝殻が独自の音響楽器となる。生態系の脆弱性と技術の介入が重なる「ミクロな海」の風景。",
+    "tags": [
+      "モーター×20",
+      "貝殻",
+      "水",
+      "サウンド",
+      "アルミニウム"
+    ],
+    "thumbnail": null,
+    "addedDate": "2026-10-29",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/hard-times-soft-sounds/01.jpg",
+        "origin": "https://ars.electronica.art/negotiatinghumanity/en/view/hard-times-soft-sounds-39038ddb450c81d190d4c17b9c5597ef/"
+      }
+    ]
+  },
+  {
+    "id": "lightness-submission",
+    "title": "The Lightness of Submission",
+    "artist": "Dennis Hong",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://ars.electronica.art/negotiatinghumanity/en/view/the-lightness-of-submission-38838ddb450c8118a666fd0af73e5e86/",
+    "sourceSite": "Ars Electronica Festival 2026（リンツ、2026年9月）",
+    "summary": "浮力を持つロボットエージェントが、周囲のファンが作る渦状の気流だけで形成された円形の境界内を歩くインタラクティブ作品。物理的な障壁はないが、エージェントは気流の中に閉じ込められ、衝突しながら方向を変える。来場者の存在が気流を乱し、エージェントの軌道を変える。見えないシステムが行動を形作る様子を探る作品。",
+    "tags": [
+      "ロボットエージェント",
+      "ファン",
+      "浮力",
+      "気流",
+      "センサー",
+      "インタラクティブ"
+    ],
+    "thumbnail": null,
+    "addedDate": "2026-10-29",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/lightness-submission/01.jpg",
+        "origin": "https://ars.electronica.art/negotiatinghumanity/en/view/the-lightness-of-submission-38838ddb450c8118a666fd0af73e5e86/"
+      }
+    ]
+  },
+  {
+    "id": "synthetic-spirits",
+    "title": "Synthetic Spirits",
+    "artist": "Neil Mendoza",
+    "year": 2025,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.neilmendoza.com/portfolio/synthetic-spirits-bakezori/",
+    "sourceSite": "Setouchi Triennale 2025（日本）／ CURRENTS 2026（サンタフェ）",
+    "summary": "日本の民間信仰の付喪神をテーマにした2つのキネティック作品。徳利と草履がスクリーンの前を機械的な振付で通過する際、生成AIが宿る妖怪（かめおさ・化け草履）を召喚する。通過するたびに異なる精霊が現れ、長く使われた道具に魂が宿るという信仰と、使い捨て文化への対比を表現。瀬戸内の歴史ある酒蔵で初展示。",
+    "tags": [
+      "Teensy 4",
+      "ステッピングモーター",
+      "ロータリーエンコーダー",
+      "スクリーン",
+      "生成AI",
+      "3Dプリント"
+    ],
+    "thumbnail": null,
+    "addedDate": "2026-10-29",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/synthetic-spirits/01.jpg",
+        "origin": "https://www.neilmendoza.com/portfolio/synthetic-spirits-bakezori/"
+      }
+    ]
+  },
+  {
+    "id": "shared-act",
+    "title": "Shared Act",
+    "artist": "Saumil Bhandari",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://ars.electronica.art/negotiatinghumanity/en/view/shared-act-37c38ddb450c81c294f6ce4cdd9ccfdc/",
+    "sourceSite": "Ars Electronica Festival 2026（リンツ、2026年9月）",
+    "summary": "世界の紛争データで駆動される参加型キネティック彫刻。暴力が激化すると構造的な支持が徐々に引き抜かれ、彫刻が崩壊する。通りがかりの見知らぬ人々の物理的な介入だけが彫刻を復元・維持できる。自動化された仲介ではなく、共有された維持管理を提案し、共通の世界は見知らぬ人々の継続的な集団的ケアによって維持されると示す。",
+    "tags": [
+      "キネティック",
+      "紛争データ",
+      "参加型",
+      "構造彫刻",
+      "インタラクティブ"
+    ],
+    "thumbnail": null,
+    "addedDate": "2026-10-29",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/shared-act/01.jpg",
+        "origin": "https://ars.electronica.art/negotiatinghumanity/en/view/shared-act-37c38ddb450c81c294f6ce4cdd9ccfdc/"
+      }
+    ]
   }
 ]
