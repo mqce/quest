@@ -2094,5 +2094,297 @@
         "origin": "https://ars.electronica.art/negotiatinghumanity/en/view/shared-act-37c38ddb450c81c294f6ce4cdd9ccfdc/"
       }
     ]
+  },
+  {
+    "id": "white-space",
+    "title": "WHITE SPACE",
+    "artist": "Matthias Oostrik（音楽: Marcel Wierckx／エンジニアリング: Yens & Yens）",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.oostrik.net/projects/ws/index.html",
+    "sourceSite": "Matthias Oostrik 公式サイト／ADE Arts & Culture・ICK Dans Amsterdam（2026年10月22〜25日初演）",
+    "summary": "2000rpmで回転する高さ1.8mの光のモノリスが、シーケンサーの再生ヘッドのように空間を掃引する“みんなで演奏する光の楽器”。カメラとAIで来場者のポーズを読み取り、通過した人の姿勢がそのまま音符と光のパターンになる。複数人が同じポーズをとると、人と人の間の“余白”が光で満たされる。装着物も接触も不要で、身体だけで光と生成音楽を奏でるインタラクティブ作品。",
+    "tags": [
+      "キネティック",
+      "回転LED",
+      "モーター（2000rpm）",
+      "カメラ／ポーズ推定",
+      "YOLOv8",
+      "DepthAI",
+      "Max/MSP",
+      "生成音楽",
+      "インタラクティブ"
+    ],
+    "thumbnail": "media/candidates/white-space/01.jpg",
+    "addedDate": "2026-10-30",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/white-space/01.jpg",
+        "origin": "https://www.oostrik.net/projects/ws/index.html"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/white-space/02.jpg",
+        "origin": "https://www.oostrik.net/projects/ws/index.html"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/white-space/03.jpg",
+        "origin": "https://www.oostrik.net/projects/ws/index.html"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/white-space/04.jpg",
+        "origin": "https://www.oostrik.net/projects/ws/index.html"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/white-space/05.jpg",
+        "origin": "https://www.oostrik.net/projects/ws/index.html"
+      }
+    ]
+  },
+  {
+    "id": "rotoskop",
+    "title": "Rotoskop",
+    "artist": "Antonín Kindl（協力: Roman Mackovič）",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://kindl.work/2026/Rotoskop",
+    "sourceSite": "kindl.work（ブラチスラヴァ、2026）",
+    "summary": "テンセグリティ構造（ジェッセンの二十面体）をもとにした回転するキネティック光オブジェ。互いに触れない6本のアルミバーをワイヤーの張力で保持し、バーに沿わせたアドレサブルLEDが軸回転とともに残像で双曲面を描く。LEDの点灯パターンで面の一部や帯だけを浮かび上がらせ、短いフラッシュでバーを直線に“静止”させる。内部のスピーカーが回転とともにリアルタイム生成音を空間に振りまき、来場者の動きで光と音のパラメータが変化する。",
+    "tags": [
+      "キネティック",
+      "テンセグリティ",
+      "アドレサブルLED",
+      "残像（POV）",
+      "モーター回転",
+      "生成サウンド",
+      "インタラクティブ"
+    ],
+    "thumbnail": "media/candidates/rotoskop/01.jpg",
+    "addedDate": "2026-10-30",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/rotoskop/01.jpg",
+        "origin": "https://kindl.work/2026/Rotoskop"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/rotoskop/02.jpg",
+        "origin": "https://kindl.work/2026/Rotoskop"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/rotoskop/03.jpg",
+        "origin": "https://kindl.work/2026/Rotoskop"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/rotoskop/04.jpg",
+        "origin": "https://kindl.work/2026/Rotoskop"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/rotoskop/05.jpg",
+        "origin": "https://kindl.work/2026/Rotoskop"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/rotoskop/06.jpg",
+        "origin": "https://kindl.work/2026/Rotoskop"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/rotoskop/07.jpg",
+        "origin": "https://kindl.work/2026/Rotoskop"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/rotoskop/08.jpg",
+        "origin": "https://kindl.work/2026/Rotoskop"
+      }
+    ]
+  },
+  {
+    "id": "diachron",
+    "title": "Diachron",
+    "artist": "Bianca Quigley, Andrea Carrara, Maryam De Vries, Luis Ponce",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.biancaquigley.com/multimedia/diachron",
+    "sourceSite": "Bianca Quigley 公式サイト／LABA Valencia MICME（バレンシア、2026）",
+    "summary": "部屋の各所に置いた6台のステッピングモーターが、プーリーと糸で空中のフレネルレンズを精密に動かし、上向きのレーザー光線を横切らせるキネティック光インスタレーション。レンズの位置によってレーザーのコースティクス（集光模様）が色・形・動きを変え、空間全体に揺らめく光の像を生む。光そのものより、制御された運動が集中した光をどう変形させるかを主題にしている。",
+    "tags": [
+      "キネティック",
+      "ステッピングモーター×6",
+      "プーリー／ワイヤー駆動",
+      "レーザー",
+      "フレネルレンズ",
+      "コースティクス"
+    ],
+    "thumbnail": "media/candidates/diachron/01.jpg",
+    "addedDate": "2026-10-30",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/diachron/01.jpg",
+        "origin": "https://www.biancaquigley.com/multimedia/diachron"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/diachron/02.jpg",
+        "origin": "https://www.biancaquigley.com/multimedia/diachron"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/diachron/03.jpg",
+        "origin": "https://www.biancaquigley.com/multimedia/diachron"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/diachron/04.jpg",
+        "origin": "https://www.biancaquigley.com/multimedia/diachron"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/diachron/05.jpg",
+        "origin": "https://www.biancaquigley.com/multimedia/diachron"
+      }
+    ]
+  },
+  {
+    "id": "light-named-you",
+    "title": "The Light Named You",
+    "artist": "Seph Li",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.creativeapplications.net/project/the-light-named-you-resetting-earths-gravity/",
+    "sourceSite": "CreativeApplications.Net（2026年6月掲載）／深圳芸術与科技ビエンナーレ・深圳国際美術館（常設収蔵）",
+    "summary": "リング状に並べた256個の超音波トランスデューサーのフェーズドアレイで小さな発泡粒子を浮遊させ、“光子の代理”として来場者の動きに共鳴させるインスタレーション。重力が宇宙初期に光子を生んだという仮説から着想し、崩壊した宇宙の廃墟で来場者の存在が最初の光を取り戻す情景を描く。FPGAが毎秒300フレームで位相を制御し、赤外線カメラとMediaPipeで手の動きを追跡、粒子が無限記号や円環の軌跡を描く。",
+    "tags": [
+      "超音波浮揚",
+      "フェーズドアレイ（256ch）",
+      "FPGA",
+      "赤外線カメラ",
+      "MediaPipe",
+      "C++",
+      "3Dプリント",
+      "インタラクティブ"
+    ],
+    "thumbnail": "media/candidates/light-named-you/01.jpg",
+    "addedDate": "2026-10-30",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/light-named-you/01.jpg",
+        "origin": "https://www.creativeapplications.net/project/the-light-named-you-resetting-earths-gravity/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/light-named-you/02.jpg",
+        "origin": "https://www.creativeapplications.net/project/the-light-named-you-resetting-earths-gravity/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/light-named-you/03.jpg",
+        "origin": "https://www.creativeapplications.net/project/the-light-named-you-resetting-earths-gravity/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/light-named-you/04.jpg",
+        "origin": "https://www.creativeapplications.net/project/the-light-named-you-resetting-earths-gravity/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/light-named-you/05.jpg",
+        "origin": "https://www.creativeapplications.net/project/the-light-named-you-resetting-earths-gravity/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/light-named-you/06.jpg",
+        "origin": "https://www.creativeapplications.net/project/the-light-named-you-resetting-earths-gravity/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/light-named-you/07.jpg",
+        "origin": "https://www.creativeapplications.net/project/the-light-named-you-resetting-earths-gravity/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/light-named-you/08.jpg",
+        "origin": "https://www.creativeapplications.net/project/the-light-named-you-resetting-earths-gravity/"
+      }
+    ]
+  },
+  {
+    "id": "ground-truth",
+    "title": "Ground Truth",
+    "artist": "Justin Blinder",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.creativeapplications.net/member/ground-truth-turning-economic-abstraction-into-a-physical-experience/",
+    "sourceSite": "CreativeApplications.Net（2026年8月掲載）／ニューヨーク",
+    "summary": "NYのシェアサイクル（Citi Bike）に後付けする小型デバイスで、走行地点の家賃負担率データに応じてペダルの重さを変える“触覚データ可視化”。GPSで位置を取得し、SDカードに格納したブロック単位の住宅負担データと照合して、高トルクサーボでフロントブレーキのテンションを調整する。住宅費の重い地域ほど漕ぐのがつらくなり、統計を身体の労力として体験させる。",
+    "tags": [
+      "ESP32-S3",
+      "サーボモーター",
+      "GPS",
+      "SDカード",
+      "3Dプリント筐体",
+      "データ・フィジカライゼーション",
+      "都市介入"
+    ],
+    "thumbnail": "media/candidates/ground-truth/01.jpg",
+    "addedDate": "2026-10-30",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/ground-truth/01.jpg",
+        "origin": "https://www.creativeapplications.net/member/ground-truth-turning-economic-abstraction-into-a-physical-experience/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/ground-truth/02.jpg",
+        "origin": "https://www.creativeapplications.net/member/ground-truth-turning-economic-abstraction-into-a-physical-experience/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/ground-truth/03.jpg",
+        "origin": "https://www.creativeapplications.net/member/ground-truth-turning-economic-abstraction-into-a-physical-experience/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/ground-truth/04.jpg",
+        "origin": "https://www.creativeapplications.net/member/ground-truth-turning-economic-abstraction-into-a-physical-experience/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/ground-truth/05.jpg",
+        "origin": "https://www.creativeapplications.net/member/ground-truth-turning-economic-abstraction-into-a-physical-experience/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/ground-truth/06.jpg",
+        "origin": "https://www.creativeapplications.net/member/ground-truth-turning-economic-abstraction-into-a-physical-experience/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/ground-truth/07.jpg",
+        "origin": "https://www.creativeapplications.net/member/ground-truth-turning-economic-abstraction-into-a-physical-experience/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/ground-truth/08.jpg",
+        "origin": "https://www.creativeapplications.net/member/ground-truth-turning-economic-abstraction-into-a-physical-experience/"
+      }
+    ]
   }
 ]
