@@ -1965,12 +1965,27 @@
       "加熱コイル",
       "金属板"
     ],
-    "thumbnail": null,
+    "thumbnail": "media/candidates/heat-mapping-entropy/01.jpg",
     "addedDate": "2026-10-29",
     "candidates": [
       {
         "type": "image",
+        "src": "media/candidates/heat-mapping-entropy/01.jpg",
+        "origin": "https://lauren-walker.cargo.site/heat-mapping-entropy"
+      },
+      {
+        "type": "image",
         "src": "media/candidates/heat-mapping-entropy/02.jpg",
+        "origin": "https://lauren-walker.cargo.site/heat-mapping-entropy"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/heat-mapping-entropy/03.jpg",
+        "origin": "https://lauren-walker.cargo.site/heat-mapping-entropy"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/heat-mapping-entropy/04.jpg",
         "origin": "https://lauren-walker.cargo.site/heat-mapping-entropy"
       },
       {
@@ -2002,13 +2017,48 @@
       "サウンド",
       "アルミニウム"
     ],
-    "thumbnail": null,
+    "thumbnail": "media/candidates/hard-times-soft-sounds/01.jpg",
     "addedDate": "2026-10-29",
     "candidates": [
       {
         "type": "image",
         "src": "media/candidates/hard-times-soft-sounds/01.jpg",
-        "origin": "https://ars.electronica.art/negotiatinghumanity/en/view/hard-times-soft-sounds-39038ddb450c81d190d4c17b9c5597ef/"
+        "origin": "https://photos.ars.electronica.art/picture.php?/16164"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/hard-times-soft-sounds/02.jpg",
+        "origin": "https://photos.ars.electronica.art/picture.php?/16566"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/hard-times-soft-sounds/03.jpg",
+        "origin": "https://photos.ars.electronica.art/picture.php?/14277"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/hard-times-soft-sounds/04.jpg",
+        "origin": "https://photos.ars.electronica.art/picture.php?/14278"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/hard-times-soft-sounds/05.jpg",
+        "origin": "https://photos.ars.electronica.art/picture.php?/16568"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/hard-times-soft-sounds/06.jpg",
+        "origin": "https://photos.ars.electronica.art/picture.php?/16155"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/hard-times-soft-sounds/07.jpg",
+        "origin": "https://photos.ars.electronica.art/picture.php?/17554"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/hard-times-soft-sounds/08.jpg",
+        "origin": "https://photos.ars.electronica.art/picture.php?/16153"
       }
     ]
   },
@@ -2030,13 +2080,48 @@
       "センサー",
       "インタラクティブ"
     ],
-    "thumbnail": null,
+    "thumbnail": "media/candidates/lightness-submission/01.jpg",
     "addedDate": "2026-10-29",
     "candidates": [
       {
         "type": "image",
         "src": "media/candidates/lightness-submission/01.jpg",
-        "origin": "https://ars.electronica.art/negotiatinghumanity/en/view/the-lightness-of-submission-38838ddb450c8118a666fd0af73e5e86/"
+        "origin": "https://photos.ars.electronica.art/picture.php?/14267"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/lightness-submission/02.jpg",
+        "origin": "https://photos.ars.electronica.art/picture.php?/14266"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/lightness-submission/03.jpg",
+        "origin": "https://photos.ars.electronica.art/picture.php?/14268"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/lightness-submission/04.jpg",
+        "origin": "https://photos.ars.electronica.art/picture.php?/17411"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/lightness-submission/05.jpg",
+        "origin": "https://photos.ars.electronica.art/picture.php?/17430"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/lightness-submission/06.jpg",
+        "origin": "https://photos.ars.electronica.art/picture.php?/17431"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/lightness-submission/07.jpg",
+        "origin": "https://photos.ars.electronica.art/picture.php?/16121"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/lightness-submission/08.jpg",
+        "origin": "https://photos.ars.electronica.art/picture.php?/17433"
       }
     ]
   },
@@ -2058,13 +2143,48 @@
       "生成AI",
       "3Dプリント"
     ],
-    "thumbnail": null,
+    "thumbnail": "media/candidates/synthetic-spirits/01.jpg",
     "addedDate": "2026-10-29",
     "candidates": [
       {
         "type": "image",
         "src": "media/candidates/synthetic-spirits/01.jpg",
-        "origin": "https://www.neilmendoza.com/portfolio/synthetic-spirits-bakezori/"
+        "origin": "https://www.creativeapplications.net/member/synthetic-spirits-kinetic-sculptures-reveal-a-hidden-world/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/synthetic-spirits/02.jpg",
+        "origin": "https://www.creativeapplications.net/member/synthetic-spirits-kinetic-sculptures-reveal-a-hidden-world/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/synthetic-spirits/03.jpg",
+        "origin": "https://www.creativeapplications.net/member/synthetic-spirits-kinetic-sculptures-reveal-a-hidden-world/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/synthetic-spirits/04.jpg",
+        "origin": "https://www.creativeapplications.net/member/synthetic-spirits-kinetic-sculptures-reveal-a-hidden-world/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/synthetic-spirits/05.jpg",
+        "origin": "https://www.creativeapplications.net/member/synthetic-spirits-kinetic-sculptures-reveal-a-hidden-world/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/synthetic-spirits/06.jpg",
+        "origin": "https://www.creativeapplications.net/member/synthetic-spirits-kinetic-sculptures-reveal-a-hidden-world/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/synthetic-spirits/07.jpg",
+        "origin": "https://www.creativeapplications.net/member/synthetic-spirits-kinetic-sculptures-reveal-a-hidden-world/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/synthetic-spirits/08.jpg",
+        "origin": "https://www.neilmendoza.com/portfolio/synthetic-spirits-kameosa/"
       }
     ]
   },
@@ -2085,7 +2205,7 @@
       "構造彫刻",
       "インタラクティブ"
     ],
-    "thumbnail": null,
+    "thumbnail": "media/candidates/shared-act/01.jpg",
     "addedDate": "2026-10-29",
     "candidates": [
       {
