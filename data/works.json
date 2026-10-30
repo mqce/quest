@@ -2506,5 +2506,243 @@
         "origin": "https://www.creativeapplications.net/member/ground-truth-turning-economic-abstraction-into-a-physical-experience/"
       }
     ]
+  },
+  {
+    "id": "belugas-sphere",
+    "title": "Belugas’ Sphere",
+    "artist": "Jed Berk",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://festival.dac.taipei/en/work-detail/?id=main-09",
+    "sourceSite": "2026 臺北數位藝術節（Taipei Digital Art Festival）／臺北典藏植物園（2026年10月31日〜11月15日）",
+    "summary": "ヘリウムを詰めたマイラー製のベルーガ型ロボットの群れが、光を求めて自律的に漂う参加型インスタレーション。光センサーとモーターで光源に向かって動き、明るさの変化に応じて群れの形や集まり方、ピエゾスピーカーの“歌”が変わる。観客は光を当てて行動に介入できるが、誰もいなくても群れは動き続ける。2008年の《Beluga Pod》を、自律エージェントの時代に向けて再構成した新作。",
+    "tags": [
+      "自律ロボット",
+      "群知能",
+      "光センサー",
+      "モーター",
+      "ピエゾスピーカー",
+      "ヘリウム飛行体",
+      "インタラクティブ"
+    ],
+    "thumbnail": "media/candidates/belugas-sphere/01.jpg",
+    "addedDate": "2026-10-31",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/belugas-sphere/01.jpg",
+        "origin": "https://festival.dac.taipei/en/work-detail/?id=main-09"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/belugas-sphere/02.jpg",
+        "origin": "https://festival.dac.taipei/en/work-detail/?id=main-09"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/belugas-sphere/03.jpg",
+        "origin": "https://festival.dac.taipei/en/work-detail/?id=main-09"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/belugas-sphere/04.jpg",
+        "origin": "https://festival.dac.taipei/en/work-detail/?id=main-09"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/belugas-sphere/05.jpg",
+        "origin": "https://festival.dac.taipei/en/work-detail/?id=main-09"
+      }
+    ]
+  },
+  {
+    "id": "knock-on-wood",
+    "title": "Knock On Wood",
+    "artist": "Shashwath Santosh, Nithin Eluvathingal",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.designboom.com/technology/tree-mounted-machines-web-app-users-knock-on-wood-remotely/",
+    "sourceSite": "designboom（2026年10月11日掲載）",
+    "summary": "「木を叩いて厄除け」という迷信を遠隔で実行できる、木に取り付けるネット接続デバイス。Webアプリのボタンを押すと、中央サーバー経由で世界中の木に付けられたノッカーがリアルタイムに木をコンコンと叩く。東京のカフェからニューヨークの公園の木を叩く、といった使い方を想定。迷信や儀式を機械で問い直すシリーズ「Machines Responding to Superstitions」の一作。",
+    "tags": [
+      "IoT",
+      "Wi-Fi",
+      "アクチュエーター",
+      "Webアプリ",
+      "クリティカルデザイン",
+      "屋外設置"
+    ],
+    "thumbnail": "media/candidates/knock-on-wood/01.jpg",
+    "addedDate": "2026-10-31",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/knock-on-wood/01.jpg",
+        "origin": "https://www.designboom.com/technology/tree-mounted-machines-web-app-users-knock-on-wood-remotely/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/knock-on-wood/02.jpg",
+        "origin": "https://www.designboom.com/technology/tree-mounted-machines-web-app-users-knock-on-wood-remotely/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/knock-on-wood/03.jpg",
+        "origin": "https://www.designboom.com/technology/tree-mounted-machines-web-app-users-knock-on-wood-remotely/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/knock-on-wood/04.jpg",
+        "origin": "https://www.designboom.com/technology/tree-mounted-machines-web-app-users-knock-on-wood-remotely/"
+      }
+    ]
+  },
+  {
+    "id": "material-interactions",
+    "title": "Material Interactions",
+    "artist": "Nadya Suvorova, Heidi Jalkh",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.designboom.com/design/five-material-driven-kinetic-sculptures-material-interactions-nadya-suvorova-heidi-jalkh/",
+    "sourceSite": "designboom（2026年3月20日掲載）",
+    "summary": "素材そのものを“動く部品”として扱う5点のキネティック・オブジェのシリーズ。貝殻由来のバイオセラミック球が転がり自立し（BM.01 Bind）、菌糸体が成長し（MG.02 Grow）、磁性シリコーンの毛が物を運び（MC.03 Magnetize）、オーキセティック構造のEVAが物を包み（AS.04 Strain）、鉄粉が磁場で壁を移動する（MF.05 Attract）。各作品はモーターと近接センサーで観客の接近に反応する。",
+    "tags": [
+      "モーター",
+      "近接センサー",
+      "磁性材料",
+      "菌糸体",
+      "バイオ素材",
+      "マテリアルデザイン",
+      "キネティック"
+    ],
+    "thumbnail": "media/candidates/material-interactions/01.jpg",
+    "addedDate": "2026-10-31",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/material-interactions/01.jpg",
+        "origin": "https://www.designboom.com/design/five-material-driven-kinetic-sculptures-material-interactions-nadya-suvorova-heidi-jalkh/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/material-interactions/02.jpg",
+        "origin": "https://www.designboom.com/design/five-material-driven-kinetic-sculptures-material-interactions-nadya-suvorova-heidi-jalkh/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/material-interactions/03.jpg",
+        "origin": "https://www.designboom.com/design/five-material-driven-kinetic-sculptures-material-interactions-nadya-suvorova-heidi-jalkh/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/material-interactions/04.jpg",
+        "origin": "https://www.designboom.com/design/five-material-driven-kinetic-sculptures-material-interactions-nadya-suvorova-heidi-jalkh/"
+      }
+    ]
+  },
+  {
+    "id": "lightwall",
+    "title": "Lightwall",
+    "artist": "Rita Sus, Zach Rattner（CSUFの学生15名が協力）",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.emit-light.com/lightwall",
+    "sourceSite": "EMIT LIGHT／California Center for the Arts, Escondido（2026年1月〜）",
+    "summary": "回転するプリズムと精密に制御された光で、目の前に立つ人の動きや言葉を色と影、音のパターンに変える対話型のキネティック・ライト作品。内部では十数個のマイコンがセンサー、プリズムのモーター、音を協調制御し、1台のMac miniで動くローカルAIと同期する。クラウドを使わずその場で処理するため低遅延でプライバシーも守られる。",
+    "tags": [
+      "マイコン",
+      "モーター",
+      "回転プリズム",
+      "センサー",
+      "ローカルAI",
+      "光",
+      "インタラクティブ"
+    ],
+    "thumbnail": "media/candidates/lightwall/02.jpg",
+    "addedDate": "2026-10-31",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/lightwall/01.jpg",
+        "origin": "https://www.emit-light.com/lightwall"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/lightwall/02.jpg",
+        "origin": "https://www.emit-light.com/lightwall"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/lightwall/03.jpg",
+        "origin": "https://www.emit-light.com/lightwall"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/lightwall/04.jpg",
+        "origin": "https://www.emit-light.com/lightwall"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/lightwall/05.jpg",
+        "origin": "https://www.emit-light.com/lightwall"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/lightwall/06.jpg",
+        "origin": "https://www.emit-light.com/lightwall"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/lightwall/07.jpg",
+        "origin": "https://www.emit-light.com/lightwall"
+      }
+    ]
+  },
+  {
+    "id": "babele-fantasma",
+    "title": "Babele Fantasma",
+    "artist": "Virgilio Villoresi",
+    "year": 2026,
+    "category": "installation",
+    "source": "x",
+    "sourceUrl": "https://x.com/HeritageMatterz/status/2115256752346153448",
+    "sourceSite": "X（@HeritageMatterz）／Labirinto della Masone（イタリア・フォンタネッラート、2026年10月〜常設）",
+    "summary": "バベルの塔の形をした巨大なゾートロープ（回転のぞき絵）。各階に置かれた20コマの立体フィギュアが、回転とストロボ光によって突然動き出し、アルベルト・マルティーニに着想を得た幽霊のような住人たちが塔の中をさまよう。映画の起源である光と運動と残像だけで“見えないもの”を出現させる、手仕事の驚異の機械。迷宮ラビリント・デッラ・マゾーネのピラミッドに常設される。",
+    "tags": [
+      "ゾートロープ",
+      "モーター回転",
+      "ストロボ",
+      "立体アニメーション",
+      "アナログ",
+      "キネティック"
+    ],
+    "thumbnail": "media/candidates/babele-fantasma/01.jpg",
+    "addedDate": "2026-10-31",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/babele-fantasma/01.jpg",
+        "origin": "https://www.harpersbazaar.com/it/cultura/arte/a73955179/virgilio-villoresi-intervista-labirinto-della-masone/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/babele-fantasma/02.jpg",
+        "origin": "https://www.harpersbazaar.com/it/cultura/arte/a73955179/virgilio-villoresi-intervista-labirinto-della-masone/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/babele-fantasma/03.jpg",
+        "origin": "https://www.harpersbazaar.com/it/cultura/arte/a73955179/virgilio-villoresi-intervista-labirinto-della-masone/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/babele-fantasma/04.jpg",
+        "origin": "https://www.virgiliovilloresi.com/project/babele-fantasma/"
+      }
+    ]
   }
 ]
