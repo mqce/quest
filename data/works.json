@@ -2744,5 +2744,222 @@
         "origin": "https://www.virgiliovilloresi.com/project/babele-fantasma/"
       }
     ]
+  },
+  {
+    "id": "writing-history",
+    "title": "Writing History",
+    "artist": "Paul&Albert（ロボティクス：Leander van Boven）",
+    "year": 2025,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.designboom.com/art/autonomous-robotic-installation-writing-history-paul-albert/",
+    "sourceSite": "designboom／Museum aan de A（オランダ・フローニンゲン）",
+    "summary": "ガラスと鉄のショーケースに収められた産業用ロボットアームが、マーカーでガラス面にフローニンゲンの歴史にまつわる文章や図を書き、スポンジで消してはまた書き続ける自律型インスタレーション。歴史データベースに加え、水位・交通量・天気などのリアルタイムデータも書き込まれる。途中で手を止めたり書き直したりする“ためらい”の微細な振る舞いがプログラムされ、機械が歴史を記録し消去する行為そのものを見せる。",
+    "tags": [
+      "ロボットアーム",
+      "自律ロボット",
+      "リアルタイムデータ",
+      "データ・フィジカライゼーション",
+      "ガラス",
+      "ペン描画"
+    ],
+    "thumbnail": "media/candidates/writing-history/01.jpg",
+    "addedDate": "2026-11-01",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/writing-history/01.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/02/writing-history-paul-albert-autonomous-art-installation-museum-aan-de-a-netherlands-designboom-1800-1.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/writing-history/02.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/02/writing-history-paul-albert-autonomous-art-installation-museum-aan-de-a-netherlands-designboom-1800-2-1.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/writing-history/03.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/02/writing-history-paul-albert-autonomous-art-installation-museum-aan-de-a-netherlands-designboom-1800-3.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/writing-history/04.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/02/writing-history-paul-albert-autonomous-art-installation-museum-aan-de-a-netherlands-designboom-1800-4.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/writing-history/05.jpg",
+        "origin": "https://www.designboom.com/wp-content/dbsub/464758/2025-12-16/writing-history-2-69418813a4363.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/writing-history/06.jpg",
+        "origin": "https://www.designboom.com/wp-content/dbsub/464758/2025-12-16/writing-history-4-69418813a43d7.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/writing-history/07.jpg",
+        "origin": "https://www.designboom.com/wp-content/dbsub/464758/2025-12-16/writing-history-6-69418813a444e.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/writing-history/08.jpg",
+        "origin": "https://www.designboom.com/wp-content/dbsub/464758/2025-12-16/writing-history-8-69418813a44ad.jpg"
+      }
+    ]
+  },
+  {
+    "id": "beauty-seeker-seeker",
+    "title": "Beauty Seeker Seeker",
+    "artist": "Batten and Kamp",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.designboom.com/art/attention-seeking-ai-robot-mobile-vase-single-orchid-batten-kamp-beauty-seeker-seeker/",
+    "sourceSite": "designboom",
+    "summary": "一輪の蘭を挿した3Dプリントのアルミ＋ガラス製の花瓶を背負って歩く、六脚ロボットの作品。LiDARで周囲の空間と人の位置を把握し、人のあとをついて回って視線を蘭へと向けさせる。“かわいさ”を武器に注意を奪うアテンション・エコノミーへの批評として構想され、椅子が歩き回る前作『Comfort Seeker Seeker』（2023）から発展。完全自律版は2027年に予定されている。",
+    "tags": [
+      "六脚ロボット",
+      "LiDAR",
+      "自律ロボット",
+      "人追従",
+      "3Dプリント",
+      "アルミニウム",
+      "植物",
+      "クリティカルデザイン"
+    ],
+    "thumbnail": "media/candidates/beauty-seeker-seeker/01.jpg",
+    "addedDate": "2026-11-01",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/beauty-seeker-seeker/01.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/09/attention-seeking-ai-robot-mobile-vase-orchid-batten-kamp-beauty-seeker-seeker-designboom-1800-1.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/beauty-seeker-seeker/02.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/09/attention-seeking-ai-robot-mobile-vase-orchid-batten-kamp-beauty-seeker-seeker-designboom-1800-3.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/beauty-seeker-seeker/03.jpg",
+        "origin": "https://www.designboom.com/wp-content/dbsub/440541/2026-09-03/beauty-seeker-seeker-batten-and-kamps-embodied-ai-vase-interrogates-the-21st-century-attention-economy-1-6a9994acd73f9.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/beauty-seeker-seeker/04.jpg",
+        "origin": "https://www.designboom.com/wp-content/dbsub/440541/2026-09-03/beauty-seeker-seeker-batten-and-kamps-embodied-ai-vase-interrogates-the-21st-century-attention-economy-4-6a9994acd751c.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/beauty-seeker-seeker/05.jpg",
+        "origin": "https://www.designboom.com/wp-content/dbsub/440541/2026-09-03/beauty-seeker-seeker-batten-and-kamps-embodied-ai-vase-interrogates-the-21st-century-attention-economy-6-6a9994acd75a4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "flock-of-ducks",
+    "title": "Flock of Ducks",
+    "artist": "Felix Scharstein",
+    "year": 2022,
+    "category": "installation",
+    "source": "x",
+    "sourceUrl": "https://x.com/MasayukiTsuda2/status/2106153578276749625",
+    "sourceSite": "X（@MasayukiTsuda2）／Deutsches Museum「Freie Maschinen」（ミュンヘン、2026年10月8日〜11月29日）",
+    "summary": "電動モーターで、互いに組み合わさった3本のらせんが同期して回転し、その上に乗った鴨たちが互いの周りを旋回しながら飛び交うように見えるキネティック彫刻。磨き上げた真鍮（金メッキ）の小型版（2022）に加え、アルミと真鍮による大型版も制作され、ドイツ博物館の展覧会『Freie Maschinen』で展示中。作家サイトに動画あり：https://www.scharstein.de/wp-content/uploads/Flock-of-Ducks.mp4",
+    "tags": [
+      "キネティック",
+      "モーター回転",
+      "同期制御",
+      "真鍮",
+      "アルミニウム",
+      "構造彫刻",
+      "群れ行動"
+    ],
+    "thumbnail": "media/candidates/flock-of-ducks/01.jpg",
+    "addedDate": "2026-11-01",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/flock-of-ducks/01.jpg",
+        "origin": "https://www.deutsches-museum.de/assets/Presse/Museumsinsel_Flugwerft_Verkehrszentrum/Pressemitteilung/Bilder/2026/Freie_Maschinen_flockofducks.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/flock-of-ducks/02.jpg",
+        "origin": "https://www.scharstein.de/wp-content/uploads/Flock-of-Ducks.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/flock-of-ducks/03.jpg",
+        "origin": "https://x.com/i/status/2115243162390131016"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/flock-of-ducks/04.jpg",
+        "origin": "https://s3files.core77.com/blog/images/lead_n_spotlight/1855113_spotlight_145738_gD5uPwBKG.png"
+      }
+    ]
+  },
+  {
+    "id": "in-concert-mohri",
+    "title": "In Concert",
+    "artist": "毛利悠子（Yuko Mohri）",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.barbican.org.uk/whats-on/2026/event/yuko-mohri-in-concert",
+    "sourceSite": "Barbican The Curve（ロンドン、2026年10月1日〜2027年1月24日）",
+    "summary": "バービカンの湾曲ギャラリー「The Curve」全体を使ったサイトスペシフィックな展示。果物に挿したセンサーが熟れていく果実の水分変化を読み取り、拾い集めたランプの光と音に変換する《Decomposition》、チューブを巡る水がシンバルやベルを鳴らす《Moré Moré [Leaky]》、扇風機の風でケーブルが揺れる《Urban Mining》などで構成。バービカンから集めた廃品も使い、修理・偶然性・エントロピーをめぐる“合奏”を生み出す。",
+    "tags": [
+      "サウンド",
+      "センサー",
+      "植物センサー",
+      "光",
+      "水",
+      "ファン",
+      "モーター",
+      "サイトスペシフィック"
+    ],
+    "thumbnail": "media/candidates/in-concert-mohri/01.jpg",
+    "addedDate": "2026-11-01",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/in-concert-mohri/01.jpg",
+        "origin": "https://cdn.prod.website-files.com/63cd8bd9b9a071b28d8e1272/6adb859476dba1f210174ba1_14..jpeg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/in-concert-mohri/02.jpg",
+        "origin": "https://backend.artreview.com/wp-content/uploads/2026/10/10.-Installation-view-of-Yuko-Mohri-In-Concert-Thu-1-Oct-2026-Sun-24-Jan-2027-c-Thomas-Adank-Barbican-Art-Gallery-1230x1640.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/in-concert-mohri/03.jpg",
+        "origin": "https://backend.artreview.com/wp-content/uploads/2026/10/11.-Installation-view-of-Yuko-Mohri-In-Concert-Thu-1-Oct-2026-Sun-24-Jan-2027-c-Thomas-Adank-Barbican-Art-Gallery-1230x1640.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/in-concert-mohri/04.jpg",
+        "origin": "https://symbolsandsecrets.london/wp-content/uploads/2026/10/74A89493-E64F-4735-8292-22A3A4646842_1_201_a.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/in-concert-mohri/05.jpg",
+        "origin": "https://symbolsandsecrets.london/wp-content/uploads/2026/10/C1D23BD9-9ED0-4D5C-BA6B-41854876002B_1_201_a.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/in-concert-mohri/06.jpg",
+        "origin": "https://symbolsandsecrets.london/wp-content/uploads/2026/10/2D340C97-BB9F-4220-A483-A99A834FC253_1_201_a.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/in-concert-mohri/07.jpg",
+        "origin": "https://symbolsandsecrets.london/wp-content/uploads/2026/10/62B8D65A-35A4-4E7B-B0E4-AC5BA69C9003_1_201_a.jpeg"
+      }
+    ]
   }
 ]
