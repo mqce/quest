@@ -2961,5 +2961,275 @@
         "origin": "https://symbolsandsecrets.london/wp-content/uploads/2026/10/62B8D65A-35A4-4E7B-B0E4-AC5BA69C9003_1_201_a.jpeg"
       }
     ]
+  },
+  {
+    "id": "space-odradek",
+    "title": "Space Odradek",
+    "artist": "Sangbong Lee（イ・サンボン）",
+    "year": 2025,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://sangbonglee.com/space_odradek.html",
+    "sourceSite": "ZER01NE DAY 2025（ソウル・現代自動車 Seongsu Hub、2025年9月）／HfK Bremen 修了展（2026年4月）",
+    "summary": "上空を通過する人工衛星の電波をQFHアンテナとSDRで受信し、空間音響・ディスプレイ・プロッターに変換するインスタレーション。会場に立つ折り紙のような「オドラデク」装置は、ESP32とTMC2209ステッピングドライバを載せた自作基板で駆動し、運用を終えた“ゾンビ衛星”を追尾しながら花のように開閉する。目に見えない宇宙のインフラを、音と動きで体感させる作品。",
+    "tags": [
+      "人工衛星",
+      "SDR",
+      "ESP32",
+      "ステッピングモーター",
+      "自作基板",
+      "空間音響",
+      "プロッター",
+      "キネティック"
+    ],
+    "thumbnail": "media/candidates/space-odradek/01.jpg",
+    "addedDate": "2026-11-02",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/space-odradek/01.jpg",
+        "origin": "https://sangbonglee.com/img/project_img/odradek/odradek_web_img_1.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/space-odradek/02.jpg",
+        "origin": "https://sangbonglee.com/img/project_img/odradek/odradek_web_img_5.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/space-odradek/03.jpg",
+        "origin": "https://sangbonglee.com/img/project_img/odradek/odradek_web_img_0.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/space-odradek/04.jpg",
+        "origin": "https://sangbonglee.com/img/project_img/odradek/odradek_web_img_4.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/space-odradek/05.jpg",
+        "origin": "https://sangbonglee.com/img/project_img/odradek/odradek_web_img_2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/space-odradek/06.jpg",
+        "origin": "https://sangbonglee.com/img/project_img/odradek/odradek_web_img_7.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/space-odradek/07.jpg",
+        "origin": "https://digitalmedia-bremen.de/wp-content/uploads/2026/05/SPO_Thesis_Mark_1-768x512.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/space-odradek/08.jpg",
+        "origin": "https://digitalmedia-bremen.de/wp-content/uploads/2026/05/SPO_Thesis_Mark_5-768x512.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "flower-mirror-daimaru",
+    "title": "Flower Mirror",
+    "artist": "dot by dot inc.（ハードウェア：TASKO／制御基板：Ponoor）",
+    "year": 2017,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://whatever.co/ja/work/300th-daimaru-anniversary-flower-mirror/",
+    "sourceSite": "大丸創業300周年（大丸東京店 2017年2月／大丸京都店 2017年3月）",
+    "summary": "約3,000輪の花が並ぶ5m×3mの楕円形の壁が、前に立った人のシルエットを花の開閉で鏡のように映し出すインタラクティブ・インスタレーション。800個のステッピングモーターを100枚のSTEP800ボード（L6470ドライバ）で個別制御し、UnityからOSCで動きを送る。人がいない時は文字や模様も描き出す。大丸創業300周年を記念して東京・京都で展示された。",
+    "tags": [
+      "ステッピングモーター",
+      "モーター800個",
+      "花",
+      "センサー",
+      "インタラクティブ",
+      "OSC",
+      "Unity",
+      "キネティックウォール"
+    ],
+    "thumbnail": "media/candidates/flower-mirror-daimaru/01.jpg",
+    "addedDate": "2026-11-02",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/flower-mirror-daimaru/01.jpg",
+        "origin": "https://cdn.whatever.co/wp-content/uploads/2017/02/daimaru-flower-mirror_main.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/flower-mirror-daimaru/02.jpg",
+        "origin": "https://cdn.whatever.co/wp-content/uploads/2021/02/daimaru-flower-mirror_01.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/flower-mirror-daimaru/03.jpg",
+        "origin": "https://cdn.whatever.co/wp-content/uploads/2021/02/daimaru-flower-mirror_05.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/flower-mirror-daimaru/04.jpg",
+        "origin": "https://cdn.whatever.co/wp-content/uploads/2021/02/daimaru-flower-mirror_03.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/flower-mirror-daimaru/05.jpg",
+        "origin": "https://ponoor.com/cms/wp-content/uploads/2020/10/daimaru_resized-1600x1064.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/flower-mirror-daimaru/06.jpg",
+        "origin": "https://cdn.whatever.co/wp-content/uploads/2021/02/daimaru-flower-mirror_06.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/flower-mirror-daimaru/07.jpg",
+        "origin": "https://cdn.whatever.co/wp-content/uploads/2017/02/daimaru-flower-mirror_sub.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/flower-mirror-daimaru/08.jpg",
+        "origin": "https://cdn.whatever.co/wp-content/uploads/2021/02/daimaru-flower-mirror_07.jpg"
+      }
+    ]
+  },
+  {
+    "id": "ignition-schmitt",
+    "title": "Ignition",
+    "artist": "Nika Schmitt（ニカ・シュミット）",
+    "year": 2024,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.schmittnika.com/works/ignition",
+    "sourceSite": "個展「HOMING」La BF15（リヨン、2026年11月13日〜2027年1月23日）で展示",
+    "summary": "ガラス、鋼、点火針とモーターによる小さなキネティック彫刻。ゆっくり回転する2本の点火針が出会う瞬間、カチッという音とともに青い電気の火花が飛ぶ。ルクセンブルク出身のシュミットは、時計仕掛けのように自律して振る舞う“言うことをきかない機械”を制作しており、リヨンの個展「HOMING」でも展示される。",
+    "tags": [
+      "キネティック彫刻",
+      "モーター",
+      "放電",
+      "火花",
+      "ガラス",
+      "ミニマル"
+    ],
+    "thumbnail": "media/candidates/ignition-schmitt/01.jpg",
+    "addedDate": "2026-11-02",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/ignition-schmitt/01.jpg",
+        "origin": "https://www.schmittnika.com/static/uploads/images/644c01b7c04c481f9a38c7b7b2851c82-1440.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/ignition-schmitt/02.jpg",
+        "origin": "https://www.schmittnika.com/static/uploads/images/8f8cade27cff412283638ba0f67d91eb-1280.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/ignition-schmitt/03.jpg",
+        "origin": "https://www.schmittnika.com/static/uploads/images/1bf310edf6f748b7a811b7efe3024985-1440.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/ignition-schmitt/04.jpg",
+        "origin": "https://www.schmittnika.com/static/uploads/images/6db0699f54d44111a3480f8102883b0f-1024.webp"
+      }
+    ]
+  },
+  {
+    "id": "scut-work-vinyard",
+    "title": "Scut Work",
+    "artist": "Jordan Vinyard（ジョーダン・ヴィニヤード）",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://midbrow.org/can-the-clankers-yearn/",
+    "sourceSite": "Living Arts of Tulsa（米オクラホマ州タルサ、2026年9月4日〜10月）",
+    "summary": "ギャラリー全体を架空の整備工場に見立てた個展。肌色のシリコンをまとったロボットのようなキネティック彫刻群が、人感センサーで来場者に反応して唐突に機械音を立てて動き出す。首を振るカメラと映像モニター、小さなLEDスクリーンにカウントダウンを表示する骨組み、パフォーマーによる労働の身振りなども組み合わせ、AIと自動化の時代の労働と人間・機械の関係を問う。",
+    "tags": [
+      "キネティック彫刻",
+      "ロボット",
+      "人感センサー",
+      "カメラ",
+      "LEDスクリーン",
+      "映像",
+      "パフォーマンス"
+    ],
+    "thumbnail": "media/candidates/scut-work-vinyard/01.jpg",
+    "addedDate": "2026-11-02",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/scut-work-vinyard/01.jpg",
+        "origin": "https://storage.ghost.io/c/75/ae/75ae44e9-a895-4fc6-ab69-476b77203965/content/images/size/w2000/2026/09/IMG_1815.JPG"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/scut-work-vinyard/02.jpg",
+        "origin": "https://storage.ghost.io/c/75/ae/75ae44e9-a895-4fc6-ab69-476b77203965/content/images/size/w1600/2026/09/IMG_1820.JPG"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/scut-work-vinyard/03.jpg",
+        "origin": "https://storage.ghost.io/c/75/ae/75ae44e9-a895-4fc6-ab69-476b77203965/content/images/size/w1600/2026/09/IMG_1821.JPG"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/scut-work-vinyard/04.jpg",
+        "origin": "https://storage.ghost.io/c/75/ae/75ae44e9-a895-4fc6-ab69-476b77203965/content/images/size/w1600/2026/09/kissing-booth-2.JPG"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/scut-work-vinyard/05.jpg",
+        "origin": "https://storage.ghost.io/c/75/ae/75ae44e9-a895-4fc6-ab69-476b77203965/content/images/size/w1600/2026/09/IMG_1817-1.JPG"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/scut-work-vinyard/06.jpg",
+        "origin": "https://storage.ghost.io/c/75/ae/75ae44e9-a895-4fc6-ab69-476b77203965/content/images/size/w1600/2026/09/all-the-king-s-horses-full.JPG"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/scut-work-vinyard/07.jpg",
+        "origin": "https://storage.ghost.io/c/75/ae/75ae44e9-a895-4fc6-ab69-476b77203965/content/images/size/w1600/2026/09/IMG_1830.JPG"
+      }
+    ]
+  },
+  {
+    "id": "the-cloud-swank",
+    "title": "The Cloud",
+    "artist": "Jessica Swank（ジェシカ・スワンク）",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.plexusprojects.org/programming/jessica-swank-the-cloud",
+    "sourceSite": "Plexus Projects（2026年10月24日〜11月24日）",
+    "summary": "作家が集めた乾燥機の糸くずや人の髪の毛、フォームでできた“雲”の中に、ライト・人感センサー・マイコンを仕込んだインタラクティブ・インスタレーション。来場者が近づいて動くと、雲の中で稲妻のように光が明滅し、人の存在が“データ”として可視化される。迫りくる嵐を予感させる作品。",
+    "tags": [
+      "マイコン",
+      "人感センサー",
+      "LED",
+      "光",
+      "インタラクティブ",
+      "廃材"
+    ],
+    "thumbnail": "media/candidates/the-cloud-swank/01.jpg",
+    "addedDate": "2026-11-02",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/the-cloud-swank/01.jpg",
+        "origin": "https://cdn.prod.website-files.com/6875296cfa17d03a8f4f2591/6ada4a82eeecd8eeb005110a_The%20Cloud-11-p-1600.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/the-cloud-swank/02.jpg",
+        "origin": "https://cdn.prod.website-files.com/6875296cfa17d03a8f4f2591/6ada4a7c2ff5113c5c14ea7f_The%20Cloud-04-p-1600.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/the-cloud-swank/03.jpg",
+        "origin": "https://cdn.prod.website-files.com/6875296cfa17d03a8f4f2591/6ada4a821846f6de7b1b34fa_The%20Cloud-10-p-1600.jpg"
+      }
+    ]
   }
 ]
