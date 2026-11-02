@@ -3231,5 +3231,224 @@
         "origin": "https://cdn.prod.website-files.com/6875296cfa17d03a8f4f2591/6ada4a821846f6de7b1b34fa_The%20Cloud-10-p-1600.jpg"
       }
     ]
+  },
+  {
+    "id": "the-tipping-point-kranidiotis",
+    "title": "The Tipping Point",
+    "artist": "Yiannis Kranidiotis（ヤニス・クラニディオティス）",
+    "year": 2024,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://kranidiotis.gr/the-tipping-point/",
+    "sourceSite": "Patchlab Festival／MOCAK クラクフ（2026年10月15日〜18日）・ADAF アテネ・iMAL ブリュッセル「NaturArchy」ほか",
+    "summary": "暗い空間に並ぶピラミッド型の自作メトロノーム群が、光る振り子を揺らしながら気候データに基づいてテンポを刻むキネティック・インスタレーション。氷床融解や永久凍土、サンゴ礁など地球システムの「ティッピング・ポイント（転換点）」に関するデータをリズムと光に変換し、気候危機が引き起こす不可逆的な変化を、空間を満たす音と動きとして体感させる。欧州委員会JRCのSciArtプログラム「Resonances IV」の委嘱作品。",
+    "tags": [
+      "キネティック",
+      "メトロノーム",
+      "LED",
+      "モーター",
+      "データ・ビジュアライゼーション",
+      "気候変動",
+      "サウンド"
+    ],
+    "thumbnail": "media/candidates/the-tipping-point-kranidiotis/01.jpg",
+    "addedDate": "2026-11-03",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/the-tipping-point-kranidiotis/01.jpg",
+        "origin": "https://kranidiotis.gr/wp-content/uploads/2024/02/Metronomes1_small.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/the-tipping-point-kranidiotis/02.jpg",
+        "origin": "https://en.patchlab.pl/wp-content/uploads/sites/7/2026/09/TIpping-Point-_-Yiannis-Kranidiotis-_GR.png"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/the-tipping-point-kranidiotis/03.jpg",
+        "origin": "https://kranidiotis.gr/wp-content/uploads/2024/02/Metronome-v1.0.png"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/the-tipping-point-kranidiotis/04.jpg",
+        "origin": "https://www.imal.org/media/pages/events/naturarchy/the-tipping-point/396558441-1742819158/the-tipping-point-web-1440x.jpg"
+      }
+    ]
+  },
+  {
+    "id": "cycles-n2-spy",
+    "title": "CYCLES N2",
+    "artist": "SpY（スパイ）",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://mymodernmet.com/spy-cycles-n2/",
+    "sourceSite": "NUR International Media Art Festival（カザン、2026年）",
+    "summary": "スペインのアーティストSpYによる大規模キネティック・ライト・インスタレーション。幅20m×奥行8mの空間に吊られた15個の発光リングが、モーターでそれぞれ独立に昇降し、重なり合ったり離れたりしながらトンネルや渦のような形を絶えず描き変える。赤い光に満たされた空間で、循環と時間の流れを体験させる。",
+    "tags": [
+      "キネティック",
+      "モーター",
+      "LED",
+      "光",
+      "大型インスタレーション",
+      "スチール"
+    ],
+    "thumbnail": "media/candidates/cycles-n2-spy/01.jpg",
+    "addedDate": "2026-11-03",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/cycles-n2-spy/01.jpg",
+        "origin": "https://mymodernmet.com/wp/wp-content/uploads/2026/07/spy-cycles-n2-1.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/cycles-n2-spy/02.jpg",
+        "origin": "https://mymodernmet.com/wp/wp-content/uploads/2026/07/spy-cycles-n2-2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/cycles-n2-spy/03.jpg",
+        "origin": "https://mymodernmet.com/wp/wp-content/uploads/2026/07/spy-cycles-n2-4.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/cycles-n2-spy/04.jpg",
+        "origin": "https://mymodernmet.com/wp/wp-content/uploads/2026/07/spy-cycles-n2-8.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/cycles-n2-spy/05.jpg",
+        "origin": "https://mymodernmet.com/wp/wp-content/uploads/2026/07/spy-cycles-n2-11.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/cycles-n2-spy/06.jpg",
+        "origin": "https://mymodernmet.com/wp/wp-content/uploads/2026/07/spy-cycles-n2-12.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/cycles-n2-spy/07.jpg",
+        "origin": "https://mymodernmet.com/wp/wp-content/uploads/2026/07/spy-cycles-n2-15.jpg"
+      }
+    ]
+  },
+  {
+    "id": "particle-flow-neoanalog",
+    "title": "Particle Flow",
+    "artist": "NEOANALOG（ネオアナログ）",
+    "year": 2016,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://neoanalog.io/particle-flow",
+    "sourceSite": "NEOANALOG（Dreiform／INEOS Styrolution委嘱、2016年）",
+    "summary": "六角形のトレイに敷き詰めたプラスチック粒子（ペレット）を、3台のステッピングモーターでトレイ全体を傾けて流し、裏側から19本のサーボ駆動スタンプで突き上げることで、粒子が波のように流れ・跳ねる模様を生み出すキネティック・オブジェ。Arduino UNO＋SparkFun AutoDriver（L6470）で傾斜を、Arduino MEGAでサーボを制御し、Processingから Ethernet（UDP）経由で動きを指令する。",
+    "tags": [
+      "キネティック",
+      "Arduino",
+      "ステッピングモーター",
+      "サーボ",
+      "Processing",
+      "粒子",
+      "機構"
+    ],
+    "thumbnail": "media/candidates/particle-flow-neoanalog/01.jpg",
+    "addedDate": "2026-11-03",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/particle-flow-neoanalog/01.jpg",
+        "origin": "https://neoanalog.io/wp-content/uploads/2018/05/particleFlow_1to2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/particle-flow-neoanalog/02.jpg",
+        "origin": "https://neoanalog.io/wp-content/uploads/2016/11/Particle-Flow-In-Motion.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/particle-flow-neoanalog/03.jpg",
+        "origin": "https://neoanalog.io/wp-content/uploads/2016/11/Particle-Flow-Detail_4.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/particle-flow-neoanalog/04.jpg",
+        "origin": "https://neoanalog.io/wp-content/uploads/2016/11/Particle-Flow-Detail_3.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/particle-flow-neoanalog/05.jpg",
+        "origin": "https://neoanalog.io/wp-content/uploads/2016/11/Particle-Flow-Gears-1.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/particle-flow-neoanalog/06.jpg",
+        "origin": "https://neoanalog.io/wp-content/uploads/2016/11/Particle-Flow-Motor.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/particle-flow-neoanalog/07.jpg",
+        "origin": "https://neoanalog.io/wp-content/uploads/2016/11/Particle-Flow-Mechanic-Test.jpg"
+      }
+    ]
+  },
+  {
+    "id": "booboos-zkm-hertzlab",
+    "title": "Booboos: Elektronischer Streichelzoo（電子ふれあい動物園）",
+    "artist": "ZKM Hertzlab（Tina Lorenz ほか）",
+    "year": 2026,
+    "category": "small-robot",
+    "source": "web",
+    "sourceUrl": "https://www.lab30.de/programm-2026/booboo",
+    "sourceSite": "lab.30 フェスティバル／ZKM カールスルーエ（2026年10月29日〜11月9日）",
+    "summary": "ふわふわの毛に覆われた10匹のロボット・モルモット「Booboos」が、撫でたり話しかけたりすると反応する“電子のふれあい動物園”。帽子や耳飾りでそれぞれ個性をもつ小さなロボットたちと触れ合いながら、「これは生きているのか、それとも生きているふりをしているだけなのか」を問いかけ、機械への共感やAI・ケアロボットのあり方を子どもにも体感的に考えさせる。",
+    "tags": [
+      "小型ロボット",
+      "インタラクティブ",
+      "タッチセンサー",
+      "音声",
+      "ペットロボット",
+      "ぬいぐるみ"
+    ],
+    "thumbnail": "media/candidates/booboos-zkm-hertzlab/01.jpg",
+    "addedDate": "2026-11-03",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/booboos-zkm-hertzlab/01.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/57d4086744024343d190c106/1791194770868-EKG51FFLTRURY83XA1QK/ZKM_Streichelzoo_%C2%A9.png"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/booboos-zkm-hertzlab/02.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/57d4086744024343d190c106/1791195929413-FMJYHV7YKLB9IGJ1RVXV/Coco.png"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/booboos-zkm-hertzlab/03.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/57d4086744024343d190c106/1791195931082-AD11DSE4W2BFRRUQO0IX/Joshi.png"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/booboos-zkm-hertzlab/04.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/57d4086744024343d190c106/1791195931088-1X4ZWYLVMDLKCFW8B500/gigi.png"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/booboos-zkm-hertzlab/05.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/57d4086744024343d190c106/1791195932433-AWTRAC3FQ1WOUQHGWTZ9/Lola.png"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/booboos-zkm-hertzlab/06.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/57d4086744024343d190c106/1791195933769-9FUYSJM74HNCYIIGJTPK/Mimi.png"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/booboos-zkm-hertzlab/07.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/57d4086744024343d190c106/1791195935332-Y08MQZJ9CXRU7MMXCSML/Pixel.png"
+      }
+    ]
   }
 ]
