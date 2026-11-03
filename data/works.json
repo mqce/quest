@@ -3450,5 +3450,222 @@
         "origin": "https://images.squarespace-cdn.com/content/v1/57d4086744024343d190c106/1791195935332-Y08MQZJ9CXRU7MMXCSML/Pixel.png"
       }
     ]
+  },
+  {
+    "id": "lumiac-andrea-mancuso",
+    "title": "LUMIAC",
+    "artist": "Andrea Mancuso",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.designboom.com/design/chandelier-living-machine-1950s-computers-lumiac-andrea-mancuso-milan-design-week-2026/",
+    "sourceSite": "designboom／Nilufar（ミラノ・デザインウィーク2026）",
+    "summary": "1950年代の初期コンピュータ「MANIAC」に着想を得た、生き物のように動くキネティック・シャンデリア。鋳造アルミの関節アームが吹きガラスの光球を抱え、中央コアのモーターが腕を同期して動かす。リモート制御で調光と動きを連動させ、照明そのものが呼吸する“機械の生命体”として空間を変化させる。",
+    "tags": [
+      "キネティック",
+      "照明",
+      "モーター",
+      "リモート制御",
+      "ガラス",
+      "デザインウィーク"
+    ],
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/lumiac-andrea-mancuso/01.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/05/chandelier-living-machine-1950s-computers-lumiac-andrea-mancuso-milan-design-week-2026-designboom-01.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/lumiac-andrea-mancuso/02.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/05/chandelier-living-machine-1950s-computers-lumiac-andrea-mancuso-milan-design-week-2026-designboom-02.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/lumiac-andrea-mancuso/03.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/05/chandelier-living-machine-1950s-computers-lumiac-andrea-mancuso-milan-design-week-2026-designboom-03.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/lumiac-andrea-mancuso/04.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/05/chandelier-living-machine-1950s-computers-lumiac-andrea-mancuso-milan-design-week-2026-designboom-04.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/lumiac-andrea-mancuso/05.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/05/chandelier-living-machine-1950s-computers-lumiac-andrea-mancuso-milan-design-week-2026-designboom-05.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/lumiac-andrea-mancuso/06.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/05/chandelier-living-machine-1950s-computers-lumiac-andrea-mancuso-milan-design-week-2026-designboom-06.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/lumiac-andrea-mancuso/07.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/05/chandelier-living-machine-1950s-computers-lumiac-andrea-mancuso-milan-design-week-2026-designboom-07.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/lumiac-andrea-mancuso/08.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/05/chandelier-living-machine-1950s-computers-lumiac-andrea-mancuso-milan-design-week-2026-designboom-08.jpg"
+      }
+    ],
+    "thumbnail": "media/candidates/lumiac-andrea-mancuso/01.jpg",
+    "addedDate": "2026-11-04"
+  },
+  {
+    "id": "replica-alessia-la-rocca",
+    "title": "Replica（Replica_ Mod 01）",
+    "artist": "Alessia La Rocca（SUPSI インタラクションデザイン修士）",
+    "year": 2026,
+    "category": "small-robot",
+    "source": "web",
+    "sourceUrl": "https://www.creativeapplications.net/project/replica-toward-an-actionable-representation-of-algorithmic-identity/",
+    "sourceSite": "CreativeApplications.Net",
+    "summary": "Chrome拡張がブラウジング履歴から推定した「アルゴリズム上の自分」を一文にして、机上の小さな電子ペーパー端末に表示するデバイス。2つのロータリーエンコーダーで特定カテゴリを“汚染”したり“増幅”したりでき、見えないプロファイリングを手で触れて操作できる形にする。",
+    "tags": [
+      "ESP32",
+      "電子ペーパー",
+      "ロータリーエンコーダー",
+      "3Dプリント",
+      "デバイス",
+      "アルゴリズム"
+    ],
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/replica-alessia-la-rocca/01.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2026/07/D3_LaRocca_Alessia_ThesisProjectPictures-1.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/replica-alessia-la-rocca/02.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2026/07/D3_LaRocca_Alessia_ThesisProjectPictures-2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/replica-alessia-la-rocca/03.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2026/07/D3_LaRocca_Alessia_ThesisProjectPictures-3.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/replica-alessia-la-rocca/04.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2026/07/D3_LaRocca_Alessia_ThesisProjectPictures-4.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/replica-alessia-la-rocca/05.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2026/07/D3_LaRocca_Alessia_ThesisProjectPictures-5.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/replica-alessia-la-rocca/06.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2026/07/D3_LaRocca_Alessia_ThesisProjectPictures-6.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/replica-alessia-la-rocca/07.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2026/07/D3_LaRocca_Alessia_ThesisProjectPictures-8.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/replica-alessia-la-rocca/08.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2026/07/D3_LaRocca_Alessia_ThesisProjectPictures-9-scaled.jpg"
+      }
+    ],
+    "thumbnail": "media/candidates/replica-alessia-la-rocca/01.jpg",
+    "addedDate": "2026-11-04"
+  },
+  {
+    "id": "ailegory-of-the-cave",
+    "title": "[AI]legory of the Cave",
+    "artist": "Sam Chin, Skye Gao, Leonie Dong, Cathy Fang, Alejandro Lopez-Rodriguez（MIT Media Lab Fluid Interfaces）",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.creativeapplications.net/project/ailegory-of-the-cave-confined-to-representations-of-the-world/",
+    "sourceSite": "CreativeApplications.Net／MIT Media Lab",
+    "summary": "プラトンの「洞窟の比喩」をもとに、LLMが操る影のキャラクターが実物の照明スイッチ（ソレノイド駆動）を消そうとするインスタレーション。来場者が磁石入りのブロックを置いて邪魔すると、ESP32 XIAOが電磁石でブロックを“蹴り”返す。カメラで現実を読み取り、影の世界と物理世界がせめぎ合う。",
+    "tags": [
+      "LLM",
+      "ESP32",
+      "電磁石",
+      "ソレノイド",
+      "影",
+      "インタラクティブ"
+    ],
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/ailegory-of-the-cave/01.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2026/11/cave-1-rotated.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/ailegory-of-the-cave/02.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2026/11/cave-2-rotated.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/ailegory-of-the-cave/03.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2026/11/cave-FINAL-compressed_00-00-00.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/ailegory-of-the-cave/04.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2026/11/cave-FINAL-compressed_00-01-31.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/ailegory-of-the-cave/05.jpg",
+        "origin": "https://samch.in/assets/images/projects/allegory-of-the-cave/IMG_2896.JPG"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/ailegory-of-the-cave/06.jpg",
+        "origin": "https://samch.in/assets/images/projects/allegory-of-the-cave/IMG_2927.JPG"
+      }
+    ],
+    "thumbnail": "media/candidates/ailegory-of-the-cave/01.jpg",
+    "addedDate": "2026-11-04"
+  },
+  {
+    "id": "no-nc-aatb",
+    "title": "NO/NC（Normally Open, Normally Closed）",
+    "artist": "AATB（Andrea Anner & Thibault Brevet）",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.creativeapplications.net/project/nc-normally-open-normally-closed-walls-are-alive-but-can-they-be-trusted/",
+    "sourceSite": "CreativeApplications.Net／EPFL Archizoom（ローザンヌ）",
+    "summary": "ティンセルのカーテンを吊るした4台のロボットアームが自律的に動き回り、時に集まって一時的な囲いをつくるインスタレーション。通行人はその間を縫って歩くことになり、細胞膜のように形を変える“生きた壁”が人を取り込む。建築環境そのものが動き出す時代に、機械を信頼できるかを問う。",
+    "tags": [
+      "ロボットアーム",
+      "キネティック",
+      "自律移動",
+      "カメラ",
+      "建築",
+      "空間"
+    ],
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/no-nc-aatb/01.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2026/11/NO-NC_1920_00-31-49.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/no-nc-aatb/02.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2026/11/NO-NC_00-00-00.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/no-nc-aatb/03.jpg",
+        "origin": "https://www.aatb.ch/media/pages/archive/les-culturelles/d922b52c41-1793384486/nonc-archizoom-cover-24-600x.jpg"
+      }
+    ],
+    "thumbnail": "media/candidates/no-nc-aatb/01.jpg",
+    "addedDate": "2026-11-04"
   }
 ]
