@@ -3667,5 +3667,308 @@
     ],
     "thumbnail": "media/candidates/no-nc-aatb/01.jpg",
     "addedDate": "2026-11-04"
+  },
+  {
+    "id": "speculative-futures-fargas",
+    "title": "Speculative Futures: Robotic Meditation",
+    "artist": "Joaquín Fargas",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.espronceda.net/speculative-futures-robotic-meditation/",
+    "sourceSite": "Espronceda（バルセロナ）／joaquinfargas.com",
+    "summary": "太陽電池で動く12体のロボットが、太陽を追って頭をゆっくり回すインスタレーション。2019年の《Robotika》から発展した作品で、カリフォルニアの塩湖のほとりやブエノスアイレスで展示され、2026年はウィーンのFabrikraumとバルセロナのEsproncedaで、音楽と合わせた瞑想パフォーマンスとして上演。機械が自然のリズムに同調する未来を想像させる。",
+    "tags": [
+      "ロボット",
+      "ソーラー",
+      "太陽追尾",
+      "モーター",
+      "群体",
+      "瞑想",
+      "パフォーマンス"
+    ],
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/speculative-futures-fargas/01.jpg",
+        "origin": "https://www.joaquinfargas.com/wp-content/uploads/2023/03/DJI_20230308_173421_572-1536x1152.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/speculative-futures-fargas/02.jpg",
+        "origin": "https://www.joaquinfargas.com/wp-content/uploads/2023/03/SpeculativeF2-1.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/speculative-futures-fargas/03.jpg",
+        "origin": "https://www.joaquinfargas.com/wp-content/uploads/2024/06/IMG_1591-scaled.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/speculative-futures-fargas/04.jpg",
+        "origin": "https://www.joaquinfargas.com/wp-content/uploads/2024/06/IMG_1579-1536x1024.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/speculative-futures-fargas/05.jpg",
+        "origin": "https://www.joaquinfargas.com/wp-content/uploads/2024/06/IMG_1342-1536x1024.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/speculative-futures-fargas/06.jpg",
+        "origin": "https://www.joaquinfargas.com/wp-content/uploads/2024/06/IMG_1608-1536x1024.jpg"
+      }
+    ],
+    "thumbnail": "media/candidates/speculative-futures-fargas/01.jpg",
+    "addedDate": "2026-11-05"
+  },
+  {
+    "id": "mire-lee-golden-lead",
+    "title": "The Heart of My Machine is Golden Lead",
+    "artist": "Mire Lee",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.oudekerk.nl/en/news/mire-lee-november-2026/46778",
+    "sourceSite": "Secession（ウィーン）／Oude Kerk（アムステルダム）／Tina Kim Gallery",
+    "summary": "切り開いたコンクリートミキサーのドラムが回り続け、PVCチューブとポンプで酸化鉄・真鍮粉・おがくずを混ぜた赤い液体を循環させる大型のキネティック彫刻。ウィーン分離派会館での展示（2026年6〜8月）を経て、アムステルダムのOude Kerkで全長7mのミキサーを用いた新バージョンが2026年11月13日から2027年3月7日まで展示される。",
+    "tags": [
+      "キネティック",
+      "モーター",
+      "ポンプ",
+      "液体",
+      "機械",
+      "大型彫刻",
+      "サウンド"
+    ],
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/mire-lee-golden-lead/01.jpg",
+        "origin": "https://artlogic-res.cloudinary.com/w_1600,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0164/usr/exhibitions/images/exhibitions/218/5_secession_mire-lee_03a.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/mire-lee-golden-lead/02.jpg",
+        "origin": "https://www.oudekerk.nl/assets/images/transfroms/_1376x807_crop_center-center_none/01-Mire-Lee-The-Heart-of-My-Machine-is-Golden-Lead-2026.-Foto’s-Iris-Ranzinger.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/mire-lee-golden-lead/03.jpg",
+        "origin": "https://artlogic-res.cloudinary.com/w_1600,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0164/usr/exhibitions/images/exhibitions/218/1_secession_mire-lee_07.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/mire-lee-golden-lead/04.jpg",
+        "origin": "https://artlogic-res.cloudinary.com/w_1600,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0164/usr/exhibitions/images/exhibitions/218/4__secession_mire-lee_02.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/mire-lee-golden-lead/05.jpg",
+        "origin": "https://tinakimgallery.com/custom_images/1200x630c/usr/images/news/main_image/564/secession_mire-lee_03e.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/mire-lee-golden-lead/06.jpg",
+        "origin": "https://artlogic-res.cloudinary.com/w_1600,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0164/usr/exhibitions/images/exhibitions/218/3_secession_mire-lee_06.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/mire-lee-golden-lead/07.jpg",
+        "origin": "https://www.oudekerk.nl/assets/images/transfroms/_1376x807_crop_center-center_none/06-Mire-Lee-The-Heart-of-My-Machine-is-Golden-Lead-2026.-Foto’s-Iris-Ranzinger.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/mire-lee-golden-lead/08.jpg",
+        "origin": "https://artlogic-res.cloudinary.com/w_1600,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0164/usr/exhibitions/images/exhibitions/218/2_secession_mire-lee_05.jpg"
+      }
+    ],
+    "thumbnail": "media/candidates/mire-lee-golden-lead/01.jpg",
+    "addedDate": "2026-11-05"
+  },
+  {
+    "id": "unruly-vessel-rachel-youn",
+    "title": "Unruly Vessel（Congregation ほか）",
+    "artist": "Rachel Youn",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.designboom.com/art/rachel-youn-discarded-wellness-devices-restless-machines-care-interview/",
+    "sourceSite": "designboom／Scuola Piccola Zattere（ヴェネツィア）",
+    "summary": "中古のマッサージ器やエクササイズマシン、ベビースウィングのモーターを再利用し、造花やヤシの葉をうねらせ・震わせ続けるキネティック彫刻群。ヴェネツィアでのレジデンスで制作された新作《Congregation》では、運動器具がベンチに付けたヤシの葉を櫂のように漕ぎ続ける。癒やしと自己鍛錬、反復が快から苦痛へ変わる境目を問う。2026年11月22日まで展示。",
+    "tags": [
+      "キネティック",
+      "モーター",
+      "再利用",
+      "マッサージ器",
+      "造花",
+      "反復運動"
+    ],
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/unruly-vessel-rachel-youn/01.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/06/rachel-youn-discarded-wellness-devices-restless-machines-care-interview-designboom-06.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/unruly-vessel-rachel-youn/02.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/06/rachel-youn-discarded-wellness-devices-restless-machines-care-interview-designboom-1800.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/unruly-vessel-rachel-youn/03.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/06/rachel-youn-discarded-wellness-devices-restless-machines-care-interview-designboom-03.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/unruly-vessel-rachel-youn/04.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/06/rachel-youn-discarded-wellness-devices-restless-machines-care-interview-designboom-04.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/unruly-vessel-rachel-youn/05.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/06/rachel-youn-discarded-wellness-devices-restless-machines-care-interview-designboom-07.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/unruly-vessel-rachel-youn/06.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/06/rachel-youn-discarded-wellness-devices-restless-machines-care-interview-designboom-09.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/unruly-vessel-rachel-youn/07.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/06/rachel-youn-discarded-wellness-devices-restless-machines-care-interview-designboom-12.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/unruly-vessel-rachel-youn/08.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/06/rachel-youn-discarded-wellness-devices-restless-machines-care-interview-designboom-13.jpg"
+      }
+    ],
+    "thumbnail": "media/candidates/unruly-vessel-rachel-youn/01.jpg",
+    "addedDate": "2026-11-05"
+  },
+  {
+    "id": "katsuo-gravity-uo",
+    "title": "Katsuo Gravity",
+    "artist": "UO",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.designboom.com/art/kinetic-installation-shaved-bonito-flakes-continuous-display-system-katsuo-gravity-uo/",
+    "sourceSite": "designboom／uo-design.jp（茅乃舎 京都祇園店）",
+    "summary": "茅乃舎 京都祇園店に常設されたキネティックインスタレーション。鰹節削り機が約0.01mmの削り節を空中に放ち、ひらひらと舞い落ちた削り節を円形のステージが受け止める。重みが一定量に達するとステージがししおどしのように傾いて削り節を落とし、また最初に戻る。落ちた削り節はスタッフが集めて実際の出汁や料理に使われる。",
+    "tags": [
+      "キネティック",
+      "機構",
+      "重力",
+      "食",
+      "常設",
+      "日本"
+    ],
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/katsuo-gravity-uo/01.jpg",
+        "origin": "https://uo-design.jp/uo/wp-content/uploads/2026/06/20260425_0059_78-のコピー.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/katsuo-gravity-uo/02.jpg",
+        "origin": "https://uo-design.jp/uo/wp-content/uploads/2026/06/20260425_0106_156_187-のコピー.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/katsuo-gravity-uo/03.jpg",
+        "origin": "https://uo-design.jp/uo/wp-content/uploads/2026/06/20260425_0104_171-のコピー.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/katsuo-gravity-uo/04.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/06/kinetic-installation-shaved-bonito-flakes-continuous-display-system-katsuo-gravity-uo-designboom-1200.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/katsuo-gravity-uo/05.jpg",
+        "origin": "https://uo-design.jp/uo/wp-content/uploads/2026/06/20260425_0558-のコピー.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/katsuo-gravity-uo/06.jpg",
+        "origin": "https://uo-design.jp/uo/wp-content/uploads/2026/06/20260425_0531-のコピー.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/katsuo-gravity-uo/07.jpg",
+        "origin": "https://uo-design.jp/uo/wp-content/uploads/2026/06/20260425_0322-のコピー-2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/katsuo-gravity-uo/08.jpg",
+        "origin": "https://uo-design.jp/uo/wp-content/uploads/2026/06/20260425_0367_372_376-のコピー.jpg"
+      }
+    ],
+    "thumbnail": "media/candidates/katsuo-gravity-uo/01.jpg",
+    "addedDate": "2026-11-05"
+  },
+  {
+    "id": "patternflow-seunghun-lee",
+    "title": "Patternflow",
+    "artist": "Seunghun Lee（@engmung）",
+    "year": 2026,
+    "category": "small-robot",
+    "source": "web",
+    "sourceUrl": "https://www.creativeapplications.net/news/patternflow-an-open-source-led-synthesizer-reinterpreting-participation-tv/",
+    "sourceSite": "CreativeApplications.Net／GitHub engmung/Patternflow",
+    "summary": "ナムジュン・パイクの《Participation TV》を再解釈した、オープンソースの“LEDシンセサイザー”。ESP32-S3で128×64のHUB75 RGB LEDマトリクスを駆動し、4つのロータリーエンコーダーを回して生成パターンを楽器のように演奏する。自作PCBと3Dプリントケースの設計データがGitHubで公開され、各地で自作版が作られている。動画: https://www.youtube.com/watch?v=BPMhTChY9vg",
+    "tags": [
+      "ESP32-S3",
+      "LEDマトリクス",
+      "HUB75",
+      "ロータリーエンコーダー",
+      "オープンソース",
+      "ジェネラティブ",
+      "PCB"
+    ],
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/patternflow-seunghun-lee/01.jpg",
+        "origin": "https://img.youtube.com/vi/BPMhTChY9vg/maxresdefault.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/patternflow-seunghun-lee/02.jpg",
+        "origin": "https://raw.githubusercontent.com/engmung/Patternflow/main/docs/media/hero-loop.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/patternflow-seunghun-lee/03.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2026/07/Patternflow.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/patternflow-seunghun-lee/04.jpg",
+        "origin": "https://raw.githubusercontent.com/engmung/Patternflow/main/docs/media/community-builds.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/patternflow-seunghun-lee/05.jpg",
+        "origin": "https://raw.githubusercontent.com/engmung/Patternflow/main/docs/media/daw-ableton.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/patternflow-seunghun-lee/06.jpg",
+        "origin": "https://raw.githubusercontent.com/engmung/Patternflow/main/web/public/journal/v1-30-days/first-pcb.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/patternflow-seunghun-lee/07.jpg",
+        "origin": "https://raw.githubusercontent.com/engmung/Patternflow/main/docs/media/pcbway-3d-print.jpg"
+      }
+    ],
+    "thumbnail": "media/candidates/patternflow-seunghun-lee/01.jpg",
+    "addedDate": "2026-11-05"
   }
 ]
