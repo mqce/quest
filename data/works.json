@@ -3970,5 +3970,317 @@
     ],
     "thumbnail": "media/candidates/patternflow-seunghun-lee/01.jpg",
     "addedDate": "2026-11-05"
+  },
+  {
+    "id": "goosebumps-sgambaro",
+    "title": "Goosebumps (dark times)",
+    "artist": "Davide Sgambaro",
+    "year": 2025,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://blog.arduino.cc/2025/11/25/how-artist-davide-sgambaro-brought-goosebumps-dark-times-to-life-with-arduino-uno-r4-minima/",
+    "sourceSite": "Arduino Blog／GAM Torino",
+    "summary": "トリノのGAMで公開されたインスタレーション。黒いパーカー8着をフードで吊るし、各袖内のサーボをArduino UNO R4 Minima（計10枚）でランダム駆動し、ほとんど見えない筋肉の痙攣のような動きを与える。Gen Zの無力感や抑圧された反応を、微細な機械的しびれで表現する。",
+    "tags": [
+      "Arduino UNO R4",
+      "サーボ",
+      "キネティック",
+      "ウェアラブル",
+      "イタリア"
+    ],
+    "thumbnail": "media/candidates/goosebumps-sgambaro/01.jpg",
+    "addedDate": "2026-11-06",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/goosebumps-sgambaro/01.jpg",
+        "origin": "https://blog.arduino.cc/wp-content/uploads/2025/11/1E9A6405-1.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/goosebumps-sgambaro/02.jpg",
+        "origin": "https://flash---art.it/wp-content/uploads/2026/02/2-4.png"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/goosebumps-sgambaro/03.jpg",
+        "origin": "https://flash---art.it/wp-content/uploads/2026/02/3-4.png"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/goosebumps-sgambaro/04.jpg",
+        "origin": "https://flash---art.it/wp-content/uploads/2026/02/4-4.png"
+      }
+    ]
+  },
+  {
+    "id": "coopparatus-medicus",
+    "title": "Coopparatus",
+    "artist": "Thomas Medicus",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.designboom.com/art/anamorphic-installation-thomas-medicus-four-shifting-hand-images-coopparatus/",
+    "sourceSite": "designboom",
+    "summary": "144本の縦ガラスストリップで構成した立方体を、ギアードモーター付きターンテーブルが90度ごとに回転させるアナモルフォーシス装置。4枚の手の絵が視点と回転位置で順に結像し、途中では破片の雲になる。窯焼きエナメル絵付けのガラスと約0.06kWの減速機で、見る行為そのものを条件付きのプロセスとして見せる。",
+    "tags": [
+      "キネティック",
+      "ギアードモーター",
+      "ガラス",
+      "アナモルフォーシス",
+      "光学"
+    ],
+    "thumbnail": "media/candidates/coopparatus-medicus/01.jpg",
+    "addedDate": "2026-11-06",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/coopparatus-medicus/01.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/03/coopparatus-anamorphic-rotating-installation-thomas-medicus-four-hand-images-designboom-1800-1.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/coopparatus-medicus/02.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/03/coopparatus-anamorphic-rotating-installation-thomas-medicus-four-hand-images-designboom-1800-2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/coopparatus-medicus/03.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/03/coopparatus-anamorphic-rotating-installation-thomas-medicus-four-hand-images-designboom-1800-3.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/coopparatus-medicus/04.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/03/coopparatus-anamorphic-rotating-installation-thomas-medicus-four-hand-images-designboom-10.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/coopparatus-medicus/05.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/03/coopparatus-anamorphic-rotating-installation-thomas-medicus-four-hand-images-designboom-12.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/coopparatus-medicus/06.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/03/coopparatus-anamorphic-rotating-installation-thomas-medicus-four-hand-images-designboom-13.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/coopparatus-medicus/07.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/03/coopparatus-anamorphic-rotating-installation-thomas-medicus-four-hand-images-designboom-14.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/coopparatus-medicus/08.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/03/coopparatus-anamorphic-rotating-installation-thomas-medicus-four-hand-images-designboom-15.jpg"
+      }
+    ]
+  },
+  {
+    "id": "multipolar-atelier-e",
+    "title": "MULTIPOLAR",
+    "artist": "ATELIER–E",
+    "year": 2024,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.atelier-e.net/works/multipolar",
+    "sourceSite": "ATELIER–E／Futurium Lab Berlin",
+    "summary": "ベルリンのFuturium Labに展示されたキネティック／視聴覚インスタレーション。天井から吊られた十二面体構造がモータ駆動の関節で有機的・機械的パターンを行き来し、液晶クロスの照明とプロジェクション、サウンドで物質の状態空間を探る。Nanotec高精度モーターとHIWINハーモニックギアなど、多数の軸と部品で構成される大規模な動く彫刻。",
+    "tags": [
+      "キネティック",
+      "モーター",
+      "液晶",
+      "サウンド",
+      "Futurium",
+      "ドイツ"
+    ],
+    "thumbnail": "media/candidates/multipolar-atelier-e/01.jpg",
+    "addedDate": "2026-11-06",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/multipolar-atelier-e/01.jpg",
+        "origin": "https://www.atelier-e.net/media/pages/works/multipolar/11f9941a7d-1745929033/atelier-e-multipolar-total-04-1600x.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/multipolar-atelier-e/02.jpg",
+        "origin": "https://www.atelier-e.net/media/pages/works/multipolar/4796decc67-1745929034/atelier-e-multipolar-total-1600x.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/multipolar-atelier-e/03.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/64860c330f2b105f56fd2d53/05a5ea1b-2139-4c14-a235-2e97c1907c66/ATELIER-E_MULTIPOLAR_TOTAL_02.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/multipolar-atelier-e/04.jpg",
+        "origin": "https://www.atelier-e.net/media/pages/works/multipolar/1c79eef408-1745931211/atelier-e-multipolar-portrait-01-1600x.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/multipolar-atelier-e/05.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/64860c330f2b105f56fd2d53/6a736cbf-3657-40f2-a3bd-7e9f54471e7b/atelier-e-multipolar-portrait-02-2400x.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/multipolar-atelier-e/06.jpg",
+        "origin": "https://www.atelier-e.net/media/pages/works/multipolar/269d93084e-1745930029/atelier-e-multipolar-light-1600x.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/multipolar-atelier-e/07.jpg",
+        "origin": "https://www.atelier-e.net/media/pages/works/multipolar/2e880b6a89-1744659614/multipolar-liquid-crystal-1600x.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/multipolar-atelier-e/08.jpg",
+        "origin": "https://www.atelier-e.net/media/pages/works/multipolar/0980768356-1745929370/sequence-01-00-00-32-18-still009-1600x.png"
+      },
+      {
+        "type": "video",
+        "src": "https://player.vimeo.com/video/1081448379",
+        "poster": "media/candidates/multipolar-atelier-e/01.jpg"
+      }
+    ]
+  },
+  {
+    "id": "kinetic-chandelier-cunha",
+    "title": "Kinetic Chandelier",
+    "artist": "Tristan Cunha",
+    "year": 2024,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://tristancunha.com/chandelier/index.html",
+    "sourceSite": "tristancunha.com",
+    "summary": "ピンポン玉に入れたアドレス可能LEDを、NEMA17ステッパーとTMC2209で上下させるキネティック・シャンデリア。v2では各PCB上のESP32が4モーターを駆動し、マスターESP32とESP-NOWで同期。Wi-Fiでパターン編集用Web UIをホストする。Harvard Science Libraryなどでも展示された自作ハードウェア作品。",
+    "tags": [
+      "ESP32",
+      "ステッパー",
+      "TMC2209",
+      "LED",
+      "ESP-NOW",
+      "PCB"
+    ],
+    "thumbnail": "media/candidates/kinetic-chandelier-cunha/01.jpg",
+    "addedDate": "2026-11-06",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/kinetic-chandelier-cunha/01.jpg",
+        "origin": "https://tristancunha.com/chandelier/Chand2-1.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/kinetic-chandelier-cunha/02.jpg",
+        "origin": "https://tristancunha.com/chandelier/Chand2-2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/kinetic-chandelier-cunha/03.jpg",
+        "origin": "https://tristancunha.com/chandelier/Chand2-3.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/kinetic-chandelier-cunha/04.jpg",
+        "origin": "https://tristancunha.com/chandelier/Chand2-4.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/kinetic-chandelier-cunha/05.jpg",
+        "origin": "https://tristancunha.com/chandelier/Chand2-5.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/kinetic-chandelier-cunha/06.jpg",
+        "origin": "https://tristancunha.com/chandelier/Chand2-6.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/kinetic-chandelier-cunha/07.jpg",
+        "origin": "https://tristancunha.com/chandelier/chandelier1.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/kinetic-chandelier-cunha/08.jpg",
+        "origin": "https://tristancunha.com/chandelier/chandelier2.jpg"
+      },
+      {
+        "type": "video",
+        "src": "https://www.youtube.com/embed/AD0sR3F6zuA",
+        "poster": "https://img.youtube.com/vi/AD0sR3F6zuA/maxresdefault.jpg"
+      },
+      {
+        "type": "video",
+        "src": "https://www.youtube.com/embed/eX1AXE5PUdM",
+        "poster": "https://img.youtube.com/vi/eX1AXE5PUdM/maxresdefault.jpg"
+      }
+    ]
+  },
+  {
+    "id": "hands-can-tell-arshakyan",
+    "title": "The Hands Can Tell A Lot",
+    "artist": "Anoush Arshakyan",
+    "year": 2025,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.hackster.io/lasoleille/the-hands-can-tell-a-lot-ad3ed7",
+    "sourceSite": "Hackster.io／Fabricademy",
+    "summary": "導電布とベロスタットの自作フレックスセンサ付きグローブで指の曲げを読み取り、XIAO ESP32C3経由でサーボを動かし、バイオプラスチック製の折り構造を呼吸するように動かすインタラクティブ・セノグラフィ。身体の微細なジェスチャーを生きもののようなマテリアル変形へ翻訳する。",
+    "tags": [
+      "XIAO ESP32C3",
+      "サーボ",
+      "フレックスセンサ",
+      "バイオマテリアル",
+      "ウェアラブル"
+    ],
+    "thumbnail": "media/candidates/hands-can-tell-arshakyan/01.jpg",
+    "addedDate": "2026-11-06",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/hands-can-tell-arshakyan/01.jpg",
+        "origin": "https://class.textile-academy.org/2025/anoush-arshakyan/images/week14/h1.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/hands-can-tell-arshakyan/02.jpg",
+        "origin": "https://class.textile-academy.org/2025/anoush-arshakyan/images/week14/h2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/hands-can-tell-arshakyan/03.jpg",
+        "origin": "https://class.textile-academy.org/2025/anoush-arshakyan/images/week14/h3.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/hands-can-tell-arshakyan/04.jpg",
+        "origin": "https://class.textile-academy.org/2025/anoush-arshakyan/images/week14/h4.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/hands-can-tell-arshakyan/05.jpg",
+        "origin": "https://class.textile-academy.org/2025/anoush-arshakyan/images/week14/h5.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/hands-can-tell-arshakyan/06.jpg",
+        "origin": "https://class.textile-academy.org/2025/anoush-arshakyan/images/week14/h6.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/hands-can-tell-arshakyan/07.jpg",
+        "origin": "https://class.textile-academy.org/2025/anoush-arshakyan/images/week14/h7.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/hands-can-tell-arshakyan/08.jpg",
+        "origin": "https://class.textile-academy.org/2025/anoush-arshakyan/images/week14/h9.jpg"
+      },
+      {
+        "type": "video",
+        "src": "https://www.youtube.com/embed/nxX14_c0BdY",
+        "poster": "https://img.youtube.com/vi/nxX14_c0BdY/maxresdefault.jpg"
+      }
+    ]
   }
 ]
