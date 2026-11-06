@@ -4282,5 +4282,365 @@
         "poster": "https://img.youtube.com/vi/nxX14_c0BdY/maxresdefault.jpg"
       }
     ]
+  },
+  {
+    "id": "life-in-kinetics-holzmann",
+    "title": "Life in Kinetics",
+    "artist": "Timo Holzmann",
+    "year": 2025,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://timoholzmann.com/project/life-in-kinetics/",
+    "sourceSite": "timoholzmann.com／lab.30／THA",
+    "summary": "深さカメラで来場者の位置を捉え、サーボ駆動の歯車マシン10台が個別／集団で反応するキネティック・インスタレーション。むき出しの歯車・リンク・ケーブルで仕組みを可視化しつつ、注目・追従・同期など4つの振る舞いモードで人間と機械の共鳴を描く。",
+    "tags": [
+      "サーボモータ",
+      "深度カメラ",
+      "歯車",
+      "インタラクティブ",
+      "キネティック"
+    ],
+    "thumbnail": "media/candidates/life-in-kinetics-holzmann/05.jpg",
+    "addedDate": "2026-11-07",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/life-in-kinetics-holzmann/01.jpg",
+        "origin": "https://timoholzmann.com/wp-content/uploads/2025/10/Druck_HIGHQUALITY-LiK-Website-werkschau-totale0001.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/life-in-kinetics-holzmann/02.jpg",
+        "origin": "https://timoholzmann.com/wp-content/uploads/2024/12/mechanik-hardware-ba00021311_HIGHQUALITY-2-scaled.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/life-in-kinetics-holzmann/03.jpg",
+        "origin": "https://timoholzmann.com/wp-content/uploads/2025/10/Druck_HIGHQUALITY-LiK-Website-laptop-werkschau0003.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/life-in-kinetics-holzmann/04.jpg",
+        "origin": "https://timoholzmann.com/wp-content/uploads/2026/10/festival-der-zukunft-2026-timo-holzmann.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/life-in-kinetics-holzmann/05.jpg",
+        "origin": "https://hybridthings.com/wp-content/uploads/2026/07/LiK.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/life-in-kinetics-holzmann/06.jpg",
+        "origin": "https://hybridthings.com/wp-content/uploads/2025/04/ba-life-in-kinetics-47.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/life-in-kinetics-holzmann/07.jpg",
+        "origin": "https://hybridthings.com/wp-content/uploads/2025/04/ba-life-in-kinetics-68.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/life-in-kinetics-holzmann/08.jpg",
+        "origin": "https://hybridthings.com/wp-content/uploads/2025/04/ba-life-in-kinetics-28.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/life-in-kinetics-holzmann/09.jpg",
+        "origin": "https://hybridthings.com/wp-content/uploads/2025/04/ba-life-in-kinetics-36.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/life-in-kinetics-holzmann/10.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/57d4086744024343d190c106/1758870275685-K5A90CD2ICX0VIDXIERV/modus-1-1+%28Medium%29.jpg"
+      }
+    ]
+  },
+  {
+    "id": "models-of-crisis-kozniewski",
+    "title": "Models of Crisis",
+    "artist": "Jakub Koźniewski",
+    "year": 2025,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.creativeapplications.net/member/models-of-crisis-embodiments-of-a-mental-struggle/",
+    "sourceSite": "CreativeApplications.Net／designboom",
+    "summary": "LLMが生成する感情語を14セグメント表示と物理モーションで演じるキネティック・オブジェクト詩の三部作（Mood Swing／Train of Thought／Rise & Shine）。Raspberry Pi Pico Wとサーボ／改造電車／リニアレールで、心理状態のモデルを機械の抽象へ翻訳する。",
+    "tags": [
+      "Raspberry Pi Pico W",
+      "LLM",
+      "サーボ",
+      "14セグメント表示",
+      "キネティック詩"
+    ],
+    "thumbnail": "media/candidates/models-of-crisis-kozniewski/01.jpg",
+    "addedDate": "2026-11-07",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/models-of-crisis-kozniewski/01.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2025/05/rise-closeup-cover-1600x1000.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/models-of-crisis-kozniewski/02.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2025/05/moodswing-close-1-1600x1000.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/models-of-crisis-kozniewski/03.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2025/05/moodswing-close-2-1600x1000.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/models-of-crisis-kozniewski/04.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2025/05/moodswing-1-2-1600x1000.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/models-of-crisis-kozniewski/05.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2025/05/moodswing-1-1-1600x1000.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/models-of-crisis-kozniewski/06.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2025/05/train-top-2-1600x1000.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/models-of-crisis-kozniewski/07.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2025/05/train-1-1600x1000.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/models-of-crisis-kozniewski/08.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2025/05/train-comp-1600x1000.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/models-of-crisis-kozniewski/09.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2025/05/train-top-close-1600x1000.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/models-of-crisis-kozniewski/10.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2025/05/rise-1-1-1600x1000.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/models-of-crisis-kozniewski/11.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2025/05/models-of-crisis-main-scaled.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/models-of-crisis-kozniewski/12.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2025/05/models-crisis-kinetic-generative-sculptures-jakub-kozniewski-designboom-1200-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "sola-tarantula-korevaar",
+    "title": "Sola Tarantula",
+    "artist": "Jelle Korevaar",
+    "year": 2020,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://ars.electronica.art/negotiatinghumanity/en/view/sola-tarantula-38238ddb450c811382fdcb2cf16c8e20/",
+    "sourceSite": "Ars Electronica Festival 2026／jellekorevaar.com",
+    "summary": "2台のモビリティスクーターと鋼材・3Dプリント部品から成る多脚キネティック装置。自走するよう見えつつ不意に止まり、乗客や周囲に「自力で動かす／助けを求める」を強いる。相互依存とケアを遊びの運動体験として問う作品（Ars Electronica 2026展示）。",
+    "tags": [
+      "キネティック",
+      "モビリティスクーター",
+      "3Dプリント",
+      "参加型",
+      "相互依存"
+    ],
+    "thumbnail": "media/candidates/sola-tarantula-korevaar/02.jpg",
+    "addedDate": "2026-11-07",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/sola-tarantula-korevaar/01.jpg",
+        "origin": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/sola-tarantulaajellekorevaar.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/sola-tarantula-korevaar/02.jpg",
+        "origin": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/sola-tarantulaajellekorevaar-2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/sola-tarantula-korevaar/03.jpg",
+        "origin": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/solatarantulaa-jellekorevaar-4.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/sola-tarantula-korevaar/04.jpg",
+        "origin": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/solatarantulaajellekorevaar-3.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/sola-tarantula-korevaar/05.jpg",
+        "origin": "https://static.wixstatic.com/media/670a9e_23b34f1046324346993efc272287afad~mv2.jpg/v1/fill/w_1200,h_800,al_c,q_90/web-.jpg"
+      }
+    ]
+  },
+  {
+    "id": "gyro-correo-electronico",
+    "title": "Gyro",
+    "artist": "Correo Electrónico（Máximo Campo）",
+    "year": 2025,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.creativeapplications.net/member/gyro-self-playing-drums-suspended-in-pendulums/",
+    "sourceSite": "CreativeApplications.Net／waxiwo.com",
+    "summary": "天井から振り子状に吊るした改造スネアドラム5台が、加速度センサとRaspberry Pi Picoで動きを読み取りソレノイドを鳴らすインタラクティブ音響インスタレーション。来場者が押すと秩序だったリズムや予測不能なカオス音が生まれる（TDRoom, メキシコシティ）。",
+    "tags": [
+      "Raspberry Pi Pico",
+      "スネアドラム",
+      "ソレノイド",
+      "加速度センサ",
+      "振り子",
+      "サウンド"
+    ],
+    "thumbnail": "media/candidates/gyro-correo-electronico/02.jpg",
+    "addedDate": "2026-11-07",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/gyro-correo-electronico/01.jpg",
+        "origin": "https://waxiwo.com/images/gyro.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/gyro-correo-electronico/02.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2025/02/Gyro-Correo-Electronico-5-1200x1000.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/gyro-correo-electronico/03.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2025/02/Gyro-Correo-Electronico-6-1200x1000.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/gyro-correo-electronico/04.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2025/02/Gyro-Correo-Electronico-7-1200x1000.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/gyro-correo-electronico/05.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2025/02/Gyro-Correo-Electronico-9.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/gyro-correo-electronico/06.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2025/02/Gyro-Correo-Electronico-10-1600x1000.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/gyro-correo-electronico/07.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2025/02/Gyro-Correo-Electronico-11-1600x1000.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/gyro-correo-electronico/08.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2025/02/Gyro-Correo-Electronico-13-1600x1000.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/gyro-correo-electronico/09.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2025/02/Gyro-Correo-Electronico-14-1600x1000.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/gyro-correo-electronico/10.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2025/02/Gyro-Correo-Electronico-15-1600x1000.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/gyro-correo-electronico/11.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2025/02/Gyro-Correo-Electronico-16-974x1000.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/gyro-correo-electronico/12.jpg",
+        "origin": "https://hackster.imgix.net/uploads/attachments/1818017/_f39I0UgYea.blob?auto=compress,format&w=1200&h=900&fit=max"
+      }
+    ]
+  },
+  {
+    "id": "dupa-urma-nicup",
+    "title": "După urmă",
+    "artist": "Nicu P",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://nicup.art/dupa-urma/",
+    "sourceSite": "nicup.art／MARe Bucharest",
+    "summary": "銅と真鍮のキネティック彫刻が、モニターで流れる自身の過去映像の音をマイクで聞き、Arduino駆動のモータとブザーで再現しようとする。毎回わずかにずれるリズムが「過去の痕跡」を現在の振る舞いに組み込む。",
+    "tags": [
+      "Arduino",
+      "モータ",
+      "銅",
+      "真鍮",
+      "マイク",
+      "ブザー",
+      "キネティック"
+    ],
+    "thumbnail": "media/candidates/dupa-urma-nicup/01.jpg",
+    "addedDate": "2026-11-07",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/dupa-urma-nicup/01.jpg",
+        "origin": "https://nicup.art/wp-content/uploads/2026/10/IMG_9633-copy-scaled.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/dupa-urma-nicup/02.jpg",
+        "origin": "https://nicup.art/wp-content/uploads/2026/10/IMG_9659-1-576x1024.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/dupa-urma-nicup/03.jpg",
+        "origin": "https://nicup.art/wp-content/uploads/2026/10/IMG_9658-576x1024.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "green-spinner-wilbers",
+    "title": "Green Spinner",
+    "artist": "Freerk Wilbers",
+    "year": 2025,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.root.gallery/wall-sculptures/green-spinner-freerk-wilbers",
+    "sourceSite": "Root Gallery",
+    "summary": "陽極酸化アルミとばね鋼・PET・ベアリングで組まれた4枚の扇状円盤が、触れによる小さな衝動だけで連鎖的に回転するキネティック壁面彫刻。連動しつつも同じ動きにはならず、構造と予測不能さが並存する触覚的なシステム。",
+    "tags": [
+      "キネティック",
+      "陽極酸化アルミ",
+      "ばね鋼",
+      "ベアリング",
+      "触覚インタラクション"
+    ],
+    "thumbnail": "media/candidates/green-spinner-wilbers/01.jpg",
+    "addedDate": "2026-11-07",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/green-spinner-wilbers/01.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/5891f2485016e1aafbbb6708/a50c2c2b-61e4-4fb2-8de8-1b99e47bb3c2/Green-Spinner-mixed-media-Freerk-wilbers-2025-front2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/green-spinner-wilbers/02.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/5891f2485016e1aafbbb6708/f959fa02-64a4-41c2-ad82-660735698abf/Green-Spinner-mixed-media-Freerk-wilbers-2025-side.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/green-spinner-wilbers/03.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/5891f2485016e1aafbbb6708/8d54c3ba-c811-4ccb-8d69-958a8bc983ac/Green-Spinner-mixed-media-Freerk-wilbers-2025-sideview.jpg"
+      }
+    ]
   }
 ]
