@@ -4642,5 +4642,259 @@
         "origin": "https://images.squarespace-cdn.com/content/v1/5891f2485016e1aafbbb6708/8d54c3ba-c811-4ccb-8d69-958a8bc983ac/Green-Spinner-mixed-media-Freerk-wilbers-2025-sideview.jpg"
       }
     ]
+  },
+  {
+    "id": "dislocacion-spy",
+    "title": "DISLOCACIÓN（Dislocation）",
+    "artist": "SpY（スパイ）",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.designboom.com/art/sixteen-vertical-slats-continuous-rotation-shifting-forms-spy-kinetic-sculpture-dislocacion-dislocation/",
+    "sourceSite": "designboom",
+    "summary": "マドリードの文化施設セレリア・ベルガの中庭に設置された、16本の垂直スラットが連続回転するキネティック彫刻。回転によって形が衝突・変形して見え、見る位置ごとに異なる構成が現れる。運動と時間そのものを彫刻の素材として扱い、知覚の「ずれ」を生み出す作品（キュレーター：Mario Canal）。",
+    "tags": [
+      "キネティック",
+      "回転機構",
+      "モーター駆動",
+      "パブリックアート",
+      "知覚",
+      "マドリード"
+    ],
+    "thumbnail": "media/candidates/dislocacion-spy/01.jpg",
+    "addedDate": "2026-11-08",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/dislocacion-spy/01.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/04/spy-dislocacion-dislocation-kinetic-sculpture-sixteen-vertical-slats-continuous-rotation-designboom-1800-1.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/dislocacion-spy/02.jpg",
+        "origin": "https://www.designboom.com/wp-content/dbsub/380299/2026-04-07/spy-unveils-dislocacion-a-new-kinetic-sculpture-exploring-perception-time-and-movement-as-sculptural-materials-2-69d53b946b8ad.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/dislocacion-spy/03.jpg",
+        "origin": "https://www.designboom.com/wp-content/dbsub/380299/2026-04-07/spy-unveils-dislocacion-a-new-kinetic-sculpture-exploring-perception-time-and-movement-as-sculptural-materials-3-69d53b946b8ee.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/dislocacion-spy/04.jpg",
+        "origin": "https://www.designboom.com/wp-content/dbsub/380299/2026-04-07/spy-unveils-dislocacion-a-new-kinetic-sculpture-exploring-perception-time-and-movement-as-sculptural-materials-6-69d53b946ba56.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/dislocacion-spy/05.jpg",
+        "origin": "https://www.designboom.com/wp-content/dbsub/380299/2026-04-07/spy-unveils-dislocacion-a-new-kinetic-sculpture-exploring-perception-time-and-movement-as-sculptural-materials-8-69d53b946bac6.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/dislocacion-spy/06.jpg",
+        "origin": "https://www.designboom.com/wp-content/dbsub/380299/2026-04-07/spy-unveils-dislocacion-a-new-kinetic-sculpture-exploring-perception-time-and-movement-as-sculptural-materials-10-69d53b946bb2b.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/dislocacion-spy/07.jpg",
+        "origin": "https://www.designboom.com/wp-content/dbsub/380299/2026-04-07/spy-unveils-dislocacion-a-new-kinetic-sculpture-exploring-perception-time-and-movement-as-sculptural-materials-11-69d53b946bb5e.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/dislocacion-spy/08.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/04/spy-dislocacion-dislocation-kinetic-sculpture-sixteen-vertical-slats-continuous-rotation-designboom-1800-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "unbinding-bodies-hwia-kim",
+    "title": "Unbinding Bodies（Shirshasana / Setu Bandha Sarvangasana / Utkatasana）",
+    "artist": "Hwia Kim（キム・フィア）",
+    "year": 2024,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.hwia.kim/unbinding-bodies",
+    "sourceSite": "hwia.kim",
+    "summary": "ヨガのアーサナ（頭立ち・橋・椅子のポーズ）を機械の身体として再解釈したインタラクティブ・ロボット彫刻シリーズ。脚の代わりに伸びるスネーク型ロボットアームの先端のWebカメラが顔を追跡し、身体と技術の境界を問う。2024年ソウルで初公開、2026年10月には慶州の特別展『Robotic Embrace』（アートセンター・ナビ企画）でも展示。",
+    "tags": [
+      "スネークロボット",
+      "モーター",
+      "MCU",
+      "Webカメラ",
+      "顔追跡",
+      "コンピュータビジョン",
+      "3Dプリント"
+    ],
+    "thumbnail": "media/candidates/unbinding-bodies-hwia-kim/01.jpg",
+    "addedDate": "2026-11-08",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/unbinding-bodies-hwia-kim/01.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/65b1b8b5ad95b849474f13fa/9b82a3c3-30d6-400c-ab73-5374881f6211/%23241024_%E1%84%80%E1%85%A2%E1%86%AF%E1%84%85%E1%85%A5%E1%84%85%E1%85%B599_%E1%84%80%E1%85%B5%E1%86%B7%E1%84%92%E1%85%B1%E1%84%8B%E1%85%A1_%E1%84%86%E1%85%A9%E1%86%B7%E1%84%8B%E1%85%B4+%E1%84%80%E1%85%A7%E1%86%AF%E1%84%89%E1%85%A9%E1%86%A8+%E1%84%92%E1%85%A2%E1%84%8C%E1%85%A6_resize_46.jpg?format=1500w"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/unbinding-bodies-hwia-kim/02.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/65b1b8b5ad95b849474f13fa/0bf5ad36-aa8d-4b20-a049-4b027291c953/%23241024_%E1%84%80%E1%85%A2%E1%86%AF%E1%84%85%E1%85%A5%E1%84%85%E1%85%B599_%E1%84%80%E1%85%B5%E1%86%B7%E1%84%92%E1%85%B1%E1%84%8B%E1%85%A1_%E1%84%86%E1%85%A9%E1%86%B7%E1%84%8B%E1%85%B4+%E1%84%80%E1%85%A7%E1%86%AF%E1%84%89%E1%85%A9%E1%86%A8+%E1%84%92%E1%85%A2%E1%84%8C%E1%85%A6_resize_50.jpg?format=1500w"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/unbinding-bodies-hwia-kim/03.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/65b1b8b5ad95b849474f13fa/0ca257ea-027c-4c22-980f-aace7cb2074d/%23241024_%E1%84%80%E1%85%A2%E1%86%AF%E1%84%85%E1%85%A5%E1%84%85%E1%85%B599_%E1%84%80%E1%85%B5%E1%86%B7%E1%84%92%E1%85%B1%E1%84%8B%E1%85%A1_%E1%84%86%E1%85%A9%E1%86%B7%E1%84%8B%E1%85%B4+%E1%84%80%E1%85%A7%E1%86%AF%E1%84%89%E1%85%A9%E1%86%A8+%E1%84%92%E1%85%A2%E1%84%8C%E1%85%A6_resize_48.jpg?format=1500w"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/unbinding-bodies-hwia-kim/04.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/65b1b8b5ad95b849474f13fa/346ec3c4-2096-40db-b45c-46931c7e0e1e/%23241024_%E1%84%80%E1%85%A2%E1%86%AF%E1%84%85%E1%85%A5%E1%84%85%E1%85%B599_%E1%84%80%E1%85%B5%E1%86%B7%E1%84%92%E1%85%B1%E1%84%8B%E1%85%A1_%E1%84%86%E1%85%A9%E1%86%B7%E1%84%8B%E1%85%B4+%E1%84%80%E1%85%A7%E1%86%AF%E1%84%89%E1%85%A9%E1%86%A8+%E1%84%92%E1%85%A2%E1%84%8C%E1%85%A6_resize_34.jpg?format=1500w"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/unbinding-bodies-hwia-kim/05.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/65b1b8b5ad95b849474f13fa/9bc3ea37-ee80-4ee9-bfff-a639a80afc2d/%23241024_%E1%84%80%E1%85%A2%E1%86%AF%E1%84%85%E1%85%A5%E1%84%85%E1%85%B599_%E1%84%80%E1%85%B5%E1%86%B7%E1%84%92%E1%85%B1%E1%84%8B%E1%85%A1_%E1%84%86%E1%85%A9%E1%86%B7%E1%84%8B%E1%85%B4+%E1%84%80%E1%85%A7%E1%86%AF%E1%84%89%E1%85%A9%E1%86%A8+%E1%84%92%E1%85%A2%E1%84%8C%E1%85%A6_resize_26.jpg?format=1500w"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/unbinding-bodies-hwia-kim/06.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/65b1b8b5ad95b849474f13fa/a88e61e5-328d-4e79-a40d-3ace334e6590/%23241024_%E1%84%80%E1%85%A2%E1%86%AF%E1%84%85%E1%85%A5%E1%84%85%E1%85%B599_%E1%84%80%E1%85%B5%E1%86%B7%E1%84%92%E1%85%B1%E1%84%8B%E1%85%A1_%E1%84%86%E1%85%A9%E1%86%B7%E1%84%8B%E1%85%B4+%E1%84%80%E1%85%A7%E1%86%AF%E1%84%89%E1%85%A9%E1%86%A8+%E1%84%92%E1%85%A2%E1%84%8C%E1%85%A6_resize_36.jpg?format=1500w"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/unbinding-bodies-hwia-kim/07.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/65b1b8b5ad95b849474f13fa/291f2669-e59a-49ab-836c-7de5eb9691ec/%23241024_%E1%84%80%E1%85%A2%E1%86%AF%E1%84%85%E1%85%A5%E1%84%85%E1%85%B599_%E1%84%80%E1%85%B5%E1%86%B7%E1%84%92%E1%85%B1%E1%84%8B%E1%85%A1_%E1%84%86%E1%85%A9%E1%86%B7%E1%84%8B%E1%85%B4+%E1%84%80%E1%85%A7%E1%86%AF%E1%84%89%E1%85%A9%E1%86%A8+%E1%84%92%E1%85%A2%E1%84%8C%E1%85%A6_resize_2.jpg?format=1500w"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/unbinding-bodies-hwia-kim/08.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/65b1b8b5ad95b849474f13fa/953d46e1-ea7c-4840-9776-3434ba3a1836/%23241024_%E1%84%80%E1%85%A2%E1%86%AF%E1%84%85%E1%85%A5%E1%84%85%E1%85%B599_%E1%84%80%E1%85%B5%E1%86%B7%E1%84%92%E1%85%B1%E1%84%8B%E1%85%A1_%E1%84%86%E1%85%A9%E1%86%B7%E1%84%8B%E1%85%B4+%E1%84%80%E1%85%A7%E1%86%AF%E1%84%89%E1%85%A9%E1%86%A8+%E1%84%92%E1%85%A2%E1%84%8C%E1%85%A6_resize_53.jpg?format=1500w"
+      }
+    ]
+  },
+  {
+    "id": "arc-of-the-wind-topoloy",
+    "title": "Arc of the Wind",
+    "artist": "topoloy",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.designboom.com/technology/blossoms-unfolding-rhythm-breathing-kinetic-installation-arc-of-the-wind-topoloy/",
+    "sourceSite": "designboom",
+    "summary": "北京・太古里三里屯のレストランgaga旗艦店の吹き抜けに吊られたキネティック・インスタレーション。上部は凧の張力構造、下部は花が開く動きをモチーフに、機械駆動とワイヤー伝達、プログラムされたリズムと照明で呼吸のようにゆっくり開閉する。毎朝10時に「目覚め」夜11時に休む。接着剤を使わないモジュール構造でCNC加工と3Dプリントを併用。",
+    "tags": [
+      "キネティック",
+      "機械駆動",
+      "ワイヤー伝達",
+      "プログラム制御",
+      "照明",
+      "CNC",
+      "3Dプリント"
+    ],
+    "thumbnail": "media/candidates/arc-of-the-wind-topoloy/01.jpg",
+    "addedDate": "2026-11-08",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/arc-of-the-wind-topoloy/01.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/05/arc-of-the-wind-kinetic-installation-topoloy-designboom-1800-1.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/arc-of-the-wind-topoloy/02.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/05/arc-of-the-wind-kinetic-installation-topoloy-designboom-1800-2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/arc-of-the-wind-topoloy/03.jpg",
+        "origin": "https://www.designboom.com/wp-content/dbsub/466437/2026-05-18/arc-of-the-wind-by-topoloy-transforms-kites-and-blossoms-into-a-kinetic-spatial-rhythm-1-6a0afc134ac23.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/arc-of-the-wind-topoloy/04.jpg",
+        "origin": "https://www.designboom.com/wp-content/dbsub/466437/2026-05-18/arc-of-the-wind-by-topoloy-transforms-kites-and-blossoms-into-a-kinetic-spatial-rhythm-3-6a0afc134acdb.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/arc-of-the-wind-topoloy/05.jpg",
+        "origin": "https://www.designboom.com/wp-content/dbsub/466437/2026-05-18/arc-of-the-wind-by-topoloy-transforms-kites-and-blossoms-into-a-kinetic-spatial-rhythm-4-6a0afc134ad15.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/arc-of-the-wind-topoloy/06.jpg",
+        "origin": "https://www.designboom.com/wp-content/dbsub/466437/2026-05-18/arc-of-the-wind-by-topoloy-transforms-kites-and-blossoms-into-a-kinetic-spatial-rhythm-5-6a0afc134ad4a.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/arc-of-the-wind-topoloy/07.jpg",
+        "origin": "https://www.designboom.com/wp-content/dbsub/466437/2026-05-18/arc-of-the-wind-by-topoloy-transforms-kites-and-blossoms-into-a-kinetic-spatial-rhythm-6-6a0afc134ad7e.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/arc-of-the-wind-topoloy/08.jpg",
+        "origin": "https://www.designboom.com/wp-content/dbsub/466437/2026-05-18/arc-of-the-wind-by-topoloy-transforms-kites-and-blossoms-into-a-kinetic-spatial-rhythm-7-6a0afc134adb8.jpg"
+      }
+    ]
+  },
+  {
+    "id": "light-architecture-yiyun-kang",
+    "title": "LIGHT ARCHITECTURE",
+    "artist": "Yiyun Kang（カン・イユン／STUDIO YIYUN KANG）",
+    "year": 2024,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.yiyunkang.com/lightarchitecture",
+    "sourceSite": "yiyunkang.com",
+    "summary": "AIのニューラルネットワーク（ブラックボックス）を空間化した大規模キネティック・オーディオビジュアル作品。床に並ぶ24基の「Neuron Kinetic Light Module」が回転しながら光を放ち、天井の6.8トンの吊り構造への投影と12.8chの空間音響が組み合わさる。Seoul Design 2024（DDPアートホール2）で発表、2026年Lumen Prize「Systems & Structures」部門ファイナリスト。",
+    "tags": [
+      "キネティックライト",
+      "回転モジュール",
+      "プロジェクション",
+      "空間音響",
+      "AI",
+      "メディアアート"
+    ],
+    "thumbnail": "media/candidates/light-architecture-yiyun-kang/01.jpg",
+    "addedDate": "2026-11-08",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/light-architecture-yiyun-kang/01.jpg",
+        "origin": "https://designwanted.com/wp-content/uploads/2024/12/4.-LIGHT-ARCHITECTURE-exhibition-by-media-artist-Yiyun-Kang.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/light-architecture-yiyun-kang/02.jpg",
+        "origin": "https://designwanted.com/wp-content/uploads/2024/12/LIGHT-ARCHITECTURE-exhibition-by-media-artist-Yiyun-Kang-cover.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/light-architecture-yiyun-kang/03.jpg",
+        "origin": "https://designwanted.com/wp-content/uploads/2024/12/6.-LIGHT-ARCHITECTURE-exhibition-by-media-artist-Yiyun-Kang.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/light-architecture-yiyun-kang/04.jpg",
+        "origin": "https://designwanted.com/wp-content/uploads/2024/12/8.-LIGHT-ARCHITECTURE-exhibition-by-media-artist-Yiyun-Kang.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/light-architecture-yiyun-kang/05.jpg",
+        "origin": "https://static.wixstatic.com/media/c7f3f6_310d5b2ca7794d09b2c8fc076ca7a835~mv2.png"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/light-architecture-yiyun-kang/06.jpg",
+        "origin": "https://static.wixstatic.com/media/c7f3f6_3fcf64b974f749f58c71bd41f876ccae~mv2.png"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/light-architecture-yiyun-kang/07.jpg",
+        "origin": "https://static.wixstatic.com/media/c7f3f6_6e8c9e169a4440bab192d81e22aa3a4f~mv2.png"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/light-architecture-yiyun-kang/08.jpg",
+        "origin": "https://static.wixstatic.com/media/c7f3f6_126e96ce564041a6b20b54e2838e25ba~mv2.png"
+      }
+    ]
   }
 ]
