@@ -4896,5 +4896,201 @@
         "origin": "https://static.wixstatic.com/media/c7f3f6_126e96ce564041a6b20b54e2838e25ba~mv2.png"
       }
     ]
+  },
+  {
+    "id": "kamiphony-cybele-young",
+    "title": "Kamiphony",
+    "artist": "Cybèle Young（シベール・ヤング）",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.cybeleyoung.ca/kamiphony",
+    "sourceSite": "cybeleyoung.ca",
+    "summary": "和紙を素材にした小さな「紙の機械」たちが部屋いっぱいに並び、それぞれが単純な反復動作で音・影・リズムを生むマルチメディア・インスタレーション。手回しの仕掛けから、カム・ギア・ヒンジとプログラム制御のモーターによる展示スケールの機構へ発展し、針金が触れた瞬間に光る演出や音響も加わる。2026年9月、トロントのKoffler Artsで発表。",
+    "tags": [
+      "キネティックアート",
+      "モーター",
+      "カム機構",
+      "和紙",
+      "サウンド",
+      "光"
+    ],
+    "thumbnail": "media/candidates/kamiphony-cybele-young/01.jpg",
+    "addedDate": "2026-11-09",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/kamiphony-cybele-young/01.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/6089cbff17be9d1da40a08d6/25b7ce29-eaf5-4fa4-8ba4-05125d998b75/PHOTO-2026-04-28-11-26-29.jpg?format=1500w"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/kamiphony-cybele-young/02.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/6089cbff17be9d1da40a08d6/6e1c39b2-6d66-4d1c-8433-9e20e5f20fdf/Screen+Shot+2026-04-28+at+5.31.36+PM.png?format=1500w"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/kamiphony-cybele-young/03.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/6089cbff17be9d1da40a08d6/442b9e0f-963c-40ec-9405-3610c77594a0/maquette-kamiphony-long.jpg?format=1500w"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/kamiphony-cybele-young/04.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/6089cbff17be9d1da40a08d6/03d825ff-73cd-4d26-a976-589dfd5ea71b/IMG_3131.jpeg?format=1500w"
+      }
+    ]
+  },
+  {
+    "id": "interval-ii-noah-berrie",
+    "title": "Interval II",
+    "artist": "Noah Berrie（ノア・ベリー）",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://noahberrie.com/works/interval-ii/",
+    "sourceSite": "noahberrie.com",
+    "summary": "壁に張ったピアノの低音弦（巻線弦）を、上から吊るした小型の振動モーターが叩いて鳴らすサウンド・インスタレーション。反復しないアルゴリズムが壁の端から端へとモーターを駆動し、密になったり疎になったりする音のパターンを生む。ドイツ・オルデンブルクのHaus für Medienkunst（展覧会「ANTIPHON」）で展示。",
+    "tags": [
+      "サウンドアート",
+      "振動モーター",
+      "アルゴリズム",
+      "ピアノ弦",
+      "ミニマル"
+    ],
+    "thumbnail": "media/candidates/interval-ii-noah-berrie/01.jpg",
+    "addedDate": "2026-11-09",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/interval-ii-noah-berrie/01.jpg",
+        "origin": "https://noahberrie.com/images/interval-ii/01-hero.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/interval-ii-noah-berrie/02.jpg",
+        "origin": "https://noahberrie.com/images/interval-ii/04-image.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/interval-ii-noah-berrie/03.jpg",
+        "origin": "https://noahberrie.com/images/interval-ii/02-image.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/interval-ii-noah-berrie/04.jpg",
+        "origin": "https://noahberrie.com/images/interval-ii/03-image.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "heliotropic-dwelling-joongmin-lee",
+    "title": "Heliotropic Dwelling（향일군락）",
+    "artist": "Joongmin Lee（イ・ジュンミン）",
+    "year": 2025,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://joongminlee.com/heliotropic_dwelling/",
+    "sourceSite": "joongminlee.com",
+    "summary": "フジツボの環境適応を建築的に読み替えたインタラクティブ・キネティック作品。照度センサーが周囲や観客の光を検知すると、60個のLEDモジュールが呼吸するように有機的に立ち上がり動く。都市の集合住宅の日照不足がモチーフ。Arduinoとステッピングモーター、アルミフレームと3Dプリント部品で構成。城南（2025）、ソウルの新韓ギャラリー、Sónar+D Barcelona（2026）で展示。",
+    "tags": [
+      "キネティックアート",
+      "Arduino",
+      "ステッピングモーター",
+      "照度センサー",
+      "LED",
+      "バイオミミクリー"
+    ],
+    "thumbnail": "media/candidates/heliotropic-dwelling-joongmin-lee/01.jpg",
+    "addedDate": "2026-11-09",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/heliotropic-dwelling-joongmin-lee/01.jpg",
+        "origin": "https://joongminlee.com/wp-content/uploads/2026/02/DSC00537.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/heliotropic-dwelling-joongmin-lee/02.jpg",
+        "origin": "https://joongminlee.com/wp-content/uploads/2026/02/DSC00396-1024x683.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/heliotropic-dwelling-joongmin-lee/03.jpg",
+        "origin": "https://joongminlee.com/wp-content/uploads/2026/02/DSC00516-1024x683.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/heliotropic-dwelling-joongmin-lee/04.jpg",
+        "origin": "https://joongminlee.com/wp-content/uploads/2026/02/DSC00525-1024x683.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/heliotropic-dwelling-joongmin-lee/05.jpg",
+        "origin": "https://joongminlee.com/wp-content/uploads/2026/02/DSC00551-1024x683.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/heliotropic-dwelling-joongmin-lee/06.jpg",
+        "origin": "https://joongminlee.com/wp-content/uploads/2026/07/DSC00507-682x1024.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/heliotropic-dwelling-joongmin-lee/07.jpg",
+        "origin": "https://joongminlee.com/wp-content/uploads/2026/08/DSCF9727-1024x768.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/heliotropic-dwelling-joongmin-lee/08.jpg",
+        "origin": "https://joongminlee.com/wp-content/uploads/2026/09/DSCF9516-1024x768-p760.webp"
+      }
+    ]
+  },
+  {
+    "id": "octave-maze-wit-pimkanchanapong",
+    "title": "Octave Maze（Octave Maze Live）",
+    "artist": "Wit Pimkanchanapong（ウィット・ピムカンチャナポン）",
+    "year": 2024,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://asvinbangkok.com/exhibitions-and-events/octave-maze-live-2026/",
+    "sourceSite": "asvinbangkok.com",
+    "summary": "ピアノの88鍵に対応する88枚の発光アクリルパネルが、モーターとカウンターウェイトで上下し、音やデータに応じて8段階の動きで迷路の形を変えていくキネティック・インスタレーション。2024年にOne Bangkokで初公開、2026年はバンコクのAsvinで毎週土曜にミュージシャンや研究者がEEG（脳波）・MIDI・ピアノなどで「演奏」するOctave Maze Liveとして展開。制御系はRS-485。",
+    "tags": [
+      "キネティックアート",
+      "モーター",
+      "LED",
+      "MIDI",
+      "脳波",
+      "空間楽器"
+    ],
+    "thumbnail": "media/candidates/octave-maze-wit-pimkanchanapong/01.jpg",
+    "addedDate": "2026-11-09",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/octave-maze-wit-pimkanchanapong/01.jpg",
+        "origin": "https://asvinbangkok.com/wp-content/uploads/2025/01/maze.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/octave-maze-wit-pimkanchanapong/02.jpg",
+        "origin": "https://100tonsonfoundation.org/wp-content/uploads/2024/12/IMG_8483-scaled.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/octave-maze-wit-pimkanchanapong/03.jpg",
+        "origin": "https://100tonsonfoundation.org/wp-content/uploads/2024/12/IMG_0043-scaled-800x600.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/octave-maze-wit-pimkanchanapong/04.jpg",
+        "origin": "https://media.timeout.com/images/106435612/image.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/octave-maze-wit-pimkanchanapong/05.jpg",
+        "origin": "https://media.timeout.com/images/106435614/image.jpg"
+      }
+    ]
   }
 ]
