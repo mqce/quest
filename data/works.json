@@ -5092,5 +5092,247 @@
         "origin": "https://media.timeout.com/images/106435614/image.jpg"
       }
     ]
+  },
+  {
+    "id": "static-n-spirit-ii-sounak-das",
+    "title": "Static N Spirit (II)",
+    "artist": "Sounak Das（アーティスト）& Olivia Carrubba（神経科学者）",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://sounakdas.com/static-n-spirit-ii/",
+    "sourceSite": "sounakdas.com",
+    "summary": "センサー付きグローブで参加者の心拍と呼吸を読み取り、その身体リズムで自作のメカトロニクス楽器群を「演奏」させる、15〜20分の儀式型インスタレーション。最大3人が同時に参加し、どの機械が自分を映しているかを探り、呼吸を変えて機械を操れるか試す。オランダ神経科学研究所のアート×サイエンス・レジデンシーから生まれ、2026年10月にアムステルダムのWaag Futurelab（Expo: NeuroNarratives）で初公開。",
+    "tags": [
+      "インタラクティブ",
+      "メカトロニクス",
+      "心拍センサー",
+      "呼吸センサー",
+      "機械楽器",
+      "バイオフィードバック"
+    ],
+    "thumbnail": "media/candidates/static-n-spirit-ii-sounak-das/01.jpg",
+    "addedDate": "2026-11-10",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/static-n-spirit-ii-sounak-das/01.jpg",
+        "origin": "https://sounakdas.com/wp-content/uploads/elementor/thumbs/SNSII_installation-documentation-Waag_website_007-ruqu8chu09117v08lhexaomeg2127zrxky68okmjgg.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/static-n-spirit-ii-sounak-das/02.jpg",
+        "origin": "https://sounakdas.com/wp-content/uploads/elementor/thumbs/SNSII_installation-documentation-Waag_website_002-ruqu825lx2mvo5f99uy1198bwtg0vbmvvizwej1vcw.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/static-n-spirit-ii-sounak-das/03.jpg",
+        "origin": "https://sounakdas.com/wp-content/uploads/elementor/thumbs/SNSII_installation-documentation-Waag_website_015-ruqu8y44dfummw4u38rce1603x2i515rbx6epxqhhc.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/static-n-spirit-ii-sounak-das/04.jpg",
+        "origin": "https://sounakdas.com/wp-content/uploads/elementor/thumbs/SNSII_installation-documentation-Waag_website_016-ruqu90xmxxyhlq0qmrz83igdw2ols4gycb4v5rmayo.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/static-n-spirit-ii-sounak-das/05.jpg",
+        "origin": "https://sounakdas.com/wp-content/uploads/elementor/thumbs/SNSII_installation-documentation-Waag_website_017-ruqu93r5ig2ckjwn6b73szqro8apf7s5cp3blli4g0.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/static-n-spirit-ii-sounak-das/06.jpg",
+        "origin": "https://sounakdas.com/wp-content/uploads/elementor/thumbs/SNSII_installation-documentation-Waag_website_020-ruqu9ac0uabcttn33w1hsg2ztxe9x3i9plnpyj8d8g.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/static-n-spirit-ii-sounak-das/07.jpg",
+        "origin": "https://sounakdas.com/wp-content/uploads/elementor/thumbs/SNSII_installation-documentation-Waag_website_023-ruqu9huqcylnepc5vzaice6ol0d7moc4emvlsqx7uo.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/static-n-spirit-ii-sounak-das/08.jpg",
+        "origin": "https://sounakdas.com/wp-content/uploads/elementor/thumbs/SNSII_installation-documentation-Waag_website_014-ruqu8w8fzrs1zo7ke7y391n2x5brpmyannvfrdt9ts.jpg"
+      }
+    ]
+  },
+  {
+    "id": "in-search-of-ghost-affects-laura-dima",
+    "title": "In Search of Ghost Affects",
+    "artist": "Laura A. Dima（ラウラ・A・ディマ）",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://lauraadima.com/projects/in-search-of-ghost-affects/",
+    "sourceSite": "lauraadima.com",
+    "summary": "生体センサーとボタンを備えたブレスレットで来場者の生理データを読み取り、クラゲのような生き物型の発光ソフト彫刻がモーターでその内部状態を身体的に表現する没入型インスタレーション。離れた場所にいる参加者同士が彫刻を介して互いの状態を感じ取る。アルミパイプ、スチール、モーター、テキスタイル、シリコーン、PLA、自作PCBで構成。オランダ・エンスヘーデのTetemで2026年10月21日〜2027年4月4日に個展として展示。",
+    "tags": [
+      "インタラクティブ",
+      "ソフトロボティクス",
+      "モーター",
+      "生体センサー",
+      "LED",
+      "ウェアラブル"
+    ],
+    "thumbnail": "media/candidates/in-search-of-ghost-affects-laura-dima/01.jpg",
+    "addedDate": "2026-11-10",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/in-search-of-ghost-affects-laura-dima/01.jpg",
+        "origin": "https://lauraadima.com/media/2026/04/InSearchOfGhotsAffects-LauraADima-TessaWiegerinck-_DSF3035-web.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/in-search-of-ghost-affects-laura-dima/02.jpg",
+        "origin": "https://lauraadima.com/media/2026/04/InSearchOfGhotsAffects-LauraADima-TessaWiegerinck-_DSF2963-web.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/in-search-of-ghost-affects-laura-dima/03.jpg",
+        "origin": "https://lauraadima.com/media/2026/04/InSearchOfGhotsAffects-LauraADima-TessaWiegerinck-_DSF2979-web.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/in-search-of-ghost-affects-laura-dima/04.jpg",
+        "origin": "https://lauraadima.com/media/2026/04/InSearchOfGhotsAffects-LauraADima-TessaWiegerinck-_DSF3016-web.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/in-search-of-ghost-affects-laura-dima/05.jpg",
+        "origin": "https://lauraadima.com/media/2026/04/InSearchOfGhotsAffects-LauraADima-TessaWiegerinck-_DSF2961-web-1.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/in-search-of-ghost-affects-laura-dima/06.jpg",
+        "origin": "https://lauraadima.com/media/2026/04/InSearchOfGhotsAffects-LauraADima-TessaWiegerinck-_DSF2699-web.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/in-search-of-ghost-affects-laura-dima/07.jpg",
+        "origin": "https://lauraadima.com/media/2026/04/InSearchOfGhotsAffects-LauraADima-TessaWiegerinck-_DSF2634-web.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/in-search-of-ghost-affects-laura-dima/08.jpg",
+        "origin": "https://lauraadima.com/media/2026/04/InSearchOfGhotsAffects-LauraADima-TessaWiegerinck-_DSF2995-web.jpg"
+      }
+    ]
+  },
+  {
+    "id": "loop-flightgraf",
+    "title": "LOOP",
+    "artist": "FLIGHTGRAF（冨吉剣人）",
+    "year": 2025,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://flightgraf.com/EN/works/loop/",
+    "sourceSite": "flightgraf.com",
+    "summary": "20枚の発光ディスクが呼吸するように精密な上下運動を繰り返し、光・動き・音が同期していくキネティック・ライト・スカルプチャー。ミステリーサークルと終わりのない円から着想。無線制御のモジュール式で設置しやすく、回路・PCB・機構まで自社開発（日本で特許登録）。DESIGNTIDE TOKYO 2025でプレビュー後、2026年11月13〜14日に下北沢「砂箱」でHAL caの立体音響アルバム『WA/VE』と連動したイマーシブ展示を開催。",
+    "tags": [
+      "キネティックアート",
+      "LED",
+      "モーター",
+      "無線制御",
+      "自作PCB",
+      "サウンド連動"
+    ],
+    "thumbnail": "media/candidates/loop-flightgraf/01.jpg",
+    "addedDate": "2026-11-10",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/loop-flightgraf/01.jpg",
+        "origin": "https://flightgraf.com/EN/works/loop/images/03.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/loop-flightgraf/02.jpg",
+        "origin": "https://flightgraf.com/EN/works/loop/images/01.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/loop-flightgraf/03.jpg",
+        "origin": "https://flightgraf.com/EN/works/loop/images/02.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/loop-flightgraf/04.jpg",
+        "origin": "https://flightgraf.com/EN/works/loop/images/04.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/loop-flightgraf/05.jpg",
+        "origin": "https://flightgraf.com/EN/works/loop/images/05.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/loop-flightgraf/06.jpg",
+        "origin": "https://flightgraf.com/EN/works/loop/images/06.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/loop-flightgraf/07.jpg",
+        "origin": "https://flightgraf.com/EN/works/loop/images/07.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/loop-flightgraf/08.jpg",
+        "origin": "https://flightgraf.com/EN/works/loop/images/08.jpg"
+      }
+    ]
+  },
+  {
+    "id": "look-alive-lozano-hemmer",
+    "title": "Look Alive（Pulse Map ほか）",
+    "artist": "Rafael Lozano-Hemmer（ラファエル・ロサノ＝ヘメル）",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://guartgalleries.org/exhibitions/46-rafael-lozano-hemmer-look-alive/",
+    "sourceSite": "Georgetown University Art Galleries",
+    "summary": "カメラによる非接触の脈拍計測（rPPG）で来場者の心拍を読み取り、天井から吊るした約3,000個の電球をその鼓動のリズムで明滅させるサイトスペシフィック作品「Pulse Map」を中心とした個展。新しい来場者の心拍が加わるたびに最も古い記録が押し出され、光の地形が更新されていく。ワシントンD.C.のジョージタウン大学アートギャラリーで2026年9月18日〜2027年4月11日。",
+    "tags": [
+      "インタラクティブ",
+      "心拍",
+      "カメラセンシング",
+      "電球",
+      "ライトアート",
+      "メディアアート"
+    ],
+    "thumbnail": "media/candidates/look-alive-lozano-hemmer/01.jpg",
+    "addedDate": "2026-11-10",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/look-alive-lozano-hemmer/01.jpg",
+        "origin": "https://static-assets.artlogic.net/w_2000,h_2000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite2658/usr/images/exhibitions/hero_image/items/64/64e251ddd11442c293dea6b5380ba54d/dark-pt.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/look-alive-lozano-hemmer/02.jpg",
+        "origin": "https://static-assets.artlogic.net/w_2400,h_2400,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite2658/usr/exhibitions/images/exhibitions/46/gu_09.22.26_web-35.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/look-alive-lozano-hemmer/03.jpg",
+        "origin": "https://static-assets.artlogic.net/w_2400,h_2400,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite2658/usr/exhibitions/images/exhibitions/46/gu_09.22.26_web-40.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/look-alive-lozano-hemmer/04.jpg",
+        "origin": "https://static-assets.artlogic.net/w_2400,h_2400,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite2658/usr/exhibitions/images/exhibitions/46/gu_09.22.26_web-70.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/look-alive-lozano-hemmer/05.jpg",
+        "origin": "https://static-assets.artlogic.net/w_2400,h_2400,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite2658/usr/exhibitions/images/exhibitions/46/gu_09.22.26_web-77.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/look-alive-lozano-hemmer/06.jpg",
+        "origin": "https://static-assets.artlogic.net/w_2400,h_2400,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite2658/usr/exhibitions/images/exhibitions/46/gu_09.22.26_web-74.jpg"
+      }
+    ]
   }
 ]
