@@ -5334,5 +5334,247 @@
         "origin": "https://static-assets.artlogic.net/w_2400,h_2400,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite2658/usr/exhibitions/images/exhibitions/46/gu_09.22.26_web-74.jpg"
       }
     ]
+  },
+  {
+    "id": "aeolus-drift",
+    "title": "Aeolus",
+    "artist": "DRIFT（Lonneke Gordijn & Ralph Nauta）",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.thisiscolossal.com/2026/10/aeolus-studio-drift-light-glass-installation/",
+    "sourceSite": "Colossal",
+    "summary": "部屋固有の気流をシミュレーションし、その一瞬の「風のかたち」を数百本の吹きガラス製ホウケイ酸ガラス棒で空中に固定したインスタレーション。ガラス自体は動かないが、内部に仕込まれたLEDが来場者の動きに反応して光の波を走らせ、見えない風が流れていくように見せる。ロンドンのLadbroke Hall（Carpenters Workshop Gallery）で2026年10月13日〜25日に展示。",
+    "tags": [
+      "インタラクティブ",
+      "LED",
+      "モーションセンシング",
+      "ガラス",
+      "ライトアート",
+      "気流シミュレーション"
+    ],
+    "addedDate": "2026-11-11",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/aeolus-drift/01.jpg",
+        "origin": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/drift-6.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/aeolus-drift/02.jpg",
+        "origin": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/drift-4.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/aeolus-drift/03.jpg",
+        "origin": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/drift-3.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/aeolus-drift/04.jpg",
+        "origin": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/drift-7.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/aeolus-drift/05.jpg",
+        "origin": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/drift-5.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/aeolus-drift/06.jpg",
+        "origin": "https://cdn.sanity.io/images/78axhya0/rebrand/b8895579619c7bae364c9e427125e6ae2c056fa1-2835x2268.jpg?w=1600"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/aeolus-drift/07.jpg",
+        "origin": "https://cdn.sanity.io/images/78axhya0/rebrand/6597ad611b538089f8c13fd4778f6b1d07f3f22f-2835x2268.jpg?w=1600"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/aeolus-drift/08.jpg",
+        "origin": "https://cdn.sanity.io/images/78axhya0/rebrand/5f406874e9857802523a6064938da5772b11551f-2835x2268.jpg?w=1600"
+      }
+    ],
+    "thumbnail": "media/candidates/aeolus-drift/01.jpg"
+  },
+  {
+    "id": "zimoun-1944",
+    "title": "1944 prepared dc-motors, mdf panels 72x72 cm, metal discs ø 8 cm",
+    "artist": "Zimoun（ジムーン）",
+    "year": 2020,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.e-flux.com/announcements/6788197/haunted",
+    "sourceSite": "e-flux / Borusan Contemporary",
+    "summary": "1944個のDCモーターの上に直径8cmの金属ディスクを載せ、MDFパネルを床一面に並べたキネティック・サウンド・インスタレーション。全モーターに同じ電流を流すが、ディスクを支える手曲げのワイヤーが一本ずつ微妙に異なるため回転のリズムがずれ、摩擦音と反射光が水面のように揺らぎ続ける。2020年にJaeger-LeCoultreの委嘱で制作（TETRO協力）。現在はイスタンブールのBorusan Contemporaryのコレクション展「Haunted」（2026年9月19日〜2027年8月15日）で展示中。",
+    "tags": [
+      "DCモーター",
+      "キネティックアート",
+      "サウンドアート",
+      "反復",
+      "金属ディスク",
+      "大量配列"
+    ],
+    "addedDate": "2026-11-11",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/zimoun-1944/01.jpg",
+        "origin": "https://images-eflux.b-cdn.net/assets/c5829340-47d4-4827-978f-ed962dd9c91e.jpg?&modified=2026-09-23T22:14:00.000Z"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/zimoun-1944/02.jpg",
+        "origin": "https://www.designboom.com/wp-content/dbsub/381292/2020-11-04/zimoun-unveils-a-new-installation-commissioned-by-jaeger-lecoultre-1-5fa2f4b483859.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/zimoun-1944/03.jpg",
+        "origin": "https://www.designboom.com/wp-content/dbsub/381292/2020-11-04/zimoun-unveils-a-new-installation-commissioned-by-jaeger-lecoultre-2-5fa2f4b483940.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/zimoun-1944/04.jpg",
+        "origin": "https://www.designboom.com/wp-content/dbsub/381292/2020-11-04/zimoun-unveils-a-new-installation-commissioned-by-jaeger-lecoultre-3-5fa2f4b4839d2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/zimoun-1944/05.jpg",
+        "origin": "https://www.designboom.com/wp-content/dbsub/381292/2020-11-04/zimoun-unveils-a-new-installation-commissioned-by-jaeger-lecoultre-4-5fa2f4b483a5c.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/zimoun-1944/06.jpg",
+        "origin": "https://www.designboom.com/wp-content/dbsub/381292/2020-11-04/zimoun-unveils-a-new-installation-commissioned-by-jaeger-lecoultre-5-5fa2f4b483ade.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/zimoun-1944/07.jpg",
+        "origin": "https://www.designboom.com/wp-content/dbsub/381292/2020-11-04/zimoun-unveils-a-new-installation-commissioned-by-jaeger-lecoultre-6-5fa2f4b483b64.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/zimoun-1944/08.jpg",
+        "origin": "https://www.designboom.com/wp-content/dbsub/381292/2020-11-04/zimoun-unveils-a-new-installation-commissioned-by-jaeger-lecoultre-7-5fa2f4b483be7.jpg"
+      }
+    ],
+    "thumbnail": "media/candidates/zimoun-1944/01.jpg"
+  },
+  {
+    "id": "storung-perturbation-gfeller",
+    "title": "Störung / Perturbation",
+    "artist": "Cyril Gfeller（シリル・グフェラー）",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://cyrilgfeller.com/portfolio/storung-perturbation",
+    "sourceSite": "Cyril Gfeller",
+    "summary": "ロボットアーム（Dobot Nova 5）が200×200cmの砂の上に螺旋模様を延々と描き続けるインタラクティブ作品。LiDARセンサーが来場者の接近を検知すると、描画を止めないまま模様に「乱れ」が刻み込まれ、人と機械の出会いの痕跡が次々と描き直されていく。ローザンヌの展覧会「À l'Abordage」第5回（2026年5月）で初公開。",
+    "tags": [
+      "ロボットアーム",
+      "LiDAR",
+      "砂",
+      "ドローイングマシン",
+      "インタラクティブ",
+      "ジェネラティブ"
+    ],
+    "addedDate": "2026-11-11",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/storung-perturbation-gfeller/01.jpg",
+        "origin": "https://static.fabrik.io/o9w/c803b08cb025a8c3.jpg?lossless=1&w=1280&h=1280&fit=max&s=f0825a82a1d88166b6fd9118ac96f781"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/storung-perturbation-gfeller/02.jpg",
+        "origin": "https://static.fabrik.io/o9w/8f6f7575a621631a.jpg?lossless=1&w=1280&h=1280&fit=max&s=801fdbb4d493ae19346e507bb136e576"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/storung-perturbation-gfeller/03.jpg",
+        "origin": "https://media.licdn.com/dms/image/v2/D4E22AQHWlDN8s3WagA/feedshare-image-high-res/B4EZ5A6P34JEAU-/0/1779205472365?e=2147483647&v=beta&t=DR8lRM1jeBkHuVXOtHCGX9b2ejME_wAdRl4PYdN2_h0"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/storung-perturbation-gfeller/04.jpg",
+        "origin": "https://media.licdn.com/dms/image/v2/D4E05AQHGqoy0saaU0A/videocover-high/B4EZ5A4XmxG8BQ-/0/1779204981239?e=2147483647&v=beta&t=kzo9o8CoghOQtfimST1vDjqnq6XqWJRWYI_fecfVOjY"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/storung-perturbation-gfeller/05.jpg",
+        "origin": "https://media.licdn.com/dms/image/v2/D4E05AQHpR8UY9AfhHQ/videocover-high/B4EZ2amOD9JUBY-/0/1776415206572?e=2147483647&v=beta&t=UlaeSsZsvMFF9uxZnI8nZGPtqR47RndmuIXRTQ5d3kY"
+      }
+    ],
+    "thumbnail": "media/candidates/storung-perturbation-gfeller/01.jpg"
+  },
+  {
+    "id": "there-now-here-wade-leta",
+    "title": "There, Now, Here",
+    "artist": "Wade and Leta（サウンド：Josh Burgess）",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.thisiscolossal.com/2026/06/wade-leta-kinetic-installation-sydney-australia/",
+    "sourceSite": "Colossal",
+    "summary": "シドニーのサーキュラー・キーに設置された高さ6.5mの遊具型キネティック彫刻。風・モーター・来場者が乗るシーソーによって、ストライプや円盤のパーツが回転し揺れ続ける。ドロシア・マッケラーの詩「My Country」に着想した日焼けしたような色調で、Josh Burgessによる環境音（ライトレールの音やコトドリの声など）を来場者が操作できるサウンド要素も備える。Vivid Sydney 2026出展作。",
+    "tags": [
+      "キネティック彫刻",
+      "モーター",
+      "パブリックアート",
+      "参加型",
+      "サウンド",
+      "Vivid Sydney"
+    ],
+    "addedDate": "2026-11-11",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/there-now-here-wade-leta/01.jpg",
+        "origin": "https://www.thisiscolossal.com/wp-content/uploads/2026/06/wade-1.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/there-now-here-wade-leta/02.jpg",
+        "origin": "https://www.thisiscolossal.com/wp-content/uploads/2026/06/wade-2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/there-now-here-wade-leta/03.jpg",
+        "origin": "https://www.thisiscolossal.com/wp-content/uploads/2026/06/wade-3.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/there-now-here-wade-leta/04.jpg",
+        "origin": "https://www.thisiscolossal.com/wp-content/uploads/2026/06/wade-4.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/there-now-here-wade-leta/05.jpg",
+        "origin": "https://www.thisiscolossal.com/wp-content/uploads/2026/06/wade-5.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/there-now-here-wade-leta/06.jpg",
+        "origin": "https://www.thisiscolossal.com/wp-content/uploads/2026/06/wade-6.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/there-now-here-wade-leta/07.jpg",
+        "origin": "https://www.thisiscolossal.com/wp-content/uploads/2026/06/wade-7.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/there-now-here-wade-leta/08.jpg",
+        "origin": "https://www.thisiscolossal.com/wp-content/uploads/2026/06/wade-8.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/there-now-here-wade-leta/09.jpg",
+        "origin": "https://www.thisiscolossal.com/wp-content/uploads/2026/06/wade-9.jpg"
+      }
+    ],
+    "thumbnail": "media/candidates/there-now-here-wade-leta/01.jpg"
   }
 ]
