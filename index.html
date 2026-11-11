@@ -970,7 +970,7 @@
                 try {
                   return createCard(work);
                 } catch (e) {
-                  console.error(\`Failed to render card for work \${work.id}:\`, e);
+                  console.error('Failed to render card for work ' + work.id + ':', e);
                   return '';
                 }
               }).join('')}
