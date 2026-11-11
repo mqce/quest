@@ -5576,5 +5576,155 @@
       }
     ],
     "thumbnail": "media/candidates/there-now-here-wade-leta/01.jpg"
+  },
+  {
+    "id": "tricks-tracks-pinaffo-pluvinage",
+    "title": "Tricks & Tracks（ほか キネティック作品群）",
+    "artist": "Pinaffo & Pluvinage（Marion Pinaffo & Raphaël Pluvinage）",
+    "year": 2025,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.thisiscolossal.com/2026/02/pinaffo-pluvinage-public-art-kinetic-immersive-sculptures/",
+    "sourceSite": "Colossal",
+    "summary": "フランスのデュオ Pinaffo & Pluvinage による、遊びと参加をテーマにした色鮮やかなキネティック彫刻群。「Tricks & Tracks」（2025）は木・段ボール・電子回路・モーターで構成された5×5.5mの装置で、カラフルな円盤やパーツがレール上を動き続ける。ロープと滑車で来場者が動かす「Panneau Pannache」など、モーター駆動と人の操作を組み合わせた庭園・美術館向けの作品を展開している。",
+    "tags": [
+      "キネティック彫刻",
+      "モーター",
+      "電子回路",
+      "参加型",
+      "木工",
+      "パブリックアート"
+    ],
+    "addedDate": "2026-11-12",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/tricks-tracks-pinaffo-pluvinage/01.jpg",
+        "origin": "https://www.thisiscolossal.com/wp-content/uploads/2026/02/pinaffo-pluvinage-5-ezgif.com-resize.gif"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/tricks-tracks-pinaffo-pluvinage/02.jpg",
+        "origin": "https://www.thisiscolossal.com/wp-content/uploads/2026/02/pinaffo-pluvinage-8.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/tricks-tracks-pinaffo-pluvinage/03.jpg",
+        "origin": "https://www.thisiscolossal.com/wp-content/uploads/2026/02/pinaffo-pluvinage-9.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/tricks-tracks-pinaffo-pluvinage/04.jpg",
+        "origin": "https://www.thisiscolossal.com/wp-content/uploads/2026/02/pinaffo-pluvinage-4.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/tricks-tracks-pinaffo-pluvinage/05.jpg",
+        "origin": "https://www.thisiscolossal.com/wp-content/uploads/2026/02/pinaffo-pluvinage-3.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/tricks-tracks-pinaffo-pluvinage/06.jpg",
+        "origin": "https://www.thisiscolossal.com/wp-content/uploads/2026/02/pinaffo-pluvinage-1.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/tricks-tracks-pinaffo-pluvinage/07.jpg",
+        "origin": "https://www.thisiscolossal.com/wp-content/uploads/2026/02/pinaffo-pluvinage-6.jpg"
+      }
+    ],
+    "thumbnail": "media/candidates/tricks-tracks-pinaffo-pluvinage/01.jpg"
+  },
+  {
+    "id": "the-helix-kit-webster",
+    "title": "The Helix",
+    "artist": "Kit Webster（キット・ウェブスター）",
+    "year": 2023,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.creativeapplications.net/member/the-helix-a-kinetic-system-of-mirrored-sculpture-light-and-sound/",
+    "sourceSite": "CreativeApplications.Net",
+    "summary": "DNAの二重らせんを参照した高さ5mの回転するミラーガラス彫刻を中心にした、光と音のキネティック・インスタレーション。DMX制御の回転、4台の同期プロジェクター、ヘイズ、4chサラウンド音響を独自の同期システムでつなぎ、彫刻の動き・投影映像・音をひとつの視聴覚楽器として振る舞わせる。Mugler x H&M（シドニー、2023）のために制作され、現在は全体をシミュレーションする専用ソフトを開発中。",
+    "tags": [
+      "キネティック彫刻",
+      "ミラー",
+      "プロジェクション",
+      "DMX",
+      "サウンド",
+      "光"
+    ],
+    "addedDate": "2026-11-12",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/the-helix-kit-webster/01.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2026/09/01_The_Helix_Installation_Wide_1600.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/the-helix-kit-webster/02.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2026/09/02_The_Helix_Mirror_Detail-768x429.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/the-helix-kit-webster/03.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2026/09/03_The_Helix_Full_View-1600x900.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/the-helix-kit-webster/04.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2026/09/04_The_Helix_Installation_Process-720x1000.jpg"
+      }
+    ],
+    "thumbnail": "media/candidates/the-helix-kit-webster/01.jpg"
+  },
+  {
+    "id": "undercurrents-lozano-hemmer",
+    "title": "Undercurrents",
+    "artist": "Rafael Lozano-Hemmer（Atelier Lozano-Hemmer）",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.creativeapplications.net/project/undercurrents-distributed-environmental-os-where-infrastructure-poetry-and-computation-converge/",
+    "sourceSite": "CreativeApplications.Net",
+    "summary": "ヒューストンの地下貯水池バッファロー・バイユー・パーク・シスターンに設置された参加型ライト＆サウンド作品。外周の8台の自作インターホンに話しかけると、声が光の明るさの変化に変換され、柱ごとに分岐しながら42万個超のLEDピクセルを伝って別のインターホンで過去の声と混ざって再生される。AIが詩人の朗読などのアーカイブから似たパターンを探して「残響」を生成し、誰もいないときは作品が自ら夢を見るように再生を続ける。2026年4月〜2027年1月展示。",
+    "tags": [
+      "LED",
+      "インタラクティブ",
+      "サウンド",
+      "AI",
+      "TouchDesigner",
+      "自作回路",
+      "参加型"
+    ],
+    "addedDate": "2026-11-12",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/undercurrents-lozano-hemmer/01.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2026/04/undercurrents_houston_2026_ne_001.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/undercurrents-lozano-hemmer/02.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2026/04/undercurrents_houston_2026_ne_006-934x1000.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/undercurrents-lozano-hemmer/03.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2026/04/undercurrents_houston_2026_ne_009-768x512.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/undercurrents-lozano-hemmer/04.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2026/04/undercurrents_houston_2026_ne_011-768x512.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/undercurrents-lozano-hemmer/05.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2026/04/undercurrents_houston_2026_ne_016-934x1000.jpg"
+      }
+    ],
+    "thumbnail": "media/candidates/undercurrents-lozano-hemmer/01.jpg"
   }
 ]
