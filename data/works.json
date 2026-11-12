@@ -5726,5 +5726,197 @@
       }
     ],
     "thumbnail": "media/candidates/undercurrents-lozano-hemmer/01.jpg"
+  },
+  {
+    "id": "naissance-des-vagues-faif",
+    "title": "La naissance des vagues（波の誕生）",
+    "artist": "Émilie Faïf & Nicolas André（LANAA）",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.paris-conciergerie.fr/agenda/la-naissance-des-vagues",
+    "sourceSite": "Conciergerie（Centre des monuments nationaux）",
+    "summary": "パリ・コンシェルジュリーの中世ゴシック様式「衛兵の間」に吊られた巨大なキネティック・インスタレーション。約140㎡のポリエチレンシートを600点以上の吊り点（約700本の木製スラット）で支え、小型モーターと錘・カウンターウェイトのバランス機構でゆっくりランダムに揺らすことで、近くを流れるセーヌ川の波のような有機的な動きを生む。動きは同期を避けるようプログラムされ、不規則に「呼吸」する。2026年11月4日〜12月20日展示。",
+    "tags": [
+      "キネティック",
+      "モーター",
+      "錘・カウンターウェイト",
+      "ポリエチレンシート",
+      "大規模インスタレーション",
+      "パリ"
+    ],
+    "addedDate": "2026-11-13",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/naissance-des-vagues-faif/01.jpg",
+        "origin": "https://cdn.sortiraparis.com/images/1001/1467/1333965-la-naissance-des-vagues-l-installation-immersive-a-la-conciergerie.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/naissance-des-vagues-faif/02.jpg",
+        "origin": "https://cdn.sortiraparis.com/images/1001/1467/1333968-la-naissance-des-vagues-a-la-conciergerie-l-installation-en-images.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/naissance-des-vagues-faif/03.jpg",
+        "origin": "https://cdn.sortiraparis.com/images/1001/1467/1333971-la-naissance-des-vagues-a-la-conciergerie-l-installation-en-images.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/naissance-des-vagues-faif/04.jpg",
+        "origin": "https://cdn.sortiraparis.com/images/1001/1467/1333974-la-naissance-des-vagues-a-la-conciergerie-l-installation-en-images.jpg"
+      }
+    ],
+    "thumbnail": "media/candidates/naissance-des-vagues-faif/01.jpg"
+  },
+  {
+    "id": "perpetuite-ii-felix-luque",
+    "title": "Perpétuité II",
+    "artist": "Félix Luque Sánchez, Damien Gernay, Vincent Evrard",
+    "year": 2022,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://felixluque.com/Perpetuite-II",
+    "sourceSite": "Félix Luque Sánchez",
+    "summary": "巨大な金属フレームから吊られた改造産業用ピック＆プレース（パラレルリンク）ロボットが、色とりどりの医薬品型レジン錠剤を何千個も拾っては並べ替え、ニューロンのシナプス活動をリアルタイムにシミュレーションした有機的な模様を床に描き続ける。観客の有無に関係なく永遠に続く「アルゴリズムのシシュフォス」として、自動化と技術資本主義を問う。周囲には眠る人の頭部彫刻群「The Sleepers」が並ぶ。ブリュッセルiMALの個展「La Société Automatique」などで展示。",
+    "tags": [
+      "産業用ロボット",
+      "パラレルリンク",
+      "生成アルゴリズム",
+      "カスタムハードウェア",
+      "Python",
+      "ロボットアート"
+    ],
+    "addedDate": "2026-11-13",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/perpetuite-ii-felix-luque/01.jpg",
+        "origin": "https://www.imal.org/media/pages/events/perpetuite2/2343551875-1742819029/0web-1440x.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/perpetuite-ii-felix-luque/02.jpg",
+        "origin": "https://www.imal.org/media/pages/events/perpetuite2/1191559965-1742819030/1web-1440x.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/perpetuite-ii-felix-luque/03.jpg",
+        "origin": "https://www.imal.org/media/pages/events/perpetuite2/3381314814-1742819030/2web-1440x.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/perpetuite-ii-felix-luque/04.jpg",
+        "origin": "https://www.imal.org/media/pages/events/perpetuite2/86033504-1742819030/3web-1440x.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/perpetuite-ii-felix-luque/05.jpg",
+        "origin": "https://www.imal.org/media/pages/events/perpetuite2/266718585-1742819031/4web-1440x.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/perpetuite-ii-felix-luque/06.jpg",
+        "origin": "https://www.imal.org/media/pages/events/perpetuite2/3276787175-1742819031/5web-1440x.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/perpetuite-ii-felix-luque/07.jpg",
+        "origin": "https://www.imal.org/media/pages/events/perpetuite2/2497763496-1742819031/9web-1440x.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/perpetuite-ii-felix-luque/08.jpg",
+        "origin": "https://freight.cargo.site/w/1200/i/30dc84d7ef7a03575ab4cb520f4df3edad29f7d02febf4d5f2f7b4d4384599ad/Felix-Luque-IMAL-2025_-2598.jpg"
+      }
+    ],
+    "thumbnail": "media/candidates/perpetuite-ii-felix-luque/01.jpg"
+  },
+  {
+    "id": "data-critters-domestic-data-streamers",
+    "title": "Data Critters（A Cartography of Human Connection）",
+    "artist": "Domestic Data Streamers（協力：Banzai Turba、Hamill Industries）",
+    "year": 2023,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.domesticstreamers.com/work/tracing-our-digital-actions-through-modern-scribes/",
+    "sourceSite": "Domestic Data Streamers",
+    "summary": "オンライン上の人のつながりを「現代の書記」として紙に刻むデータ・インスタレーション。生き物のような外装をまとった自作の機械式プロッター「データ・クリッター」たちが、Wikipediaの編集、Tinderのやり取り、Instagramのいいね、WhatsAppのメッセージなど各プラットフォームのライブデータを受け取るたびにインクの線を描き、決して完成しない地図を作り続ける。バルセロナ・デザイン美術館の展覧会「Digital Impact」で121日間稼働し、約4万人が鑑賞。",
+    "tags": [
+      "プロッター",
+      "リアルタイムデータ",
+      "API",
+      "データビジュアライゼーション",
+      "自作機械",
+      "バルセロナ"
+    ],
+    "addedDate": "2026-11-13",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/data-critters-domestic-data-streamers/01.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/61373f7223f7281cfb76df82/53aeb4c8-1c3d-4e09-aade-4732421db073/DDS_ACartographyOfHumanConnection-1.jpg?format=1500w"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/data-critters-domestic-data-streamers/02.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/61373f7223f7281cfb76df82/29894373-d4d3-44c1-97cf-3420c057a92e/DDS_ACartographyOfHumanConnection-4-2.jpg?format=1500w"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/data-critters-domestic-data-streamers/03.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/61373f7223f7281cfb76df82/37942e3d-8e64-441c-81ad-f21780917242/DIGITAL_IMPACT_OBRA_300dpi_075.jpg?format=1500w"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/data-critters-domestic-data-streamers/04.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/61373f7223f7281cfb76df82/a4aa8bb6-f8b6-4001-8b3e-251b68b7689e/DIGITAL_IMPACT_OBRA_300dpi_078.jpg?format=1500w"
+      }
+    ],
+    "thumbnail": "media/candidates/data-critters-domestic-data-streamers/01.jpg"
+  },
+  {
+    "id": "sisyphus-wendelin-maus",
+    "title": "Sisyphus",
+    "artist": "Jonas Wendelin & Benjamin Maus",
+    "year": 2025,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.allesblinkt.com/projects/sisyphus/",
+    "sourceSite": "allesblinkt（Benjamin Maus）",
+    "summary": "ベルリン新国立美術館（ミース・ファン・デル・ローエ設計）前の花崗岩の床を、2台の円盤型自律ロボットが走り回り、水で鋭い線を描くパフォーマンス作品。描かれるのは建物の窓格子が落とすはずの影で、まるで太陽が地球の反対側に移ったかのような違和感を生む。ファサード全体を描き終える頃には線は蒸発して消え、ロボットはシシュフォスのように最初から描き直す。Festival of Future Nows 2025で初公開。",
+    "tags": [
+      "自律移動ロボット",
+      "水",
+      "ドローイングマシン",
+      "パフォーマンス",
+      "パブリックアート",
+      "ベルリン"
+    ],
+    "addedDate": "2026-11-13",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/sisyphus-wendelin-maus/01.jpg",
+        "origin": "https://www.allesblinkt.com/projects/sisyphus/Sisyphus_Aur@article_full.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/sisyphus-wendelin-maus/02.jpg",
+        "origin": "https://www.allesblinkt.com/projects/sisyphus/Sisyphus_Close-Double@article_full.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/sisyphus-wendelin-maus/03.jpg",
+        "origin": "https://www.allesblinkt.com/projects/sisyphus/Sisyphus_Close-Single@article_full.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/sisyphus-wendelin-maus/04.jpg",
+        "origin": "https://www.allesblinkt.com/projects/sisyphus/Sisyphus_Side@article_full.jpg"
+      }
+    ],
+    "thumbnail": "media/candidates/sisyphus-wendelin-maus/02.jpg"
   }
 ]
