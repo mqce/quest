@@ -6195,5 +6195,260 @@
       }
     ],
     "thumbnail": "media/candidates/blackbox-dfff/01.jpg"
+  },
+  {
+    "id": "pleonexie-collectif-coin",
+    "title": "Pléonexie（プレオネクシー）",
+    "artist": "Maxime Houot / Collectif Coin（レーザー：Antoine Vanel / blindsp0t）",
+    "year": 2025,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://fisheyeimmersive.com/article/pleonexie-dans-les-coulisses-de-la-derniere-oeuvre-de-collectif-coin/",
+    "sourceSite": "Fisheye Immersive",
+    "summary": "全長50mにわたって並ぶ8基のクレーン状の機械マスト（各200〜250kg、腕は高さ8.5mまで上昇）が、約20分間の精密な「機械のバレエ」を踊りながら、レーザーと照明で有機的な形や光の線を空間に投げかける巨大なキネティック・ライト・インスタレーション。題名は「他人より多くを欲する欲望」を意味し、過剰さと消費社会を問う。グルノーブルのBiennale Experimenta（2025年、Grand Marché des Alpes）で初演、同年オビエドのNoche Blancaで上演、2026年にはISEA2026（ドバイ）にも出品された。",
+    "tags": [
+      "キネティック",
+      "レーザー",
+      "照明",
+      "モーター制御",
+      "機械彫刻",
+      "大規模インスタレーション"
+    ],
+    "addedDate": "2026-11-14",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/pleonexie-collectif-coin/01.jpg",
+        "origin": "https://fisheyeimmersive.com/wp-content/uploads/sites/2/2025/03/collectif-coin-pleonexie-fev2025-photo-de-quentin-chevrier-15.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/pleonexie-collectif-coin/02.jpg",
+        "origin": "https://fisheyeimmersive.com/wp-content/uploads/sites/2/2025/03/collectif-coin-pleonexie-fev2025-photo-de-quentin-chevrier-1-1536x1025.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/pleonexie-collectif-coin/03.jpg",
+        "origin": "https://fisheyeimmersive.com/wp-content/uploads/sites/2/2025/03/collectif-coin-pleonexie-fev2025-photo-de-quentin-chevrier-11.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/pleonexie-collectif-coin/04.jpg",
+        "origin": "https://levfestival.com/wp-content/uploads/2025/09/COLLECTIF-noticia-miniatura.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/pleonexie-collectif-coin/05.jpg",
+        "origin": "https://levfestival.com/wp-content/uploads/2025/09/COLLECTIF-noticia-cabecera.jpg"
+      }
+    ],
+    "thumbnail": "media/candidates/pleonexie-collectif-coin/01.jpg"
+  },
+  {
+    "id": "hydroscope-choplain",
+    "title": "Hydroscope",
+    "artist": "Alexis Choplain（アレクシス・ショプラン）",
+    "year": 2025,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.alexischoplain.fr/hydroscope",
+    "sourceSite": "Alexis Choplain",
+    "summary": "水と電気という相反する素材を組み合わせたキネティック・インスタレーション。6基の金属モジュールに油圧系、トランスデューサー、光源を組み込み、人の耳には聞こえない低周波の振動で5本の水平な水流の形を絶えず変化させ、音の振動を目に見える動きに変える。作家自作のアナログ・シンセサイザーが信号を生成。2015年からの研究の集大成で、KIKK Festival 2025、Interstice、MIRA Festival 2026（バルセロナ）などで展示。サイズ680×180×50cm。",
+    "tags": [
+      "水",
+      "トランスデューサー",
+      "自作シンセサイザー",
+      "アナログ電子回路",
+      "LED",
+      "低周波振動"
+    ],
+    "addedDate": "2026-11-14",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/hydroscope-choplain/01.jpg",
+        "origin": "https://static.wixstatic.com/media/ff3598_92d68ced97eb4609907b1d49d2767194~mv2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/hydroscope-choplain/02.jpg",
+        "origin": "https://static.wixstatic.com/media/ff3598_33edd12097a34e4c84ae16a83737a4d1~mv2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/hydroscope-choplain/03.jpg",
+        "origin": "https://static.wixstatic.com/media/ff3598_4bfcd6592c434d4f810f9567b826b5d8~mv2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/hydroscope-choplain/04.jpg",
+        "origin": "https://static.wixstatic.com/media/ff3598_689104ae4bd240a0a83ced257be53bea~mv2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/hydroscope-choplain/05.jpg",
+        "origin": "https://static.wixstatic.com/media/ff3598_a7c6375ccab6442595f75f7d630053e6f002.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/hydroscope-choplain/06.jpg",
+        "origin": "https://static.wixstatic.com/media/ff3598_a7c6375ccab6442595f75f7d630053e6f003.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/hydroscope-choplain/07.jpg",
+        "origin": "https://2025.kikk.be/wp-content/uploads/2025/05/JDP1357_HD-scaled.jpg"
+      }
+    ],
+    "thumbnail": "media/candidates/hydroscope-choplain/02.jpg"
+  },
+  {
+    "id": "sabella-sf-carla-elias",
+    "title": "Sabella sf.",
+    "artist": "Carla Elías（サウンド：Jolly Damper）",
+    "year": 2025,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://sabella.cargo.site/",
+    "sourceSite": "Sabella sf.（作家サイト）",
+    "summary": "地中海沿岸に棲むケヤリムシ（Sabella spallanzanii）に着想したインタラクティブな彫刻インスタレーション。光ファイバーの「触手」をもつ2体のバイオニックな生きものが、人の気配や動きを感知すると身を引っ込め、静けさが続いたときだけ姿を現す。センサーと反応型サウンドで、人間がコントロールできないものとの関係を問い、「引っ込む」ことを主体性として描く。MIRA Festival 2025（バルセロナ、Fira de Montjuïc）で発表、ISEA2026（ドバイ、Al Shindagha）で展示。",
+    "tags": [
+      "センサー",
+      "光ファイバー",
+      "モーター",
+      "反応型サウンド",
+      "インタラクティブ",
+      "バイオミメティクス"
+    ],
+    "addedDate": "2026-11-14",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/sabella-sf-carla-elias/01.jpg",
+        "origin": "https://freight.cargo.site/m/L2588919362986742350179641631360/Sabella-sf_dossier.pdf"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/sabella-sf-carla-elias/02.jpg",
+        "origin": "https://freight.cargo.site/m/L2588919362986742350179641631360/Sabella-sf_dossier.pdf"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/sabella-sf-carla-elias/03.jpg",
+        "origin": "https://freight.cargo.site/m/L2588919362986742350179641631360/Sabella-sf_dossier.pdf"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/sabella-sf-carla-elias/04.jpg",
+        "origin": "https://freight.cargo.site/m/L2588919362986742350179641631360/Sabella-sf_dossier.pdf"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/sabella-sf-carla-elias/05.jpg",
+        "origin": "https://freight.cargo.site/m/L2588919362986742350179641631360/Sabella-sf_dossier.pdf"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/sabella-sf-carla-elias/06.jpg",
+        "origin": "https://freight.cargo.site/m/L2588919362986742350179641631360/Sabella-sf_dossier.pdf"
+      }
+    ],
+    "thumbnail": "media/candidates/sabella-sf-carla-elias/01.jpg"
+  },
+  {
+    "id": "hyundai-kinetic-sculpture-goyang",
+    "title": "Hyundai Motorstudio Goyang – Kinetic Sculpture",
+    "artist": "ATELIER BRÜCKNER（映像・振付：TAMSCHICK MEDIA+SPACE／機構：MKT）",
+    "year": 2017,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.atelier-brueckner.com/en/projects/hyundai-motorstudio",
+    "sourceSite": "ATELIER BRÜCKNER",
+    "summary": "韓国・高陽市のヒュンダイ・モータースタジオ最上階にある、1,411本のアルミロッドによるキネティック彫刻。各ロッドが個別の駆動装置をもち、数秒で最大1.4mまで上下する。「Reactive Mode」では来場者の動きに反応し、「Show Mode」では56面のモニター帯の映像と音に同期した約4分の振付で、自然の波のような形から最後にヒュンダイ車のシルエットへと変化する。Red Dot、iF Designなど多数受賞。",
+    "tags": [
+      "キネティック",
+      "アクチュエーター×1411",
+      "モーションセンシング",
+      "モニター",
+      "照明",
+      "同期制御"
+    ],
+    "addedDate": "2026-11-14",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/hyundai-kinetic-sculpture-goyang/01.jpg",
+        "origin": "https://www.red-dot.org/fileadmin/_processed_/2/b/csm_10-01928-2017-1_3486b48a46.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/hyundai-kinetic-sculpture-goyang/02.jpg",
+        "origin": "https://www.atelier-brueckner.com/_next/image?url=https%3A%2F%2Fdrupal.atelier-brueckner.com%2F%2Fsites%2Fdefault%2Ffiles%2F2023-11%2Fteam%2F03_web_hyundai_design_kinetische_skulptur.jpg&w=3840&q=75"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/hyundai-kinetic-sculpture-goyang/03.jpg",
+        "origin": "https://drupal.atelier-brueckner.com//sites/default/files/2023-11/team/web_hyundai_design_kinetische_skulptur_1.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/hyundai-kinetic-sculpture-goyang/04.jpg",
+        "origin": "https://drupal.atelier-brueckner.com//sites/default/files/2023-11/team/h-motors-5664.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/hyundai-kinetic-sculpture-goyang/05.jpg",
+        "origin": "https://drupal.atelier-brueckner.com//sites/default/files/2023-11/team/img_20170206_175609.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/hyundai-kinetic-sculpture-goyang/06.jpg",
+        "origin": "https://drupal.atelier-brueckner.com//sites/default/files/2023-11/team/img_20170206_180050.jpg"
+      }
+    ],
+    "thumbnail": "media/candidates/hyundai-kinetic-sculpture-goyang/01.jpg"
+  },
+  {
+    "id": "solar-bloom-ben-dye",
+    "title": "Solar Bloom",
+    "artist": "Ben Dye（ベン・ダイ）",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://tigardlife.com/featured/oregon-sculptor-crafts-kinetic-flower-for-downtown-tigard/",
+    "sourceSite": "Tigard Life",
+    "summary": "米オレゴン州タイガードのダウンタウンに2026年10月28日に設置された、高さ約12フィート（約3.7m）の太陽光駆動キネティック彫刻。クロームの葉に付いた太陽電池がポンプを動かし、2つのタンク間で液体を移して重心を変えることで、日が当たると銅の花びらが開き、中心のカラフルなビー玉の芯が現れる。日が陰るとサイフォンで液が戻り、花は閉じる。ステンレスの茎、コルテン鋼の鉢を使い、40年の耐久を目指して設計された。",
+    "tags": [
+      "太陽電池",
+      "ポンプ",
+      "キネティック",
+      "銅",
+      "パブリックアート",
+      "重心移動機構"
+    ],
+    "addedDate": "2026-11-14",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/solar-bloom-ben-dye/01.jpg",
+        "origin": "https://valleytimes.news/wp-content/uploads/sites/30/2026/11/news_kineticart_111326_tim002.jpg?w=597"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/solar-bloom-ben-dye/02.jpg",
+        "origin": "https://valleytimes.news/wp-content/uploads/sites/30/2026/11/news_kineticart_110626_tim_004.jpg?w=618"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/solar-bloom-ben-dye/03.jpg",
+        "origin": "https://valleytimes.news/wp-content/uploads/sites/30/2026/11/news_kineticart_110626_tim_001.jpg?w=540"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/solar-bloom-ben-dye/04.jpg",
+        "origin": "https://valleytimes.news/wp-content/uploads/sites/30/2026/11/news_kineticart_110626_tim_005.jpg?w=960"
+      }
+    ],
+    "thumbnail": "media/candidates/solar-bloom-ben-dye/01.jpg"
   }
 ]
