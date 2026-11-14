@@ -6450,5 +6450,288 @@
       }
     ],
     "thumbnail": "media/candidates/solar-bloom-ben-dye/01.jpg"
+  },
+  {
+    "id": "stone-dream-hsin-yuan-ho",
+    "title": "Stone Dream v2.0",
+    "artist": "Hsin-Yuan Ho（何芯源）",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://festival.dac.taipei/en/work-detail/?id=main-08",
+    "sourceSite": "2026 Taipei Digital Art Festival",
+    "summary": "ロボットアームが、吊るされた石とシリコンウェハーをこすり合わせ、ぶつけ合うサウンドインスタレーション。コンタクトマイクで拾った擦過音や衝突音を空間に増幅し、数千万年前の岩石と、その岩石から生まれた計算基板（シリコン）が互いの「夢」を語り合うような音響空間をつくる。第21回台北デジタルアートフェスティバル（2026年10月31日〜11月15日、台北典蔵植物園）で展示。",
+    "tags": [
+      "ロボットアーム",
+      "シリコンウェハー",
+      "コンタクトマイク",
+      "サウンドインスタレーション",
+      "台北デジタルアートフェスティバル",
+      "2026"
+    ],
+    "addedDate": "2026-11-15",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/stone-dream-hsin-yuan-ho/01.jpg",
+        "origin": "https://festival.dac.taipei/wp-content/themes/daf2026/assets/images/works/main/main-08/main.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/stone-dream-hsin-yuan-ho/02.jpg",
+        "origin": "https://festival.dac.taipei/wp-content/themes/daf2026/assets/images/works/main/main-08/01.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/stone-dream-hsin-yuan-ho/03.jpg",
+        "origin": "https://festival.dac.taipei/wp-content/themes/daf2026/assets/images/works/main/main-08/02.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/stone-dream-hsin-yuan-ho/04.jpg",
+        "origin": "https://festival.dac.taipei/wp-content/themes/daf2026/assets/images/works/main/main-08/03.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/stone-dream-hsin-yuan-ho/05.jpg",
+        "origin": "https://festival.dac.taipei/wp-content/themes/daf2026/assets/images/works/main/main-08/04.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/stone-dream-hsin-yuan-ho/06.jpg",
+        "origin": "https://festival.dac.taipei/wp-content/themes/daf2026/assets/images/works/main/main-08/05.webp"
+      }
+    ],
+    "thumbnail": "media/candidates/stone-dream-hsin-yuan-ho/01.jpg"
+  },
+  {
+    "id": "unresolved-ruiqi-liu",
+    "title": "Unresolved",
+    "artist": "Ruiqi Liu",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://ruiqiliu.net/unresolved",
+    "sourceSite": "Ruiqi Liu（作家サイト）／NYU Shanghai IMA",
+    "summary": "中央の白いキューブを、周囲の8体の自律メカ・エージェントが釣り糸で引っ張り合うキネティック・サウンド彫刻。各エージェントは距離を感知してローカルなフィードバックだけで動き、中央制御も共通の目標もない。キューブが黒い鏡面の上を引きずられて軋む音を立て、機械の体は持ち上がっては倒れ、ぶつかり合う。PLA（3Dプリント）、DCモーター、釣り糸、マイコン製。NYU上海 IMA Capstone Show（2026年5月、上海）で発表。",
+    "tags": [
+      "DCモーター",
+      "マイコン",
+      "Arduino",
+      "3Dプリント",
+      "自律エージェント",
+      "サウンド",
+      "創発",
+      "小型ロボット"
+    ],
+    "addedDate": "2026-11-15",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/unresolved-ruiqi-liu/01.jpg",
+        "origin": "https://ima.shanghai.nyu.edu/sites/default/files/gallery_img/overview%20-%20Ruiqi%20Liu.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/unresolved-ruiqi-liu/02.jpg",
+        "origin": "https://ima.shanghai.nyu.edu/sites/default/files/gallery_img/halfview%20-%20Ruiqi%20Liu.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/unresolved-ruiqi-liu/03.jpg",
+        "origin": "https://ima.shanghai.nyu.edu/sites/default/files/gallery_img/closeup-3%20-%20Ruiqi%20Liu.png"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/unresolved-ruiqi-liu/04.jpg",
+        "origin": "https://ima.shanghai.nyu.edu/sites/default/files/gallery_img/individual-02%20-%20Ruiqi%20Liu.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/unresolved-ruiqi-liu/05.jpg",
+        "origin": "https://freight.cargo.site/w/1200/i/O1743001450981944584928986693968/General-installation.jpg"
+      },
+      {
+        "type": "video",
+        "src": "https://www.youtube.com/embed/xmGe1zt_cXU",
+        "poster": "https://img.youtube.com/vi/xmGe1zt_cXU/hqdefault.jpg"
+      }
+    ],
+    "thumbnail": "media/candidates/unresolved-ruiqi-liu/01.jpg"
+  },
+  {
+    "id": "round-about-four-dimensions-bismarck-maus",
+    "title": "Round About Four Dimensions",
+    "artist": "Julius von Bismarck & Benjamin Maus（ユリウス・フォン・ビスマルク＆ベンヤミン・マウス）",
+    "year": 2023,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://arts.cern/commission/round-about-four-dimensions",
+    "sourceSite": "Arts at CERN",
+    "summary": "4次元の超立方体（テッセラクト）の「3次元の影」を実体化したキネティック彫刻。アルミ・ステンレス・真鍮のフレーム32本の辺がソフトウェア制御で伸縮し、4次元回転の投影として、形がまるで自分の中心を飲み込み裏返り続けるように動く。約230cm角。Arts at CERNの委嘱で、CERN Science Gatewayの展示「Exploring the Unknown」に常設（ジュネーヴ）。2026年11月にdesignboomのArts at CERN特集でも紹介された。",
+    "tags": [
+      "キネティック",
+      "テッセラクト",
+      "モーター制御",
+      "伸縮機構",
+      "CERN",
+      "サイエンスアート"
+    ],
+    "addedDate": "2026-11-15",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/round-about-four-dimensions-bismarck-maus/01.jpg",
+        "origin": "https://arts.cern/wp-content/uploads/2024/09/92__DSC8472.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/round-about-four-dimensions-bismarck-maus/02.jpg",
+        "origin": "https://arts.cern/wp-content/uploads/2024/09/92__DSC8489_v2-1024x683.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/round-about-four-dimensions-bismarck-maus/03.jpg",
+        "origin": "https://arts.cern/wp-content/uploads/2024/09/92__DSC8523.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/round-about-four-dimensions-bismarck-maus/04.jpg",
+        "origin": "https://arts.cern/wp-content/uploads/2024/09/SGateway_ExpUn6-1024x698.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/round-about-four-dimensions-bismarck-maus/05.jpg",
+        "origin": "https://arts.cern/wp-content/uploads/2024/09/SGateway_ExpUn3-1024x683.jpg"
+      }
+    ],
+    "thumbnail": "media/candidates/round-about-four-dimensions-bismarck-maus/01.jpg"
+  },
+  {
+    "id": "tetra-volvox-labs",
+    "title": "Tetra",
+    "artist": "Volvox Labs（VVOX）× Gensler xD",
+    "year": 2019,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.volvoxlabs.com/work/tetra-kinetic-sculpture",
+    "sourceSite": "Volvox Labs",
+    "summary": "ニューヨークのXandr（AT&Tの広告部門）オフィスにある、全長約120フィート（約37m）のNY最大級のキネティック彫刻。四面体を組み合わせた半透明の皮膜構造に、個別制御される300本のリニアアクチュエータ（Ultra Motion製）と150本のカスタムLEDチューブを内蔵。受動的な振る舞いと、通行人に即座に反応するリアクティブな動きで常に形を変える。TouchDesignerで制御し、2019年の設置以来稼働を続けている（2026年10月にUltra Motionが事例として紹介）。",
+    "tags": [
+      "リニアアクチュエータ",
+      "LED",
+      "TouchDesigner",
+      "インタラクティブ",
+      "パブリックアート",
+      "建築"
+    ],
+    "addedDate": "2026-11-15",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/tetra-volvox-labs/01.jpg",
+        "origin": "https://cdn.volvoxlabs.com/wp-content/uploads/2024/01/04015217/volvox_tetra_01-1.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/tetra-volvox-labs/02.jpg",
+        "origin": "https://cdn.volvoxlabs.com/wp-content/uploads/2024/01/04015225/volvox_tetra_02.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/tetra-volvox-labs/03.jpg",
+        "origin": "https://cdn.volvoxlabs.com/wp-content/uploads/2024/01/04015234/volvox_tetra_03.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/tetra-volvox-labs/04.jpg",
+        "origin": "https://cdn.volvoxlabs.com/wp-content/uploads/2024/01/04015243/volvox_tetra_04.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/tetra-volvox-labs/05.jpg",
+        "origin": "https://cdn.volvoxlabs.com/wp-content/uploads/2024/01/04015259/volvox_tetra_06.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/tetra-volvox-labs/06.jpg",
+        "origin": "https://cdn.volvoxlabs.com/wp-content/uploads/2024/01/04015121/DSC04689.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/tetra-volvox-labs/07.jpg",
+        "origin": "https://cdn.volvoxlabs.com/wp-content/uploads/2024/01/04015113/DSC04675.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/tetra-volvox-labs/08.jpg",
+        "origin": "https://cdn.volvoxlabs.com/wp-content/uploads/2024/01/04015308/xandr_01.jpg"
+      },
+      {
+        "type": "video",
+        "src": "https://player.vimeo.com/video/386556701",
+        "poster": "media/candidates/tetra-volvox-labs/01.jpg"
+      }
+    ],
+    "thumbnail": "media/candidates/tetra-volvox-labs/01.jpg"
+  },
+  {
+    "id": "momentum-volvox-labs",
+    "title": "Momentum",
+    "artist": "Volvox Labs（VVOX）",
+    "year": 2017,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.volvoxlabs.com/work/microsoft-lalive",
+    "sourceSite": "Volvox Labs",
+    "summary": "ロサンゼルスのMicrosoft Theater（LA Live）ラウンジに設置された、呼吸するように動くインタラクティブなキネティック・ウォール。地元産アッシュ材を削り出した160枚の木製タイルを、80本のUltra Motion製サーボシリンダー（リニアアクチュエータ）と10個のマイコンで駆動し、人の動きを感知すると壁面に波のような動きが広がる。全体はTouchDesignerで制御。2017年の設置以来稼働を続けている。",
+    "tags": [
+      "リニアアクチュエータ",
+      "サーボ",
+      "マイコン",
+      "木",
+      "TouchDesigner",
+      "インタラクティブ",
+      "人感センサー"
+    ],
+    "addedDate": "2026-11-15",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/momentum-volvox-labs/01.jpg",
+        "origin": "https://cdn.volvoxlabs.com/wp-content/uploads/2024/01/25005845/DTLA_02-1.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/momentum-volvox-labs/02.jpg",
+        "origin": "https://cdn.volvoxlabs.com/wp-content/uploads/2024/01/25005819/DTLA_07.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/momentum-volvox-labs/03.jpg",
+        "origin": "https://cdn.volvoxlabs.com/wp-content/uploads/2024/01/25005828/DTLA_08.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/momentum-volvox-labs/04.jpg",
+        "origin": "https://cdn.volvoxlabs.com/wp-content/uploads/2024/01/25010119/Volvoxlabs_MicrosoftTheather022.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/momentum-volvox-labs/05.jpg",
+        "origin": "https://cdn.volvoxlabs.com/wp-content/uploads/2024/01/25010642/DSC00469-scaled-e1719277661145.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/momentum-volvox-labs/06.jpg",
+        "origin": "https://cdn.volvoxlabs.com/wp-content/uploads/2024/01/25010749/Kinetic-Engineering-scaled-e1719277676821.jpg"
+      },
+      {
+        "type": "video",
+        "src": "https://player.vimeo.com/video/203131844",
+        "poster": "media/candidates/momentum-volvox-labs/01.jpg"
+      }
+    ],
+    "thumbnail": "media/candidates/momentum-volvox-labs/01.jpg"
   }
 ]
