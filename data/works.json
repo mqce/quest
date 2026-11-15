@@ -6733,5 +6733,239 @@
       }
     ],
     "thumbnail": "media/candidates/momentum-volvox-labs/01.jpg"
+  },
+  {
+    "id": "optomat-niklas-roy",
+    "title": "Optomat",
+    "artist": "Niklas Roy（ニクラス・ロイ）& Felix Fisgus",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.niklasroy.com/optomat/",
+    "sourceSite": "Niklas Roy",
+    "summary": "バーゼルのティンゲリー美術館の大ホール、ジャン・ティンゲリーの巨大機械彫刻のそばに置かれた参加型の機械彫刻。黒く塗った2つの大きな木枠に、廃棄玩具や身近な物、DCギアモーターとLEDでできた小さな光学装置がぎっしり並ぶ。手前の2台のコンソールにあるアーケードボタンを押すと、どこかの回転ミラーやモアレ模様、反射や投影が回り出したり点滅したりする。9歳から99歳までの約50人の来館者がワークショップで1人1つずつモジュールを作り、全体を一緒に組み上げた。",
+    "tags": [
+      "DCギアモーター",
+      "LED",
+      "アーケードボタン",
+      "参加型",
+      "ワークショップ",
+      "廃材",
+      "光学効果",
+      "Museum Tinguely"
+    ],
+    "thumbnail": "media/candidates/optomat-niklas-roy/01.jpg",
+    "addedDate": "2026-11-16",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/optomat-niklas-roy/01.jpg",
+        "origin": "https://www.niklasroy.com/optomat/pics/og.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/optomat-niklas-roy/02.jpg",
+        "origin": "https://www.niklasroy.com/optomat/pics/d11764_c007bv767_1024.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/optomat-niklas-roy/03.jpg",
+        "origin": "https://www.niklasroy.com/optomat/pics/d11759_cz5n269k72q_1024.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/optomat-niklas-roy/04.jpg",
+        "origin": "https://www.niklasroy.com/optomat/pics/d11759_cz5n269k72q_2048.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/optomat-niklas-roy/05.jpg",
+        "origin": "https://www.niklasroy.com/optomat/pics/d11707_ch3bk78p736_1024.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/optomat-niklas-roy/06.jpg",
+        "origin": "https://www.niklasroy.com/optomat/pics/d11769_c019w6cq64u_1024.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/optomat-niklas-roy/07.jpg",
+        "origin": "https://www.niklasroy.com/optomat/pics/d11747_1024.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/optomat-niklas-roy/08.jpg",
+        "origin": "https://www.niklasroy.com/optomat/pics/d11670_c0zx7ps5g4_1024.jpg"
+      },
+      {
+        "type": "video",
+        "src": "https://www.niklasroy.com/diary/117/Niklas_Roy_Diary_11721.mp4",
+        "poster": "media/candidates/optomat-niklas-roy/01.jpg"
+      }
+    ]
+  },
+  {
+    "id": "x-kinetic-techno-sculpture-kitzinger",
+    "title": "X Kinetic Techno Sculpture（X）",
+    "artist": "Gábor Kitzinger, András László Nagy, Rozi Mákó",
+    "year": 2025,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.signalfestival.com/en/installation/x-kinetic-techno-sculpture",
+    "sourceSite": "Signal Festival",
+    "summary": "センサー付きマットレスに横たわった鑑賞者の心拍と呼吸をリアルタイムに読み取り、宙に吊った逆ピラミッド型の透明LEDグリッド、18台のロボティック・ムービングライト、ストロボ、ヘイズ、4chの生成音響（Rozi Mákó）を動かすマルチセンサリー・インスタレーション。光は床の円形ミラーに反射して空間全体を包む。2025年のブダペストBINÁLÉで初公開され、2026年はバーゼル（0xCollection「Cosmic Knots」）や、プラハのSignal Festival（クレメンティヌムの鏡の礼拝堂）でも展示された。",
+    "tags": [
+      "ロボティックライト",
+      "ムービングヘッド",
+      "LEDグリッド",
+      "心拍センサー",
+      "呼吸センサー",
+      "生体データ",
+      "インタラクティブ",
+      "空間音響"
+    ],
+    "thumbnail": "media/candidates/x-kinetic-techno-sculpture-kitzinger/01.jpg",
+    "addedDate": "2026-11-16",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/x-kinetic-techno-sculpture-kitzinger/01.jpg",
+        "origin": "https://www.signalfestival.com/wp-content/uploads/2026/10/gabor-kitzinger-andras-laszlo-nagy-rozi-mako_x-kinetic-techno-sculpture_signal-festival-2026_dscf1391_viktor-schwing-scaled.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/x-kinetic-techno-sculpture-kitzinger/02.jpg",
+        "origin": "https://www.signalfestival.com/wp-content/uploads/2026/10/signal-2026_tomas-slavik_dsc00541-scaled.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/x-kinetic-techno-sculpture-kitzinger/03.jpg",
+        "origin": "https://images-eflux.b-cdn.net/assets/7dae1dcc-114f-4cbf-88d5-4119cf090fe5.jpg?&modified=2026-06-03T17:37:55.000Z"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/x-kinetic-techno-sculpture-kitzinger/04.jpg",
+        "origin": "https://artlyst.com/wp-content/uploads/2025/10/X-by-Gabor-Kitzinger-Andras-Laszlo-and-Mako-Rozi-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "sound-robot-jan-sicko",
+    "title": "Sound Robot",
+    "artist": "Ján Šicko（ヤーン・シチコ）／制作協力：Antonín Kindl",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://kindl.work/2026/Sound+Robot",
+    "sourceSite": "Antonín Kindl",
+    "summary": "スロバキアの民俗芸術とモダニズムを下敷きにした、木製の「フォーク・テック」なサウンドロボット。3つの部屋で構成され、投影グリッドに枯れ枝を置くとその形がメロディとして鳴り、天板下に4枚のピエゾを仕込んだ長テーブルを叩くと強さとリズムに応じた文様が投影される。8×8の穴に石を置く手動シーケンサー「Jamky」は、部屋に並ぶ六角形の木製オブジェクトのソレノイドを鳴らし、プレートの上の小物を打ち鳴らす。Signal Festival 2026（プラハ、Kampus Hybernská）で初公開。",
+    "tags": [
+      "ソレノイド",
+      "ピエゾセンサー",
+      "シーケンサー",
+      "プロジェクション",
+      "木工",
+      "サウンドインスタレーション",
+      "子ども向け",
+      "インタラクティブ"
+    ],
+    "thumbnail": "media/candidates/sound-robot-jan-sicko/01.jpg",
+    "addedDate": "2026-11-16",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/sound-robot-jan-sicko/01.jpg",
+        "origin": "https://kindl.work/vault-images/5ea27edb24086428/2400.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/sound-robot-jan-sicko/02.jpg",
+        "origin": "https://kindl.work/vault-images/fd4de2e0ad6639b1/2200.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/sound-robot-jan-sicko/03.jpg",
+        "origin": "https://kindl.work/vault-images/6090ea04a7e23850/2200.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/sound-robot-jan-sicko/04.jpg",
+        "origin": "https://kindl.work/vault-images/b47724652c6de9e7/2400.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/sound-robot-jan-sicko/05.jpg",
+        "origin": "https://kindl.work/vault-images/db04e0742cbe5e8f/2400.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/sound-robot-jan-sicko/06.jpg",
+        "origin": "https://kindl.work/vault-images/1aa2360e57d0828e/2400.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/sound-robot-jan-sicko/07.jpg",
+        "origin": "https://kindl.work/vault-images/dcd889d026993f80/2400.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/sound-robot-jan-sicko/08.jpg",
+        "origin": "https://www.signalfestival.com/wp-content/uploads/2026/10/dscf0471_viktor-schwing_web-scaled.webp"
+      }
+    ]
+  },
+  {
+    "id": "morphflux-takafumi-morita",
+    "title": "MorphFlux",
+    "artist": "森田崇文（Takafumi Morita）",
+    "year": 2025,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.takafumi-morita.com/morphflux",
+    "sourceSite": "Takafumi Morita",
+    "summary": "アレイ状に並べた電磁石で磁束密度を制御し、黒い磁性流体の表面を円形の「液体ピクセル」として盛り上げる実体ディスプレイのキネティック・インスタレーション。ピクセルが立ち上がるたびに外へ広がる波紋が互いに干渉し、形と波がひとつの状態にとどまらず変わり続ける。人の制御と液体自身の振る舞いが交差するところから生まれる動きを探る作品。ENCOUNTERS 2025（文化庁、TODA HALL & CONFERENCE TOKYO）で初公開され、2026年もENCOUNTERS 2026などで展示、Expanded ’26（Ars Electronica）で論文採択。",
+    "tags": [
+      "電磁石アレイ",
+      "磁性流体",
+      "実体ディスプレイ",
+      "マイコン制御",
+      "キネティック",
+      "メディアアート",
+      "日本"
+    ],
+    "thumbnail": "media/candidates/morphflux-takafumi-morita/01.jpg",
+    "addedDate": "2026-11-16",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/morphflux-takafumi-morita/01.jpg",
+        "origin": "https://dif1tzfqclj9f.cloudfront.net/000_clients/3394324/page/069a4246-6cdc71.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/morphflux-takafumi-morita/02.jpg",
+        "origin": "https://creators.j-mediaarts.bunka.go.jp/wp-content/uploads/2026/10/b21f41951ad339611b2ddc17c75eeebe-1-1568x1045.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/morphflux-takafumi-morita/03.jpg",
+        "origin": "https://dif1tzfqclj9f.cloudfront.net/000_clients/3394324/page/morphflux-photo3-c62fde.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/morphflux-takafumi-morita/04.jpg",
+        "origin": "https://ucarecdn.com/2682fff6-b5dd-4362-a952-7fa169bc08f3/-/autorotate/yes/-/preview/1280x1280/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/morphflux-takafumi-morita/05.jpg",
+        "origin": "https://ucarecdn.com/9cad7192-baa2-44c0-a1ed-cda5114827dc/-/autorotate/yes/-/preview/1280x1280/"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/morphflux-takafumi-morita/06.jpg",
+        "origin": "https://ucarecdn.com/10c4be15-c535-4be8-8f1e-f5b413982122/-/autorotate/yes/-/preview/1280x1280/"
+      }
+    ]
   }
 ]
