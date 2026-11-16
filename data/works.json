@@ -6967,5 +6967,302 @@
         "origin": "https://ucarecdn.com/10c4be15-c535-4be8-8f1e-f5b413982122/-/autorotate/yes/-/preview/1280x1280/"
       }
     ]
+  },
+  {
+    "id": "astral-twin-volvox-labs",
+    "title": "Astral Twin",
+    "artist": "Volvox Labs（VVOX）",
+    "year": 2025,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.volvoxlabs.com/work/astral-twin",
+    "sourceSite": "Volvox Labs",
+    "summary": "産業用ロボットアーム（UFactory製コボット）が大型LEDウォールの前で筆のように空中を動き、その軌跡に合わせて流体のような生成映像がリアルタイムに広がるロボティック・オーディオビジュアル作品。TouchDesignerからロボットを直接制御し、同じ動きは二度と繰り返さない。人がコードした論理と機械が生む振る舞いの間の“摩擦”を見せる。バルセロナのSónar+D（ジョタ・デ・マル）中庭のほか、OFFF Montreal、ブルックリンでも展示。",
+    "tags": [
+      "ロボットアーム",
+      "UFactory",
+      "LEDウォール",
+      "TouchDesigner",
+      "生成映像",
+      "ジェネラティブサウンド",
+      "Sónar+D",
+      "ブルックリン"
+    ],
+    "thumbnail": "media/candidates/astral-twin-volvox-labs/01.jpg",
+    "addedDate": "2026-11-17",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/astral-twin-volvox-labs/01.jpg",
+        "origin": "https://cdn.volvoxlabs.com/wp-content/uploads/2025/05/13140019/volvoxlabs-sonar-astraltwin1.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/astral-twin-volvox-labs/02.jpg",
+        "origin": "https://cdn.volvoxlabs.com/wp-content/uploads/2025/05/18013528/volvoxlabs-astral-1.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/astral-twin-volvox-labs/03.jpg",
+        "origin": "https://cdn.volvoxlabs.com/wp-content/uploads/2025/05/13140030/volvoxlabs-sonar-astraltwin2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/astral-twin-volvox-labs/04.jpg",
+        "origin": "https://cdn.volvoxlabs.com/wp-content/uploads/2025/05/18013535/volvoxlabs-astral-2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/astral-twin-volvox-labs/05.jpg",
+        "origin": "https://cdn.volvoxlabs.com/wp-content/uploads/2025/05/13140041/volvoxlabs-sonar-astraltwin3.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/astral-twin-volvox-labs/06.jpg",
+        "origin": "https://cdn.volvoxlabs.com/wp-content/uploads/2025/05/18013541/volvoxlabs-astral-3.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/astral-twin-volvox-labs/07.jpg",
+        "origin": "https://cdn.volvoxlabs.com/wp-content/uploads/2025/05/18013548/volvoxlabs-astral-4.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/astral-twin-volvox-labs/08.jpg",
+        "origin": "https://cdn.volvoxlabs.com/wp-content/uploads/2025/05/18013720/volvoxlabs-astral-5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "molecular-cloud-vincent-leroy",
+    "title": "Molecular Cloud",
+    "artist": "Vincent Leroy（ヴァンサン・ルロワ）",
+    "year": 2025,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.designboom.com/art/vincent-leroy-kinetic-cloud-sculpture-glossy-pink-spheres-seoul-design-plaza-09-05-2025/",
+    "sourceSite": "designboom",
+    "summary": "宇宙の分子雲から着想した、ピンクの鏡面球体が群れになって浮かぶキネティック彫刻。球体の房がゆっくりと互いに動き、呼吸するように形を変えながら空・建物・通行人を映し込む。2023年のコーチェラで初披露され、2025年にソウルの東大門デザインプラザ（DDP Design & Art）でザハ・ハディドの建築の前に再設置された。",
+    "tags": [
+      "キネティック彫刻",
+      "モーター駆動",
+      "鏡面球体",
+      "パブリックアート",
+      "DDP",
+      "ソウル",
+      "Coachella"
+    ],
+    "thumbnail": "media/candidates/molecular-cloud-vincent-leroy/01.jpg",
+    "addedDate": "2026-11-17",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/molecular-cloud-vincent-leroy/01.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2025/09/vincent-leroy-kinetic-molecular-cloud-pink-spheres-seoul-ddp-designboom-1800-1.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/molecular-cloud-vincent-leroy/02.jpg",
+        "origin": "https://static.designboom.com/wp-content/dbsub/381116/2025-09-02/vincent-leroy-lets-poetry-float-above-seoul-with-molecular-cloud-1-68b6fe2e626c3.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/molecular-cloud-vincent-leroy/03.jpg",
+        "origin": "https://static.designboom.com/wp-content/dbsub/381116/2025-09-02/vincent-leroy-lets-poetry-float-above-seoul-with-molecular-cloud-2-68b6fe2e6273b.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/molecular-cloud-vincent-leroy/04.jpg",
+        "origin": "https://static.designboom.com/wp-content/dbsub/381116/2025-09-02/vincent-leroy-lets-poetry-float-above-seoul-with-molecular-cloud-3-68b6fe2e6277f.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/molecular-cloud-vincent-leroy/05.jpg",
+        "origin": "https://static.designboom.com/wp-content/dbsub/381116/2025-09-02/vincent-leroy-lets-poetry-float-above-seoul-with-molecular-cloud-4-68b6fe2e627c9.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/molecular-cloud-vincent-leroy/06.jpg",
+        "origin": "https://static.designboom.com/wp-content/dbsub/381116/2025-09-02/vincent-leroy-lets-poetry-float-above-seoul-with-molecular-cloud-5-68b6fe2e6280a.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/molecular-cloud-vincent-leroy/07.jpg",
+        "origin": "https://static.designboom.com/wp-content/dbsub/381116/2025-09-02/vincent-leroy-lets-poetry-float-above-seoul-with-molecular-cloud-6-68b6fe2e62843.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/molecular-cloud-vincent-leroy/08.jpg",
+        "origin": "https://static.designboom.com/wp-content/dbsub/381116/2025-09-02/vincent-leroy-lets-poetry-float-above-seoul-with-molecular-cloud-7-68b6fe2e6287c.jpg"
+      }
+    ]
+  },
+  {
+    "id": "robo-signans-emergence-delft",
+    "title": "robo signans",
+    "artist": "Emergence Delft（TU Delftの学生10名）& Jorrit Paaijmans",
+    "year": 2025,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://ars.electronica.art/panic/en/view/robo-signans-23938ddb450c80ce873bef5622033f62",
+    "sourceSite": "Ars Electronica",
+    "summary": "「ロボットが人に仕えなくなったら？」を問う、高さ約2mのロボット3体によるキネティック・インスタレーション。ロボットたちは手伝いも娯楽もせず、互いの描いたものを視覚的に読み取りながら黒鉛で紙に線を描き続け、ゆっくりとした“会話”を残していく。TU Delftの工学系・美術系学生による学生コレクティブEmergence Delftの作品で、Ars Electronica Festival 2025（リンツ）で展示。",
+    "tags": [
+      "ロボット",
+      "ドローイングマシン",
+      "カメラ認識",
+      "黒鉛",
+      "学生プロジェクト",
+      "TU Delft",
+      "Ars Electronica 2025"
+    ],
+    "thumbnail": "media/candidates/robo-signans-emergence-delft/03.jpg",
+    "addedDate": "2026-11-17",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/robo-signans-emergence-delft/01.jpg",
+        "origin": "https://ars.electronica.art/panic/files/2025/08/desktop_robo_signans.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/robo-signans-emergence-delft/02.jpg",
+        "origin": "https://ars.electronica.art/panic/files/2025/08/gallery_robo_signans_6dec5c9e-c2f2-431b-9fb9-eacf57776c7f.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/robo-signans-emergence-delft/03.jpg",
+        "origin": "https://nyxhexwldhzbgbilezbu.supabase.co/storage/v1/object/public/team-images/projects/dade3d8a-2a3d-4897-a0f0-6c3bb9e45e29/231fc262-8c1f-4ebf-899f-2a2c26546d68.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/robo-signans-emergence-delft/04.jpg",
+        "origin": "https://nyxhexwldhzbgbilezbu.supabase.co/storage/v1/object/public/team-images/projects/dade3d8a-2a3d-4897-a0f0-6c3bb9e45e29/5f4ff3ce-e83d-4f51-8864-c39750f7bc3a.jpg"
+      }
+    ]
+  },
+  {
+    "id": "pneuma-marlot-meyer",
+    "title": "Pneuma",
+    "artist": "Marlot Meyer（マルロット・メイヤー）",
+    "year": 2025,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.designboom.com/art/marlot-meyer-giant-inflatable-creatures-breathe-tides-wadden-sea-pneuma/",
+    "sourceSite": "designboom",
+    "summary": "ワッデン海の干潟にすむ珪藻をかたどった巨大なインフレータブル生物たちが、潮の満ち引きに合わせて膨らみ・しぼみ、呼吸するように動くインタラクティブ作品。来場者が体に着ける小さなインフレータブルにはセンサーがあり、その人の呼吸が大きな彫刻の動きに反映される。先行研究「Project Tidal」では干潟に湿度センサーを置き、無線で送ったデータで振動モーターや空気圧ウェアラブルを動かした。アムステルダムのLoods6で展示。",
+    "tags": [
+      "インフレータブル",
+      "空気圧",
+      "呼吸センサー",
+      "環境データ",
+      "ウェアラブル",
+      "インタラクティブ",
+      "アムステルダム"
+    ],
+    "thumbnail": "media/candidates/pneuma-marlot-meyer/01.jpg",
+    "addedDate": "2026-11-17",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/pneuma-marlot-meyer/01.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/11/marlot-meyer-pneuma-inflatable-sculptures-breathing-creatures-wadden-sea-designboom-1800.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/pneuma-marlot-meyer/02.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/11/marlot-meyer-pneuma-inflatable-sculptures-breathing-creatures-wadden-sea-designboom-03.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/pneuma-marlot-meyer/03.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/11/marlot-meyer-pneuma-inflatable-sculptures-breathing-creatures-wadden-sea-designboom-04.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/pneuma-marlot-meyer/04.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/11/marlot-meyer-pneuma-inflatable-sculptures-breathing-creatures-wadden-sea-designboom-05.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/pneuma-marlot-meyer/05.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/11/marlot-meyer-pneuma-inflatable-sculptures-breathing-creatures-wadden-sea-designboom-06a.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/pneuma-marlot-meyer/06.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/11/marlot-meyer-pneuma-inflatable-sculptures-breathing-creatures-wadden-sea-designboom-07.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/pneuma-marlot-meyer/07.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/11/marlot-meyer-pneuma-inflatable-sculptures-breathing-creatures-wadden-sea-designboom-08a.jpg"
+      }
+    ]
+  },
+  {
+    "id": "pinnannousu-jussi-angesleva",
+    "title": "Pinnannousu",
+    "artist": "Jussi Ängeslevä（ユッシ・アンゲスレヴァ）／ロボティクス：AATB",
+    "year": 2024,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://angesleva.iki.fi/art/pinnannousu/",
+    "sourceSite": "Jussi Ängeslevä",
+    "summary": "ドリルとライトを付けたロボットアームが大きな氷塊を少しずつ削り、氷を「コースティクス（集光模様）」のレンズに変えていくロボット・パフォーマンス。完成に近づくと、レンズで屈折した光が壁に「+2°C」の文字を浮かび上がらせるが、氷は同時に溶けていく。人の工夫と自然の過程の競争を描く。札幌国際芸術祭2024（テーマ「LAST SNOW」）のためにモエレ沼公園で制作。計算コースティクスはRayform／EPFL。",
+    "tags": [
+      "ロボットアーム",
+      "氷",
+      "コースティクス",
+      "計算設計",
+      "光",
+      "パフォーマンス",
+      "札幌国際芸術祭2024",
+      "AATB"
+    ],
+    "thumbnail": "media/candidates/pinnannousu-jussi-angesleva/01.jpg",
+    "addedDate": "2026-11-17",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/pinnannousu-jussi-angesleva/01.jpg",
+        "origin": "https://angesleva.iki.fi/media/art/pinnannousu/pinnannousu-robot-ice-caustic.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/pinnannousu-jussi-angesleva/02.jpg",
+        "origin": "https://angesleva.iki.fi/media/art/pinnannousu/pinnannousu-robot-milling-ice.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/pinnannousu-jussi-angesleva/03.jpg",
+        "origin": "https://angesleva.iki.fi/media/art/pinnannousu/pinnannousu-venue-caustics-wide.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/pinnannousu-jussi-angesleva/04.jpg",
+        "origin": "https://angesleva.iki.fi/media/art/pinnannousu/pinnannousu-drill-ice-closeup.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/pinnannousu-jussi-angesleva/05.jpg",
+        "origin": "https://arsaffix.com/en/wp/wp-content/uploads/2024/01/Pinnannousu_01-1280x960.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/pinnannousu-jussi-angesleva/06.jpg",
+        "origin": "https://arsaffix.com/en/wp/wp-content/uploads/2024/01/Pinnannousu_02-1280x960.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/pinnannousu-jussi-angesleva/07.jpg",
+        "origin": "https://arsaffix.com/en/wp/wp-content/uploads/2024/01/Pinnannousu_03-1280x960.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/pinnannousu-jussi-angesleva/08.jpg",
+        "origin": "https://arsaffix.com/en/wp/wp-content/uploads/2024/01/Pinnannousu_04-1280x960.jpg"
+      }
+    ]
   }
 ]
