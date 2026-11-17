@@ -7264,5 +7264,306 @@
         "origin": "https://arsaffix.com/en/wp/wp-content/uploads/2024/01/Pinnannousu_04-1280x960.jpg"
       }
     ]
+  },
+  {
+    "id": "minting-tsu-wei-lu",
+    "title": "Minting",
+    "artist": "Tsu-Wei Lu（ルー・ツーウェイ）／組込みシステム・AI：Hui-Ting Hong",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.lefresnoy.net/en/exposition/3113/oeuvre/3227",
+    "sourceSite": "Le Fresnoy – Studio national des arts contemporains",
+    "summary": "はんだで覆われた世界各地の硬貨を貼り付けた「火打ち石」型の彫刻の上で、ロボットアームがBTC・ETH・XRP・BNB・SOLのリアルタイム価格に応じて石を打ち付けたり、勝利のダンスを踊ったりするインタラクティブ・ロボット・インスタレーション。分解したハードウェアウォレット（Ledger）を、5300年前にアイスマンのエッツィが携えていた火打ち石＝人類最初の“ウォレット”に重ね、内部には作家自身の脳波をトークン化して封入。来場者はコンピュータビジョンで検知され、価格だけが信号として生き残る経済システムを起動する。LEDの縦型ティッカーが相場を表示。ル・フレノワ「Panorama 28 – Invisibles」（2026年9月11日〜2027年1月3日、トゥルコワン）で展示。",
+    "tags": [
+      "ロボットアーム",
+      "暗号資産",
+      "リアルタイムデータ",
+      "コンピュータビジョン",
+      "脳波（BCI）",
+      "LEDディスプレイ",
+      "はんだ・硬貨",
+      "Le Fresnoy",
+      "Panorama 28"
+    ],
+    "thumbnail": "media/candidates/minting-tsu-wei-lu/01.jpg",
+    "addedDate": "2026-11-18",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/minting-tsu-wei-lu/01.jpg",
+        "origin": "https://media.lefresnoy.net/?url=https://api.lefresnoy.net/media/production/installation/2026/07/uentin_chevrier_juin2026-108f9b_Tjy.jpg&w=1600&fmt=jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/minting-tsu-wei-lu/02.jpg",
+        "origin": "https://media.lefresnoy.net/?url=https://api.lefresnoy.net/media/assets/medium/2026/07/uentin_chevrier_juin2026-11c8e0_s4R.jpg&w=1200&fmt=jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/minting-tsu-wei-lu/03.jpg",
+        "origin": "https://media.lefresnoy.net/?url=https://api.lefresnoy.net/media/assets/medium/2026/07/uentin_chevrier_juin2026-12dac5_A3s.jpg&w=1200&fmt=jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/minting-tsu-wei-lu/04.jpg",
+        "origin": "https://media.lefresnoy.net/?url=https://api.lefresnoy.net/media/assets/medium/2026/07/uentin_chevrier_juin2026-13e0f3_ymA.jpg&w=1200&fmt=jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/minting-tsu-wei-lu/05.jpg",
+        "origin": "https://fragmentation.fr/wp-content/uploads/2026/09/tsu-wei-lu-hui-ting-hong-le-fresnoy-2026.webp"
+      },
+      {
+        "type": "video",
+        "src": "https://player.vimeo.com/video/1234132607",
+        "poster": "media/candidates/minting-tsu-wei-lu/01.jpg"
+      }
+    ]
+  },
+  {
+    "id": "wooden-mirror-daniel-rozin",
+    "title": "Wooden Mirror（Mechanical Mirrors – Performative Version）",
+    "artist": "Daniel Rozin（ダニエル・ローゼン）",
+    "year": 1999,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://lumenprize.org/2026-experiential-innovation/daniel-rozin",
+    "sourceSite": "The Lumen Prize",
+    "summary": "数百枚の木片タイルを1枚ずつモーターで傾け、カメラで捉えた前に立つ人の姿を光と影の濃淡で「映し出す」機械仕掛けの鏡。1999年発表のメカニカル・ミラーの代表作で、デザイン・制作・電子回路・プログラミングをすべて作家自身が手がける。近年は演奏者の身振りで鏡が動き、数百個のモーター音と木片がぶつかるカチカチという音そのものを音楽として構成する「パフォーマンス版」に発展し、カーネギーホール（American Composers Orchestra、作曲：Tamar Muskal）やMASS MoCA（Bang On A Can）などで上演。Lumen Prize 2026 Experiential Innovation Award ファイナリスト。",
+    "tags": [
+      "メカニカル・ミラー",
+      "モーター（数百個）",
+      "カメラ",
+      "マイコン",
+      "木",
+      "インタラクティブ",
+      "パフォーマンス",
+      "Lumen Prize 2026"
+    ],
+    "thumbnail": "media/candidates/wooden-mirror-daniel-rozin/01.jpg",
+    "addedDate": "2026-11-18",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/wooden-mirror-daniel-rozin/01.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/65e7176a61627736e02f6c4a/1785242349098-VAY43SFNSACJK7V5Q4NW/DANIEL+ROZIN+-+Mechanical+Mirrors+%28Performative+Version%29+.jpeg?format=1500w"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/wooden-mirror-daniel-rozin/02.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/65e7176a61627736e02f6c4a/1785242349099-D5HOYE1BEJP0O8KERBB5/DANIEL+ROZIN+-+Mechanical+Mirrors+%28Performative+Version%29+2.jpeg?format=1500w"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/wooden-mirror-daniel-rozin/03.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/65e7176a61627736e02f6c4a/8e97027c-d5af-42c0-b168-9f6eacc425ab/DANIEL+ROZIN+-+Mechanical+Mirrors+%28Performative+Version%29+3.jpeg?format=1500w"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/wooden-mirror-daniel-rozin/04.jpg",
+        "origin": "https://www.meer.com/attachments/59372c3a8779166ee4e49d8cbb61f695e4794ad8/store/fill/860/645/34def86bb9b7f1660f198b321607b9ec727b0d1e7e5d13d02b2e85008151/Daniel-Rozin-Wooden-Mirror-2014-Wood-motors-video-camera-custom-software-microcontroller-6-x-6.jpg"
+      },
+      {
+        "type": "video",
+        "src": "https://player.vimeo.com/video/1194524296?h=7ad29568c7",
+        "poster": "media/candidates/wooden-mirror-daniel-rozin/01.jpg"
+      }
+    ]
+  },
+  {
+    "id": "halos-spy",
+    "title": "HALOS",
+    "artist": "SpY（スパイ）",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://spy-urbanart.com/artwork/halos/",
+    "sourceSite": "SpY urban art",
+    "summary": "金と銀の反射円盤を空中にマトリクス状に吊り、すべてを絶えず回転させる大規模キネティック・インスタレーション。フィレンツェの旧鉄道工場の3層吹き抜けアトリウムを舞台に、回転する円盤同士が視覚的に絡み合い、光と素材の反射による「星座」を空間全体に広げる。各階の異なる視点から見上げ・見下ろすことで、像は重なり合い無限に変化する。Bright Festival（フィレンツェ、2026年）のコミッション。写真：Ruben PBescos。",
+    "tags": [
+      "キネティック",
+      "回転円盤",
+      "モーター",
+      "反射",
+      "光",
+      "サイトスペシフィック",
+      "Bright Festival",
+      "フィレンツェ"
+    ],
+    "thumbnail": "media/candidates/halos-spy/01.jpg",
+    "addedDate": "2026-11-18",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/halos-spy/01.jpg",
+        "origin": "https://spy-urbanart.com/wp-content/uploads/00_SpY_HALOS-2200x1469.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/halos-spy/02.jpg",
+        "origin": "https://spy-urbanart.com/wp-content/uploads/03_SpY_HALOS-2200x1466.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/halos-spy/03.jpg",
+        "origin": "https://spy-urbanart.com/wp-content/uploads/02_SpY_HALOS-1000x1504.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/halos-spy/04.jpg",
+        "origin": "https://spy-urbanart.com/wp-content/uploads/04_SpY_HALOS-1000x1500.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/halos-spy/05.jpg",
+        "origin": "https://spy-urbanart.com/wp-content/uploads/05_SpY_HALOS-1000x1500.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/halos-spy/06.jpg",
+        "origin": "https://spy-urbanart.com/wp-content/uploads/06_SpY_HALOS-1000x1500.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/halos-spy/07.jpg",
+        "origin": "https://spy-urbanart.com/wp-content/uploads/07_SpY_HALOS-1000x1500.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/halos-spy/08.jpg",
+        "origin": "https://www.designboom.com/wp-content/uploads/2026/04/spy-halos-kinetic-installation-gold-silver-reflective-circles-designboom-1800-2.jpg"
+      },
+      {
+        "type": "video",
+        "src": "https://player.vimeo.com/video/1186971560",
+        "poster": "media/candidates/halos-spy/01.jpg"
+      }
+    ]
+  },
+  {
+    "id": "after-human-stage-masaru-yokoi",
+    "title": "A Light for the After-Human Stage 気配はもう一度、生まれる",
+    "artist": "横井勝（Masaru Yokoi）／テクノロジスト：小林宏嗣／照明：船越理沙・白川浩・新名弘幸（制作協力：テレビ朝日）",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://roppongiartnight.com/2026/en/programs/1692/",
+    "sourceSite": "六本木アートナイト2026",
+    "summary": "ハロウィンの夜、テレビ朝日の局舎から毛利庭園へ一本の光線が伸び、放送局が“灯台”となって街を照らすインスタレーション。光の先には人ではなく、人形遣いの動きの記憶を宿したロボットアームの「手」があり、音楽番組（MUSIC STATION）で数々のアーティストを照らしてきたのと同じ照明機材の光を受け止め、分け、揺らし、散らす。AIが聴き取った誰のものでもない六本木の雑踏の音が呼応し、誰もいないのに記録・自動化された人の痕跡から気配が再び立ち上がるかを問う。15分ごとに3分間上演。六本木アートナイト2026（2026年10月31日〜11月1日、毛利庭園）。",
+    "tags": [
+      "ロボットアーム",
+      "舞台照明",
+      "ムービングライト",
+      "AI",
+      "サウンド",
+      "光線",
+      "六本木アートナイト2026",
+      "テレビ朝日"
+    ],
+    "thumbnail": "media/candidates/after-human-stage-masaru-yokoi/01.jpg",
+    "addedDate": "2026-11-18",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/after-human-stage-masaru-yokoi/01.jpg",
+        "origin": "https://roppongiartnight.com/2026/wp-content/uploads/2025/07/rh2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/after-human-stage-masaru-yokoi/02.jpg",
+        "origin": "https://pbs.twimg.com/media/HV9uqATbEAAceBv.jpg?name=large"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/after-human-stage-masaru-yokoi/03.jpg",
+        "origin": "https://pbs.twimg.com/media/HV9urMQb0AA-j9W.jpg?name=large"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/after-human-stage-masaru-yokoi/04.jpg",
+        "origin": "https://pbs.twimg.com/amplify_video_thumb/2116808064427048960/img/4JX5_V03lezUfJ8q.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/after-human-stage-masaru-yokoi/05.jpg",
+        "origin": "https://pbs.twimg.com/amplify_video_thumb/2116491047484506112/img/kXFY95CXDHBtuYlC.jpg"
+      }
+    ]
+  },
+  {
+    "id": "xoxo-skeleton-yuma-kishi",
+    "title": "xoxo-skeleton",
+    "artist": "岸裕真（Yuma Kishi）／テクニカルディレクション：竹森達也（Abstract Engine）ほか",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://obake2ai.info/projects/xoxo-skeleton/",
+    "sourceSite": "Yuma Kishi",
+    "summary": "AIが人間を操作する、という関係の反転を体験させるエクソスケルトン・インスタレーション。磨かれた金属リブでできた高さ2.5mの巨大な胸郭に人が入ると、天井から吊られた3本のロボットアームが手首と首を掴む。リブ先端の24枚の自作センサーボードが20種類の環境データを取得し、飲み込み型ピルセンサーが体内の深部体温を報告。各センサーにはLLMのインスタンスが1つずつ割り当てられて並列に動きを生成し、『フランケンシュタイン』全文で学習した自作AI「MaryGPT」がそれらを統合して身体の動きとして応答する。文化庁メディア芸術クリエイター育成支援事業「ENCOUNTERS 2026」（TODA BUILDING、東京）で初公開。Falling Walls 2026 アート＆サイエンス部門、Lumen Prize 2026 ファイナリスト。",
+    "tags": [
+      "ロボットアーム×3",
+      "エクソスケルトン",
+      "センサーボード",
+      "LLM",
+      "MaryGPT",
+      "AI",
+      "金属彫刻",
+      "ENCOUNTERS 2026"
+    ],
+    "thumbnail": "media/candidates/xoxo-skeleton-yuma-kishi/01.jpg",
+    "addedDate": "2026-11-18",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/xoxo-skeleton-yuma-kishi/01.jpg",
+        "origin": "https://obake2ai.info/images/projects/xoxo-skeleton/hero.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/xoxo-skeleton-yuma-kishi/02.jpg",
+        "origin": "https://obake2ai.info/images/projects/xoxo-skeleton/04.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/xoxo-skeleton-yuma-kishi/03.jpg",
+        "origin": "https://obake2ai.info/images/projects/xoxo-skeleton/05.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/xoxo-skeleton-yuma-kishi/04.jpg",
+        "origin": "https://obake2ai.info/images/projects/xoxo-skeleton/06.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/xoxo-skeleton-yuma-kishi/05.jpg",
+        "origin": "https://obake2ai.info/images/projects/xoxo-skeleton/encounters/01.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/xoxo-skeleton-yuma-kishi/06.jpg",
+        "origin": "https://obake2ai.info/images/projects/xoxo-skeleton/encounters/02.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/xoxo-skeleton-yuma-kishi/07.jpg",
+        "origin": "https://obake2ai.info/images/projects/xoxo-skeleton/encounters/03.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/xoxo-skeleton-yuma-kishi/08.jpg",
+        "origin": "https://obake2ai.info/images/projects/xoxo-skeleton/encounters/04.jpg"
+      },
+      {
+        "type": "video",
+        "src": "https://www.youtube.com/embed/v0nBxoqovFE",
+        "poster": "https://img.youtube.com/vi/v0nBxoqovFE/maxresdefault.jpg"
+      },
+      {
+        "type": "video",
+        "src": "https://www.youtube.com/embed/Xmxlwxq-TmE",
+        "poster": "https://img.youtube.com/vi/Xmxlwxq-TmE/maxresdefault.jpg"
+      }
+    ]
   }
 ]
