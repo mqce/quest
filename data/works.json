@@ -7565,5 +7565,257 @@
         "poster": "https://img.youtube.com/vi/Xmxlwxq-TmE/maxresdefault.jpg"
       }
     ]
+  },
+  {
+    "id": "yield-body-mahdizadeh-latreh",
+    "title": "Yield Body",
+    "artist": "Morteza Mahdizadeh Latreh（モルテザ・マフディザデ・ラトレ）",
+    "year": 2025,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://isea-2026.isea-international.org/online-gallery/",
+    "sourceSite": "ISEA2026 Dubai – Online Gallery",
+    "summary": "黒い合成素材の有機的な塊が、自らの形を保とうとしては崩れるキネティック彫刻。ゆっくりまとまろうとする動き、突発的な痙攣、硬直して動けなくなる停止、重い遅延を伴うリセットという段階を行き来し、痛みや戦争、欠乏の「圧力」を映像や物語ではなく機械の振る舞いそのもので示す。観客の接近は単なるトリガーではなく身体を押す力として働き、近接センサーで検知された干渉の痕跡が蓄積して、彫刻の回復力を少しずつ変えていく。イラン拠点のニューメディア作家による作品で、ISEA2026（ドバイ、2026年11月）で展示。",
+    "tags": [
+      "キネティック彫刻",
+      "近接センサー",
+      "コンピュテーショナル制御",
+      "サウンド",
+      "合成素材",
+      "ISEA2026"
+    ],
+    "thumbnail": "media/candidates/yield-body-mahdizadeh-latreh/01.jpg",
+    "addedDate": "2026-11-19",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/yield-body-mahdizadeh-latreh/01.jpg",
+        "origin": "https://isea-2026.isea-international.org/wp-content/themes/isea-child/images/online-gallery/939-art-1.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/yield-body-mahdizadeh-latreh/02.jpg",
+        "origin": "https://isea-2026.isea-international.org/wp-content/themes/isea-child/images/online-gallery/939-art-4.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/yield-body-mahdizadeh-latreh/03.jpg",
+        "origin": "https://isea-2026.isea-international.org/wp-content/themes/isea-child/images/online-gallery/939-art-3.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/yield-body-mahdizadeh-latreh/04.jpg",
+        "origin": "https://isea-2026.isea-international.org/wp-content/themes/isea-child/images/online-gallery/939-art-5.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/yield-body-mahdizadeh-latreh/05.jpg",
+        "origin": "https://isea-2026.isea-international.org/wp-content/themes/isea-child/images/online-gallery/939-art-6.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/yield-body-mahdizadeh-latreh/06.jpg",
+        "origin": "https://isea-2026.isea-international.org/wp-content/themes/isea-child/images/online-gallery/939-art-7.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/yield-body-mahdizadeh-latreh/07.jpg",
+        "origin": "https://isea-2026.isea-international.org/wp-content/themes/isea-child/images/online-gallery/939-art-8.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/yield-body-mahdizadeh-latreh/08.jpg",
+        "origin": "https://isea-2026.isea-international.org/wp-content/themes/isea-child/images/online-gallery/939-art-2.webp"
+      },
+      {
+        "type": "video",
+        "src": "https://isea-2026.isea-international.org/wp-content/uploads/2026/11/939-yield-body.mp4",
+        "poster": "media/candidates/yield-body-mahdizadeh-latreh/01.jpg"
+      }
+    ]
+  },
+  {
+    "id": "en-suspens-drouin-trempe",
+    "title": "En suspens（Pending）",
+    "artist": "Victor Drouin-Trempe（ヴィクトール・ドルアン＝トランプ）",
+    "year": 2025,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://isea-2026.isea-international.org/online-gallery/",
+    "sourceSite": "ISEA2026 Dubai – Online Gallery",
+    "summary": "暗い空間に吊るされた24個の小さな「エージェント」が、共通の呼吸に乗るようにゆっくり揃って揺れるインタラクティブ・サウンド・インスタレーション。各モジュールはマイク、ピエゾスピーカー、小型ファンを内蔵し、どれか1つが周囲の音を拾うと仲間に警報信号を送り、光と音の波が群れ全体へ伝播する。記憶や反応がどこか1点ではなく個体間を循環する、群れ・超個体のような分散知能を可視化する。モジュラーシンセや自然音で「音の生き物」をつくるUQAMの研究者・作家の作品。ISEA2026（ドバイ）で展示。写真：Tannaz Shirazi。",
+    "tags": [
+      "サウンドインスタレーション",
+      "マイク",
+      "ピエゾスピーカー",
+      "小型ファン",
+      "LED",
+      "群知能",
+      "24モジュール",
+      "ISEA2026"
+    ],
+    "thumbnail": "media/candidates/en-suspens-drouin-trempe/01.jpg",
+    "addedDate": "2026-11-19",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/en-suspens-drouin-trempe/01.jpg",
+        "origin": "https://isea-2026.isea-international.org/wp-content/themes/isea-child/images/online-gallery/48-art-1.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/en-suspens-drouin-trempe/02.jpg",
+        "origin": "https://isea-2026.isea-international.org/wp-content/themes/isea-child/images/online-gallery/48-art-2.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/en-suspens-drouin-trempe/03.jpg",
+        "origin": "https://isea-2026.isea-international.org/wp-content/themes/isea-child/images/online-gallery/48-art-3.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/en-suspens-drouin-trempe/04.jpg",
+        "origin": "https://isea-2026.isea-international.org/wp-content/themes/isea-child/images/online-gallery/48-art-4.webp"
+      }
+    ]
+  },
+  {
+    "id": "verge-radiante-light-art-studio",
+    "title": "Verge",
+    "artist": "Radiante Light Art Studio（ラディアンテ・ライトアート・スタジオ）",
+    "year": 2024,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://isea-2026.isea-international.org/online-gallery/",
+    "sourceSite": "ISEA2026 Dubai – Online Gallery",
+    "summary": "10台のKvant Burstberryレーザーとロボティック・システムを組み合わせ、暗い空間に光の「人工の星座」を描き出す没入型ライトインスタレーション。トラスタワー上で動くレーザーヘッドが空間を貫く光線と床の光の模様をつくり、鑑賞者は受け身の観客ではなく光の間を進む「航海者」として歩き回る。砂漠や海を渡る人々を導いた星 Elyah を手がかりに、データと光による方向づけをテーマとする。スペインのライトアート集団の作品で、ライプツィヒで初公開、LIT Lighting Design Award 2025受賞。ISEA2026（ドバイ）で展示。",
+    "tags": [
+      "レーザー×10",
+      "ロボティクス",
+      "Kvant Burstberry",
+      "ライトアート",
+      "没入型",
+      "ISEA2026"
+    ],
+    "thumbnail": "media/candidates/verge-radiante-light-art-studio/01.jpg",
+    "addedDate": "2026-11-19",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/verge-radiante-light-art-studio/01.jpg",
+        "origin": "https://isea-2026.isea-international.org/wp-content/themes/isea-child/images/online-gallery/662-art-3.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/verge-radiante-light-art-studio/02.jpg",
+        "origin": "https://isea-2026.isea-international.org/wp-content/themes/isea-child/images/online-gallery/662-art-1.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/verge-radiante-light-art-studio/03.jpg",
+        "origin": "https://isea-2026.isea-international.org/wp-content/themes/isea-child/images/online-gallery/662-art-2.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/verge-radiante-light-art-studio/04.jpg",
+        "origin": "https://isea-2026.isea-international.org/wp-content/themes/isea-child/images/online-gallery/662-art-4.webp"
+      }
+    ]
+  },
+  {
+    "id": "marmelade-paolo-almario",
+    "title": "Marmelade",
+    "artist": "Paolo Almario（パオロ・アルマリオ）",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://ars.electronica.art/stateoftheartist/en/marmelade",
+    "sourceSite": "Ars Electronica – State of the ART(ist)",
+    "summary": "コロンビアの最高裁判事や大統領など、作家の家族への長年の政治的迫害に関わる人物の肖像を、数千枚のコロンビア産ジャムのラベルでフォトモザイクとして組み、アクリル板に手貼りした作品。会期中、ロボット化されたプロッター機構がタイルを1枚ずつはがして肖像を少しずつ崩していき、落ちた破片は下のテーブルへ。観客はそこでパンとコロンビアのジャムを食べる。「ジャム（mermelada）」は政治権力の利益分配を指すコロンビアの隠語で、破壊が再分配へと反転する。2018年の初版『Marmelade: The Supreme』を発展させた最新版で、Ars Electronica「State of the ART(ist)」2026受賞、Ars Electronica Festival 2026で展示。",
+    "tags": [
+      "ロボット",
+      "プロッター",
+      "自己破壊型インスタレーション",
+      "フォトモザイク",
+      "参加型",
+      "Ars Electronica 2026"
+    ],
+    "thumbnail": "media/candidates/marmelade-paolo-almario/01.jpg",
+    "addedDate": "2026-11-19",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/marmelade-paolo-almario/01.jpg",
+        "origin": "https://ars.electronica.art/stateoftheartist/files/2026/07/marmelade_installation-a-paolo-almario.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/marmelade-paolo-almario/02.jpg",
+        "origin": "https://ars.electronica.art/stateoftheartist/files/2026/07/marmelade_table-a-paolo-almario.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/marmelade-paolo-almario/03.jpg",
+        "origin": "https://ars.electronica.art/stateoftheartist/files/2026/07/marmelade_petro-a-paolo-almario.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/marmelade-paolo-almario/04.jpg",
+        "origin": "https://ars.electronica.art/stateoftheartist/files/2026/07/marmelade_fragments-a-paolo-almario.jpg"
+      }
+    ]
+  },
+  {
+    "id": "loop-girouard-villeneuve",
+    "title": "LOOP",
+    "artist": "Olivier Girouard & Jonathan Villeneuve（アニメーション：Ottoblix／工業デザイン：Generique Design）",
+    "year": 2016,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.generiquedesign.com/en/projects/loop/",
+    "sourceSite": "Generique Design",
+    "summary": "直径2mの光る巨大ホイール13台からなる参加型のルミノキネティック・インスタレーション。ゾートロープ、オルゴール、レバー式のトロッコを掛け合わせた装置で、観客がホイールの中に座って中央のレバーを動かすと円筒が回転し、内蔵LEDのストロボ発光でおとぎ話のアニメーションがループ再生される。レバーを動かす速さに応じて、画像の速度、明滅の周期、音楽のテンポが電気機械式の制御システムで変化する。2016年にモントリオールの「Luminothérapie」コンペで優勝し、以後シカゴ、ニューヨーク、ルガーノなど世界を巡回。2026年10〜11月にはリバプールの光の祭典「River of Light 2026」で展示。",
+    "tags": [
+      "ゾートロープ",
+      "LEDストロボ",
+      "電気機械制御",
+      "参加型",
+      "パブリックアート",
+      "River of Light 2026"
+    ],
+    "thumbnail": "media/candidates/loop-girouard-villeneuve/01.jpg",
+    "addedDate": "2026-11-19",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/loop-girouard-villeneuve/01.jpg",
+        "origin": "https://www.generiquedesign.com/wp-content/uploads/loop_photo-Ulysse-Lemerise_thumb_2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/loop-girouard-villeneuve/02.jpg",
+        "origin": "https://www.generiquedesign.com/wp-content/uploads/loop_photo-Ulysse-Lemerise_02.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/loop-girouard-villeneuve/03.jpg",
+        "origin": "https://www.generiquedesign.com/wp-content/uploads/loop_photo-Ulysse-Lemerise_03.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/loop-girouard-villeneuve/04.jpg",
+        "origin": "https://www.generiquedesign.com/wp-content/uploads/loop_photo-Ulysse-Lemerise_04.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/loop-girouard-villeneuve/05.jpg",
+        "origin": "https://www.generiquedesign.com/wp-content/uploads/loop_fab_03-scaled.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/loop-girouard-villeneuve/06.jpg",
+        "origin": "https://www.generiquedesign.com/wp-content/uploads/loop_fab_01-scaled.jpg"
+      }
+    ]
   }
 ]
