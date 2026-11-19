@@ -7817,5 +7817,325 @@
         "origin": "https://www.generiquedesign.com/wp-content/uploads/loop_fab_01-scaled.jpg"
       }
     ]
+  },
+  {
+    "id": "airy-baoyang-chen",
+    "title": "Airy",
+    "artist": "Baoyang Chen（チェン・バオヤン）／ダンス：TAO Dance Theater（パフォーマンス版）",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://ars.electronica.art/center/en/airy-machine-intent-in-motion/",
+    "sourceSite": "Ars Electronica Center",
+    "summary": "向かい合う2台の産業用ロボットアームが1枚のシルクをつかみ、持ち上げ、はためかせ、わずかに遅らせて放す。布の表面には森の映像が投影され、地面から空へと昇っていく。2台の動きが同期すると空が晴れ、タイミングがずれると霧や嵐が立ち込めるように、部屋の空気そのものがロボットの「タイミング」に反応する。コードは見えないまま、機械が何をしようとしているのか、その意図を動きと素材から読み取れるかを問う作品。Ars Electronica Festival 2026（リンツ）の「Festival Features」展（2026年9月9日〜10月11日）で展示され、TAO Dance Theaterのダンサー2人がロボットと共演するパフォーマンス版も上演された。",
+    "tags": [
+      "産業用ロボットアーム×2",
+      "シルク",
+      "プロジェクション",
+      "ミスト",
+      "マルチエージェント",
+      "Ars Electronica 2026"
+    ],
+    "thumbnail": "media/candidates/airy-baoyang-chen/01.jpg",
+    "addedDate": "2026-11-20",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/airy-baoyang-chen/01.jpg",
+        "origin": "https://ars.electronica.art/center/files/2026/08/55519651313_64b87087ba_k.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/airy-baoyang-chen/02.jpg",
+        "origin": "https://ars.electronica.art/center/files/2026/08/image2-scaled.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/airy-baoyang-chen/03.jpg",
+        "origin": "https://ars.electronica.art/center/files/2026/08/image3.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/airy-baoyang-chen/04.jpg",
+        "origin": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/airy-robotic-arms-and-silk-a-baoyang-chen.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/airy-baoyang-chen/05.jpg",
+        "origin": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/airy-silk-architectural-view-a-baoyang-chen.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/airy-baoyang-chen/06.jpg",
+        "origin": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/airy-live-stage-concept-with-dancers-a-baoyang-chen.jpg"
+      },
+      {
+        "type": "video",
+        "src": "https://player.vimeo.com/video/1209427895",
+        "poster": "https://i.vimeocdn.com/video/2179017902-ae0d429fcfe0db06b19e54666baf1d17e4598ae3b6fdb0e0e92a3affab8fcd9a-d_1280?region=us"
+      }
+    ]
+  },
+  {
+    "id": "infinite-scroll-tjep",
+    "title": "Infinite Scroll（Social Dance）",
+    "artist": "Tjep.（Frank Tjepkema）／映像：Silver Tjepkema",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.tjep.com/infinite-scroll",
+    "sourceSite": "Tjep.",
+    "summary": "コールテン鋼・ステンレス・真鍮で作られた6体の自立型キネティック・ロボット「Valet」が、それぞれ本物のスマートフォンをスクロールし続けるインスタレーション。ほぼ無音のモーターが歩行機械のようなリンク機構を駆動し、スタイラスが画面に触れてスワイプする。画面に流れるのはすべて生成された架空の人物の顔。6体はつながっていないのに、同じスコアに従ってカノンのように呼応し、やがて1つの瞑想的な仕草へと減速する。私たちの最も反射的な身振りを機械に代行させ、内省へと返す。アムステルダムのスタジオTjep.の25周年作品で、Dutch Design Week 2026（2026年10月17〜25日、アイントホーフェン）やBig Art Rotterdam、Glue Amsterdamで展示。",
+    "tags": [
+      "キネティック・ロボット×6",
+      "モーター",
+      "リンク機構",
+      "スマートフォン",
+      "生成画像",
+      "Dutch Design Week 2026"
+    ],
+    "thumbnail": "media/candidates/infinite-scroll-tjep/02.jpg",
+    "addedDate": "2026-11-20",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/infinite-scroll-tjep/01.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/68a207b155d91060fcf7096f/ee421c71-7aea-4e73-93ed-47db676af490/Tjep_Infinite_Scroll_De_Waag_FIVE_ROW.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/infinite-scroll-tjep/02.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/68a207b155d91060fcf7096f/9b791a81-c2ca-4d29-b499-a05262a54d02/Tjep_Infinite_Scroll_De_Waag_THREE_ROW_HORIZ.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/infinite-scroll-tjep/03.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/68a207b155d91060fcf7096f/b06dd42f-2f8a-4436-bc0b-c9f90c1eb1a7/Tjep_Infinite_Scroll_ONE_De_Waag_CORTEN_VERT.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/infinite-scroll-tjep/04.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/68a207b155d91060fcf7096f/af07c7aa-f38c-478c-8fab-55e8de192cb6/Tjep_Infinite_Scroll_De_Waag_ONE_BRASS_VERT_WIDE_2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/infinite-scroll-tjep/05.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/68a207b155d91060fcf7096f/3510ef44-a043-43c5-b4d0-bb01cc2546ac/Tjep_Infinite_Scroll_De_Waag_STAINLESS_VERT_CLOCK.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/infinite-scroll-tjep/06.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/68a207b155d91060fcf7096f/0a701849-deee-4ba4-a35a-b29e73a193e5/Tjep_Infinite_Scroll_Big_Art_Five_ROW.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/infinite-scroll-tjep/07.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/68a207b155d91060fcf7096f/11f91fab-7b09-4945-81e1-929f0159ad57/Tjep_Infinite_Scroll_Big_Art_Three_ROW.jpg"
+      },
+      {
+        "type": "video",
+        "src": "https://www.youtube.com/embed/oewzbIGvWLE",
+        "poster": "https://img.youtube.com/vi/oewzbIGvWLE/maxresdefault.jpg"
+      }
+    ]
+  },
+  {
+    "id": "flux-ksawery-komputery",
+    "title": "FLUX",
+    "artist": "Ksawery Komputery（Ksawery Kirklewski）／サウンド：Arkadiusz Krupiński",
+    "year": 2023,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://ksawerykomputery.com/works/flux",
+    "sourceSite": "Ksawery Komputery",
+    "summary": "高さ6m・接地径13mの筒状の光の構造体に、総延長4,800mのLEDテープ（14万4,000ピクセル）を張り巡らせ、100fpsで駆動するインタラクティブ・ライト・インスタレーション。4台の高速カメラが周囲の人の動きを捉え、8チャンネルの空間音響と完全に同期した光の映像として返す。ソフトウェアもハードウェアも自作し、オンラインでのやり取りを形づくる見えないアルゴリズムを「光の速さ」で体感させる。2023年のSignal Festival（プラハ）以降、Vilnius Light Festival、BLINK、Nobel Week Lights、Noor Riyadhなど世界を巡回し、2026年11月19〜22日にはフィンランド・オウルの欧州文化首都プログラム「Lumo Light Festival」で展示。",
+    "tags": [
+      "LED（14万4,000ピクセル）",
+      "高速カメラ×4",
+      "8ch空間音響",
+      "自作ハードウェア",
+      "ライトアート",
+      "Lumo Light Festival 2026"
+    ],
+    "thumbnail": "media/candidates/flux-ksawery-komputery/01.jpg",
+    "addedDate": "2026-11-20",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/flux-ksawery-komputery/01.jpg",
+        "origin": "https://ksawerykomputery.com/works/flux/flux-prague/1.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/flux-ksawery-komputery/02.jpg",
+        "origin": "https://ksawerykomputery.com/works/flux/flux-prague/5.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/flux-ksawery-komputery/03.jpg",
+        "origin": "https://ksawerykomputery.com/works/flux/flux-prague/8.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/flux-ksawery-komputery/04.jpg",
+        "origin": "https://ksawerykomputery.com/works/flux/flux-prague/12.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/flux-ksawery-komputery/05.jpg",
+        "origin": "https://ksawerykomputery.com/works/flux/flux-prague/16.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/flux-ksawery-komputery/06.jpg",
+        "origin": "https://ksawerykomputery.com/works/flux/flux-miami/flux-1.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/flux-ksawery-komputery/07.jpg",
+        "origin": "https://ksawerykomputery.com/works/flux/flux-miami/flux-5.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/flux-ksawery-komputery/08.jpg",
+        "origin": "https://ksawerykomputery.com/works/flux/flux-miami/flux-10.jpg"
+      },
+      {
+        "type": "video",
+        "src": "https://player.vimeo.com/video/869541878",
+        "poster": "https://i.vimeocdn.com/video/1731105319-1673fd3b6ad934e13f588effcf84400fdeda96e89892b7f1b08decbdbfe7659c-d_1280?region=us"
+      }
+    ]
+  },
+  {
+    "id": "collapse-of-a-microcosm-ralf-baecker",
+    "title": "The Collapse of a Microcosm（Moss Version）",
+    "artist": "Ralf Baecker（ラルフ・ベッカー）",
+    "year": 2025,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://rlfbckr.io/project/tcoam",
+    "sourceSite": "Ralf Baecker",
+    "summary": "ESP32を載せた自作基板による90個の「記憶モジュール」を、空間に多層のループ状に吊ったサイトスペシフィックな光と音のインスタレーション。各モジュールはRGB LED、可視光・赤外線・紫外線に反応するフォトセンサー、小型スピーカーを備え、環境から取り込んだ光を一定の遅延とともに隣のモジュールへささやくように受け渡していく。太陽の動き、天候、影、来場者の身体の動きがループを巡り、数分〜数時間後に「記憶」として戻ってくる。各モジュール固有の音が重なり、過去と現在の差を響かせる不協和なサウンドスケープとなる。オスロ・フィヨルドを望むMOMENTUMビエンナーレ（第13回、ノルウェー・モス、Galleri F 15、2025年）で展示。",
+    "tags": [
+      "ESP32",
+      "自作PCB×90",
+      "RGB LED",
+      "フォトセンサー（IR/UV）",
+      "スピーカー",
+      "MOMENTUM Biennale"
+    ],
+    "thumbnail": "media/candidates/collapse-of-a-microcosm-ralf-baecker/01.jpg",
+    "addedDate": "2026-11-20",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/collapse-of-a-microcosm-ralf-baecker/01.jpg",
+        "origin": "https://rlfbckr.io/images/project/1/tcoam/tcoam_n_-01.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/collapse-of-a-microcosm-ralf-baecker/02.jpg",
+        "origin": "https://rlfbckr.io/images/project/1/tcoam/tcoam_n_-02.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/collapse-of-a-microcosm-ralf-baecker/03.jpg",
+        "origin": "https://rlfbckr.io/images/project/2/tcoam/tcoam_n_-03.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/collapse-of-a-microcosm-ralf-baecker/04.jpg",
+        "origin": "https://rlfbckr.io/images/project/2/tcoam/tcoam_n_-05.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/collapse-of-a-microcosm-ralf-baecker/05.jpg",
+        "origin": "https://rlfbckr.io/images/project/3/tcoam/tcoam_n_-08.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/collapse-of-a-microcosm-ralf-baecker/06.jpg",
+        "origin": "https://rlfbckr.io/images/project/4/tcoam/tcoam_n_-12.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/collapse-of-a-microcosm-ralf-baecker/07.jpg",
+        "origin": "https://rlfbckr.io/images/project/4/tcoam/tcoam_n_-15.jpg"
+      },
+      {
+        "type": "video",
+        "src": "https://player.vimeo.com/video/1123614344",
+        "poster": "https://i.vimeocdn.com/video/2073562055-31ecfcc62b5d7a4a67f826db68f27aaecb8289444900750c312461699fa6181f-d_1280?region=us"
+      }
+    ]
+  },
+  {
+    "id": "cycloid-e-cod-act",
+    "title": "Cycloïd-E",
+    "artist": "Cod.Act（André Décosterd & Michel Décosterd）",
+    "year": 2009,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://codact.ch/works/cycloid-%C9%9B",
+    "sourceSite": "Cod.Act",
+    "summary": "水平に連結された金属パイプの「振り子」を、重力の代わりにモーターで回転させる巨大なキネティック・サウンド彫刻。各セグメントには音源と計測装置が組み込まれ、パイプの回転に応じて音が鳴り響く。セグメント間のエネルギーのやり取りが生む予測不能かつ自然な軌道が、ケプラーの「天球の音楽」のような宇宙的なバレエとして空間を音の軌跡で描き出す。オルガン職人出身の音楽家アンドレと、建築家・造形作家のミシェルのスイスの兄弟ユニットによる代表作。Prix Ars Electronica 2010 Distinction、第18回文化庁メディア芸術祭アート部門大賞（2014）など受賞多数。2024年にもWien Modern（ウィーン）で展示された。",
+    "tags": [
+      "キネティック・サウンド彫刻",
+      "モーター",
+      "連結振り子",
+      "センサー",
+      "アルゴリズム作曲",
+      "文化庁メディア芸術祭大賞"
+    ],
+    "thumbnail": "media/candidates/cycloid-e-cod-act/01.jpg",
+    "addedDate": "2026-11-20",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/cycloid-e-cod-act/01.jpg",
+        "origin": "https://codact.ch/wp-content/uploads/2009/07/Cod.Act-Cyclo%C3%AFd-E.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/cycloid-e-cod-act/02.jpg",
+        "origin": "https://codact.ch/wp-content/uploads/2017/11/54106089098_cf962860e1_o.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/cycloid-e-cod-act/03.jpg",
+        "origin": "https://codact.ch/wp-content/uploads/2009/07/Cyclo%C3%AFd-E-2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/cycloid-e-cod-act/04.jpg",
+        "origin": "https://codact.ch/wp-content/uploads/2009/07/Cyclo%C3%AFd-E-3.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/cycloid-e-cod-act/05.jpg",
+        "origin": "https://codact.ch/wp-content/uploads/2009/07/DSC6606-retouch%C3%A9e.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/cycloid-e-cod-act/06.jpg",
+        "origin": "https://codact.ch/wp-content/uploads/2009/07/Cyclo%C3%AFd-E-Copie.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/cycloid-e-cod-act/07.jpg",
+        "origin": "https://codact.ch/wp-content/uploads/2009/07/SAM_2897.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/cycloid-e-cod-act/08.jpg",
+        "origin": "https://codact.ch/wp-content/uploads/2009/07/SAM_2645-Copie.jpg"
+      },
+      {
+        "type": "video",
+        "src": "https://www.youtube.com/embed/SgaOOCxQtVg",
+        "poster": "https://img.youtube.com/vi/SgaOOCxQtVg/hqdefault.jpg"
+      }
+    ]
   }
 ]
