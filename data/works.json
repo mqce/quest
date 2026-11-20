@@ -8137,5 +8137,283 @@
         "poster": "https://img.youtube.com/vi/SgaOOCxQtVg/hqdefault.jpg"
       }
     ]
+  },
+  {
+    "id": "solar-device-perraud-kebabdjian",
+    "title": "Solar Device",
+    "artist": "Stéfane Perraud & Aram Kebabdjian（ステファン・ペロー＆アラム・ケバブジャン）／ITシステム：Manuel Deneu",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://chroniques-biennale.org/en/oeuvre/solar-device",
+    "sourceSite": "Biennale des Imaginaires Numériques（CHRONIQUES）",
+    "summary": "展示室の外の屋上に置いた太陽光パネルだけで動くソーラーパンク的キネティック・インスタレーション。円環状に並ぶLEDパネルが、ベル研究所が1950年代に考案した12基の「メンドシノ・モーター」（小さな太陽電池を貼った回転子が磁気浮上して回る）を照らし、その光子だけで回転させる。システムは日照・天気予報・暦をリアルタイムに参照してエネルギー残量を管理し、蓄えが多いほど明るく速く回り、乏しいほど節約モードで静かになる。回転数に応じて4台のスピーカーからバイノーラル音が変調され、装置のエネルギー状態がそのまま光・動き・音として可視化される。Stereolux と CHRONIQUES の共同制作で、2026年10月30日〜12月12日、エクス＝アン＝プロヴァンスの La Manufacture ギャラリーで開催中の展覧会「Solar Futures」（Biennale des Imaginaires Numériques）で展示。",
+    "tags": [
+      "キネティック・ライト",
+      "メンドシノ・モーター",
+      "磁気浮上",
+      "太陽光発電",
+      "LEDパネル",
+      "エネルギー制御",
+      "バイノーラル・サウンド",
+      "ソーラーパンク"
+    ],
+    "thumbnail": "media/candidates/solar-device-perraud-kebabdjian/06.jpg",
+    "addedDate": "2026-11-21",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/solar-device-perraud-kebabdjian/01.jpg",
+        "origin": "https://www.stefane-perraud.fr/wp-content/uploads/2026/10/IMG_9509-scaled.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/solar-device-perraud-kebabdjian/02.jpg",
+        "origin": "https://www.stefane-perraud.fr/wp-content/uploads/2026/10/2-1.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/solar-device-perraud-kebabdjian/03.jpg",
+        "origin": "https://www.stefane-perraud.fr/wp-content/uploads/2026/10/3-2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/solar-device-perraud-kebabdjian/04.jpg",
+        "origin": "https://www.stefane-perraud.fr/wp-content/uploads/2026/10/IMG_9804.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/solar-device-perraud-kebabdjian/05.jpg",
+        "origin": "https://www.stefane-perraud.fr/wp-content/uploads/2026/10/IMG_9805.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/solar-device-perraud-kebabdjian/06.jpg",
+        "origin": "https://www.stefane-perraud.fr/wp-content/uploads/2026/10/IMG_9815.jpg"
+      }
+    ]
+  },
+  {
+    "id": "astronomical-water-martin-messier",
+    "title": "Astronomical Water",
+    "artist": "Martin Messier（マルタン・メシエ）／作曲：Gabriel Geneau、エレクトロニクス：Maxime Damecour（制作：14 lieux）",
+    "year": 2025,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://martinmessier.art/astronomical-water.html",
+    "sourceSite": "Martin Messier",
+    "summary": "3枚の大型パネルに約100個の電子制御ドリッパー（バルブ）を並べ、落ちる水滴とストロボ光の同期で「水を止めたり、逆流させたり、浮遊させたり」して見せる没入型インスタレーション。残像効果を操作し、重力に従う水滴の場面から、微小重力下のように宙に浮かぶ水の場面へと移り変わる。音はバルブの開閉音だけに絞られ、デジタル画面を使わない静かな体験になっている。パフォーマンス『1 drop 1000 years』から派生した作品で、Sewing Machine Orchestra などで知られるケベックの作家による。MUTEK Montréal 2025（Village Numérique）で発表し、2026年10月のKIKK Festival（ベルギー・ナミュール）のアートトレイルでも展示。",
+    "tags": [
+      "キネティック・インスタレーション",
+      "電磁バルブ",
+      "水滴",
+      "ストロボ",
+      "残像効果",
+      "電子制御",
+      "サウンド",
+      "KIKK 2026"
+    ],
+    "thumbnail": "media/candidates/astronomical-water-martin-messier/01.jpg",
+    "addedDate": "2026-11-21",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/astronomical-water-martin-messier/01.jpg",
+        "origin": "https://martinmessier.art/img/Astronomical_Water_credit_photo_gabriel_geneau1.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/astronomical-water-martin-messier/02.jpg",
+        "origin": "https://martinmessier.art/img/Astronomical_Water_credit_photo_gabriel_geneau3.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/astronomical-water-martin-messier/03.jpg",
+        "origin": "https://martinmessier.art/img/Astronomical_Water_credit_photo_gabriel_geneau2.jpg"
+      },
+      {
+        "type": "video",
+        "src": "https://player.vimeo.com/video/1116413560",
+        "poster": "media/candidates/astronomical-water-martin-messier/01.jpg"
+      }
+    ]
+  },
+  {
+    "id": "cascade-marc-vilanova",
+    "title": "Cascade",
+    "artist": "Marc Vilanova（マルク・ビラノバ）／ソフトウェア：Alfredo Ardia、カスタムハードウェア・ファームウェア：Wesley Lee",
+    "year": 2022,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://ars.electronica.art/hope/en/cascade",
+    "sourceSite": "Ars Electronica",
+    "summary": "世界各地の大きな滝で録音した、人間には聞こえない超低周波（インフラサウンド）を、128個の小型スピーカーで再生するサウンド＆ライト・インスタレーション。小さなスピーカーは超低周波を音として出せず、振動になる。その振動がコーンに取り付けた光ファイバーに伝わり、光の糸が滝のように揺れる。来場者はカーテン状の光ファイバーの間を歩き、触れて振動を肌で感じられる。渡り鳥が滝の超低周波を道しるべにしているという研究や、気候危機による滝の消失、人工的な超低周波汚染を背景にした作品。Ars Electronica 2024、BIENALSUR、Science Gallery Melbourne などを巡回し、2026年10月のKIKK Festival（ナミュール）にも出展。",
+    "tags": [
+      "サウンド・インスタレーション",
+      "超低周波",
+      "スピーカー128個",
+      "光ファイバー",
+      "カスタム基板",
+      "ジェネレーティブ",
+      "インタラクティブ",
+      "KIKK 2026"
+    ],
+    "thumbnail": "media/candidates/cascade-marc-vilanova/02.jpg",
+    "addedDate": "2026-11-21",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/cascade-marc-vilanova/01.jpg",
+        "origin": "https://ars.electronica.art/hope/files/2024/08/53972501976_03e900eb9d_k.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/cascade-marc-vilanova/02.jpg",
+        "origin": "https://ars.electronica.art/hope/files/2024/08/cascademyriam-lambert-e1723108758921.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/cascade-marc-vilanova/03.jpg",
+        "origin": "https://ars.electronica.art/hope/files/2024/08/cascadecharline-clavier-scaled.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/cascade-marc-vilanova/04.jpg",
+        "origin": "https://avatarquebec.org/wp-content/uploads/2023/01/Marc-Vilanova_Cascade-1.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/cascade-marc-vilanova/05.jpg",
+        "origin": "https://emare.eu/media/pages/works/cascade-2022/c00ea4d4e5-1737727409/cascade-by-marc-vilanova-in-bienalsur-at-museo-fernandez-blanco-buenos-aires-photography-diego-emanuel-gonzalez-2023-1-1000x1000.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/cascade-marc-vilanova/06.jpg",
+        "origin": "https://emare.eu/media/pages/works/cascade-2022/f2be42a381-1737727409/cascade-by-marc-vilanova-at-headlands-center-for-the-arts-san-francisco-photography-romane-bladou-2022-2-1000x1000.jpg"
+      },
+      {
+        "type": "video",
+        "src": "https://player.vimeo.com/video/825602428",
+        "poster": "media/candidates/cascade-marc-vilanova/01.jpg"
+      }
+    ]
+  },
+  {
+    "id": "imagraph-goki-muramoto",
+    "title": "Imagraph",
+    "artist": "村本剛毅（Goki Muramoto）",
+    "year": 2020,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.goki-muramoto.com/imagraph",
+    "sourceSite": "Goki Muramoto",
+    "summary": "閉じたまぶたの上から映像を「投影」する光学装置のシリーズ。横になった鑑賞者のまぶたと、天井から吊るしたLEDディスプレイの各ピクセルを光ファイバーの束でつなぐ版と、レーザープロジェクターで正面からまぶたに直接映す版がある。映像は、鑑賞者ごとに異なる皮膚の「血の赤み」を補正するため青寄りに色を調整してから送られ、色・配置・動きが目を閉じた視界に届く。「映像を投影する」と「感覚を閉ざす」という2つの態度を仲介するメディアとして構想された。SIGGRAPH 2022 Art Gallery、UCLA、ifva Festival などで展示され、2026年11月23日まで京都駅東南エリアの光のアート祭「Lightseeing Kyoto South 2026」でも展示中。",
+    "tags": [
+      "メディアアート",
+      "LEDディスプレイ",
+      "光ファイバー",
+      "レーザープロジェクター",
+      "閉眼視",
+      "知覚",
+      "SIGGRAPH Art Gallery"
+    ],
+    "thumbnail": "media/candidates/imagraph-goki-muramoto/01.jpg",
+    "addedDate": "2026-11-21",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/imagraph-goki-muramoto/01.jpg",
+        "origin": "https://www.goki-muramoto.com/assets/imagraph/overview-01.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/imagraph-goki-muramoto/02.jpg",
+        "origin": "https://www.goki-muramoto.com/assets/imagraph/overview-02.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/imagraph-goki-muramoto/03.jpg",
+        "origin": "https://www.goki-muramoto.com/assets/imagraph/overview-03.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/imagraph-goki-muramoto/04.jpg",
+        "origin": "https://www.goki-muramoto.com/assets/imagraph/overview-04.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/imagraph-goki-muramoto/05.jpg",
+        "origin": "https://www.goki-muramoto.com/assets/imagraph/overview-06.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/imagraph-goki-muramoto/06.jpg",
+        "origin": "https://www.goki-muramoto.com/assets/imagraph/overview-07.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/imagraph-goki-muramoto/07.jpg",
+        "origin": "https://www.goki-muramoto.com/assets/imagraph/overview-09.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/imagraph-goki-muramoto/08.jpg",
+        "origin": "https://www.goki-muramoto.com/assets/imagraph/overview-10.webp"
+      },
+      {
+        "type": "video",
+        "src": "https://www.youtube.com/embed/tjN3ZOaTpCw",
+        "poster": "media/candidates/imagraph-goki-muramoto/01.jpg"
+      }
+    ]
+  },
+  {
+    "id": "the-two-david-bowen",
+    "title": "the_two",
+    "artist": "David Bowen（デイヴィッド・ボウエン）",
+    "year": 2025,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.dwbowen.com/thetwo",
+    "sourceSite": "David Bowen",
+    "summary": "「ロボットは恋に落ちることができるか？」を問うロボティック・インスタレーション。カメラ付きの同じロボットアーム2台を、それぞれ別のコンピュータが制御する。各コンピュータは相手のロボットを認識するよう学習した独自の深層ニューラルネットワークを動かし、2台は互いを探して追いかける。引き寄せられたり離れたりしながら、触れそうな瞬間にさっと身を引く。相手を見失うと休止姿勢に戻り、また探し始める。相手を一定回数見つけるたびに新しいデータで再学習するため、2台は互いの「まなざし」に少しずつ慣れていく。植物やハエ、風などを使った「デバイス」シリーズで知られるアメリカの作家による。2026年11月18〜21日、ドバイ・フューチャー・ウィークの展覧会「The Human Within」（STARS 2026、エミレーツ・タワーズ）で展示。",
+    "tags": [
+      "ロボットアーム",
+      "深層ニューラルネットワーク",
+      "物体認識",
+      "カメラ",
+      "継続学習",
+      "機械の振付",
+      "STARS 2026"
+    ],
+    "thumbnail": "media/candidates/the-two-david-bowen/04.jpg",
+    "addedDate": "2026-11-21",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/the-two-david-bowen/01.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/5509f2e8e4b042d7b1ec6ab5/1737584291309-JZYF6E7DEYTCOYPXKVRO/gemini%28banner2%29.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/the-two-david-bowen/02.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/5509f2e8e4b042d7b1ec6ab5/5bab5389-a044-4fe7-8f84-aa2a2fef6a55/Screenshot+from+2025-01-22+13-49-38.png"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/the-two-david-bowen/03.jpg",
+        "origin": "https://i.vimeocdn.com/video/1979625069-6d65b05229cf687f2643469686d9b20c6f138d901a3cf1ba4d34a7bc5fc5c4d5-d_1280?region=us"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/the-two-david-bowen/04.jpg",
+        "origin": "https://www.artoffice.be/media/artist_pageblock/699-db_the-two-full2_lr.png"
+      },
+      {
+        "type": "video",
+        "src": "https://player.vimeo.com/video/1049391409",
+        "poster": "media/candidates/the-two-david-bowen/01.jpg"
+      }
+    ]
   }
 ]
