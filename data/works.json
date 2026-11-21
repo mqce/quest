@@ -8415,5 +8415,311 @@
         "poster": "media/candidates/the-two-david-bowen/01.jpg"
       }
     ]
+  },
+  {
+    "id": "friendly-machine-ailin-dong",
+    "title": "Friendly Machine",
+    "artist": "Ailin Dong（アイリン・ドン）",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://ailindong.com/work/friendly-machine/",
+    "sourceSite": "Ailin Dong",
+    "summary": "壁に静かに掛かった、やわらかなニットのテキスタイル作品。人が手を伸ばして触れた瞬間、布がぎゅっと縮み、身を引くように形を変える。金属糸と黒い糸で編んだ布を、アルミのフレームに付けたサーボモーターが引っぱる仕組みで、タッチセンサーで手の接近を感じ取る。「いつでも言うことを聞いてくれるはずの機械が、もう愛想よくしたくないと思ったら？」という問いから生まれた作品。キュレーターのCiar O’Mahonyは、休息（あるいは疲労）から無理に起こされる労働者のような、「フレンドリーであること」に疲れた装置だと評している。2026年7〜8月、トロントのInterAccessで開かれたVector Festival 2026の展覧会「Who Cares for the Cyborg?」で展示。",
+    "tags": [
+      "サーボモーター",
+      "ニット",
+      "金属糸",
+      "タッチセンサー",
+      "ソフトロボティクス",
+      "インタラクティブ",
+      "Vector Festival 2026"
+    ],
+    "thumbnail": "media/candidates/friendly-machine-ailin-dong/01.jpg",
+    "addedDate": "2026-11-22",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/friendly-machine-ailin-dong/01.jpg",
+        "origin": "https://ailindong.com/projects/friendly-machine/hero.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/friendly-machine-ailin-dong/02.jpg",
+        "origin": "https://ailindong.com/projects/friendly-machine/01-touch.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/friendly-machine-ailin-dong/03.jpg",
+        "origin": "https://ailindong.com/projects/friendly-machine/02-detail-silver.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/friendly-machine-ailin-dong/04.jpg",
+        "origin": "https://ailindong.com/projects/friendly-machine/03-detail-knit.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/friendly-machine-ailin-dong/05.jpg",
+        "origin": "https://ailindong.com/projects/friendly-machine/04-shadow.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/friendly-machine-ailin-dong/06.jpg",
+        "origin": "https://ailindong.com/projects/friendly-machine/05-gallery-view.jpg"
+      }
+    ]
+  },
+  {
+    "id": "geometry-yields-jussi-angesleva",
+    "title": "Geometry Yields",
+    "artist": "Jussi Ängeslevä（ユッシ・アンゲスレヴァ）／サウンド：Alex Olwal、Cédric (c7b) Bray",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://angesleva.iki.fi/art/geometry-yields/",
+    "sourceSite": "Jussi Ängeslevä",
+    "summary": "力制御のロボットアームと人が、押し合いながら一緒に動く光のパフォーマンス／インスタレーション。アームの先には光る管とライン状のレーザーが付いている。アームは目に見えない幾何学的な制約に従っていて、押すと「その幾何学が許す方向」にだけ動く。たとえば特定の関節だけが動くモード、光が平面や直線の上だけを動くモード、光の先端を固定してアーム本体がその周りを回るモードがある。来場者はアームのどこをつかんでもよく、腕にかかる力の小さな変化を生成音楽が音に変える。後半では、レーザーの面が折りたたまれていく空間の平面を見せ、ロボットが人との動きをなぞり直す。バウハウスのオスカー・シュレンマー《トリアディック・バレエ》や《棒のダンス》から着想。2026年夏、スタンフォード・ロボティクス・センターのアーティスト・イン・レジデンスで制作された。",
+    "tags": [
+      "ロボットアーム",
+      "力制御",
+      "レーザー",
+      "光",
+      "生成音楽",
+      "コンタクト・インプロビゼーション",
+      "Stanford Robotics Center"
+    ],
+    "thumbnail": "media/candidates/geometry-yields-jussi-angesleva/02.jpg",
+    "addedDate": "2026-11-22",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/geometry-yields-jussi-angesleva/01.jpg",
+        "origin": "https://angesleva.iki.fi/media/art/geometry-yields/geometry-yields-hero.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/geometry-yields-jussi-angesleva/02.jpg",
+        "origin": "https://angesleva.iki.fi/media/art/geometry-yields/geometry-yields-light-closeup.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/geometry-yields-jussi-angesleva/03.jpg",
+        "origin": "https://angesleva.iki.fi/media/art/geometry-yields/geometry-yields-motion-blur.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/geometry-yields-jussi-angesleva/04.jpg",
+        "origin": "https://angesleva.iki.fi/media/art/geometry-yields/geometry-yields-mirror-room.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/geometry-yields-jussi-angesleva/05.jpg",
+        "origin": "https://angesleva.iki.fi/media/art/geometry-yields/geometry-yields-laser-plane.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/geometry-yields-jussi-angesleva/06.jpg",
+        "origin": "https://angesleva.iki.fi/media/art/geometry-yields/geometry-yields-laser-detail.jpg"
+      },
+      {
+        "type": "video",
+        "src": "https://angesleva.iki.fi/media/art/geometry-yields/geometry-yields-video.mp4",
+        "poster": "media/candidates/geometry-yields-jussi-angesleva/02.jpg"
+      }
+    ]
+  },
+  {
+    "id": "entropic-system-laleh-mehran",
+    "title": "Entropic System",
+    "artist": "Laleh Mehran（ラレ・メヘラン）",
+    "year": 2017,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://lalehmehran.com/Entropic-System",
+    "sourceSite": "Laleh Mehran",
+    "summary": "2軸の描画マシンと、リアルタイム映像を映すディスプレイからなるインタラクティブ作品。マシンから吊るした金色の多面体の振り子が、きらめく黒い砂（実は石炭スラグ「ブラック・ビューティー」）の表面をなぞる。振り子は小型マイコンの制御で、アラベスクのような幾何学模様を時間をかけて描いていく。人感センサーが来場者の接近を感じ取るとマシンが急に速く動き、振り子が揺れて渦を巻き、計算された模様を乱す。落ち着いて元の模様づくりに戻るまでには数分かかる。そばの画面には、振り子の動きを真上から衛星のように映すライブ映像が流れる。秩序と混乱をくり返すこのシステムは、国境の内外の出来事に反応するイデオロギーや政治体制の比喩になっている。デンバーを拠点とするイラン出身のメディアアーティストの作品で、ISEA2026（ドバイ）のオンラインギャラリーにも「Entropic Systems」として掲載されている。",
+    "tags": [
+      "描画マシン",
+      "2軸プロッタ",
+      "マイコン",
+      "人感センサー",
+      "振り子",
+      "砂",
+      "ライブ映像",
+      "ISEA2026"
+    ],
+    "thumbnail": "media/candidates/entropic-system-laleh-mehran/01.jpg",
+    "addedDate": "2026-11-22",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/entropic-system-laleh-mehran/01.jpg",
+        "origin": "https://payload.cargocollective.com/1/4/128573/13228078/LalehMehran_Entropic_System1_800.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/entropic-system-laleh-mehran/02.jpg",
+        "origin": "https://payload.cargocollective.com/1/4/128573/13228078/LalehMehran_Entropic_System2_800.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/entropic-system-laleh-mehran/03.jpg",
+        "origin": "https://payload.cargocollective.com/1/4/128573/13228078/LalehMehran_Entropic_System4_800.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/entropic-system-laleh-mehran/04.jpg",
+        "origin": "https://payload.cargocollective.com/1/4/128573/13228078/LalehMehran_Entropic_System5_4_800.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/entropic-system-laleh-mehran/05.jpg",
+        "origin": "https://payload.cargocollective.com/1/4/128573/13228078/LalehMehran_Entropic_System6_800.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/entropic-system-laleh-mehran/06.jpg",
+        "origin": "https://payload.cargocollective.com/1/4/128573/13228078/LalehMehran_Entropic_System7_800.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/entropic-system-laleh-mehran/07.jpg",
+        "origin": "https://payload.cargocollective.com/1/4/128573/13228078/LalehMehran_Entropic_System8_800.png"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/entropic-system-laleh-mehran/08.jpg",
+        "origin": "https://payload.cargocollective.com/1/4/128573/13228078/LalehMehran_Entropic_System9_800.jpg"
+      },
+      {
+        "type": "video",
+        "src": "https://player.vimeo.com/video/211441654",
+        "poster": "media/candidates/entropic-system-laleh-mehran/01.jpg"
+      }
+    ]
+  },
+  {
+    "id": "petalclouds-art-com",
+    "title": "Petalclouds",
+    "artist": "ART+COM Studios（クリエイティブ・ディレクション：Jussi Ängeslevä）／音楽：Ólafur Arnalds",
+    "year": 2017,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://artcom.de/en/?project=petalclouds",
+    "sourceSite": "ART+COM Studios",
+    "summary": "シンガポール・チャンギ空港第4ターミナルの中央ギャラリアに吊るされた、全長約200mの吹き抜けにまたがるキネティック・スカルプチャー。空をゆっくり流れる雲をイメージした6つの彫刻は、それぞれ花びらのような16枚の帯でできている。合計192個のモーターが帯を垂直方向に動かし、ソナタ形式にもとづく45分のループで、光と動きと音楽が一体になった振付を見せる。音楽はオーラヴル・アルナルズの作曲で、館内6か所の試聴エリアやモバイル配信で聴ける。出発側と到着側をつなぐ「パフォーマンスの橋」として、旅行者を迎えて見送る。チャンギ空港グループがT4開業に合わせて委嘱した。制作はART+COM、MKT AG、竹中工務店。",
+    "tags": [
+      "モーター192個",
+      "キネティック・スカルプチャー",
+      "振付制御",
+      "光",
+      "音楽同期",
+      "空港",
+      "パブリックアート"
+    ],
+    "thumbnail": "media/candidates/petalclouds-art-com/01.jpg",
+    "addedDate": "2026-11-22",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/petalclouds-art-com/01.jpg",
+        "origin": "https://angesleva.iki.fi/media/art/petalclouds/petalclouds-keyvisual.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/petalclouds-art-com/02.jpg",
+        "origin": "https://artcom.de/wp-content/uploads/2018/08/Artcom_Petalclouds_3-1-1360x763.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/petalclouds-art-com/03.jpg",
+        "origin": "https://artcom.de/wp-content/uploads/2018/08/Artcom_Petalclouds_4_new-1360x765.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/petalclouds-art-com/04.jpg",
+        "origin": "https://artcom.de/wp-content/uploads/2018/08/Artcom_Petalclouds_5_new-1360x765.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/petalclouds-art-com/05.jpg",
+        "origin": "https://artcom.de/wp-content/uploads/2018/08/Artcom_Petalclouds_7_new-1360x765.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/petalclouds-art-com/06.jpg",
+        "origin": "https://artcom.de/wp-content/uploads/2018/08/Artcom_Petalclouds_8_new-1360x765.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/petalclouds-art-com/07.jpg",
+        "origin": "https://artcom.de/wp-content/uploads/2018/08/Artcom_Petalclouds_9_new-1360x765.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/petalclouds-art-com/08.jpg",
+        "origin": "https://artcom.de/wp-content/uploads/2018/08/Artcom_Petalclouds_13jpeg-1360x765.jpeg"
+      },
+      {
+        "type": "video",
+        "src": "https://angesleva.iki.fi/media/art/petalclouds/petalclouds-video.mp4",
+        "poster": "media/candidates/petalclouds-art-com/01.jpg"
+      }
+    ]
+  },
+  {
+    "id": "replacement-character-luke-shannon",
+    "title": "Replacement Character（plotter-scanner）",
+    "artist": "Luke Shannon（ルーク・シャノン）",
+    "year": 2025,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://lumenprize.org/2026-legacy-future-finalists/luke-shannon",
+    "sourceSite": "The Lumen Prize",
+    "summary": "市販のドキュメントスキャナーを4×6フィート（約1.2×1.8m）の自作プロッターに載せ、人の体を等身大でスキャンできるようにした、参加型のキネティック写真装置「plotter-scanner」。プロッターがスキャナーを少しずつ動かして全身を読み取り、継ぎ目でずれた断片をつなぎ合わせた、精密なのにどこか親密なポートレートができあがる。スキャンには被写体が装置にぴったり寄り添う必要があり、監視と見守りを同時に行う道具として、ウィンドウやグリッド状のフィードに断片化されたオンライン上の自己を問いかける。2025年10〜11月にニューヨークのHeft Galleryで個展を開き、Paris Photo 2025にも出展。2026年11月、Lumen Prize 2026でOnassis ONX Awardを受賞した。",
+    "tags": [
+      "プロッター",
+      "スキャナー",
+      "自作マシン",
+      "キネティック・スカルプチャー",
+      "参加型",
+      "監視",
+      "Lumen Prize 2026"
+    ],
+    "thumbnail": "media/candidates/replacement-character-luke-shannon/01.jpg",
+    "addedDate": "2026-11-22",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/replacement-character-luke-shannon/01.jpg",
+        "origin": "https://downloads.ctfassets.net/wd5scvjofn8n/6RdaU5pOoaWDc9eKd5VjBT/10b9ab769c9fb5238db4ce3ef59ac1f5/0Z3A0142.png"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/replacement-character-luke-shannon/02.jpg",
+        "origin": "https://downloads.ctfassets.net/wd5scvjofn8n/4JJ75aC8vYJ8pUnynCHr02/ed49f62a60cb7269aed2f809b0e8e30b/Replacement_Character_Catalog.pdf"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/replacement-character-luke-shannon/03.jpg",
+        "origin": "https://downloads.ctfassets.net/wd5scvjofn8n/4WddMq8TE2f8hJehieTtFf/8d56f9dcc19ea51ab8779019329debb8/0Z3A0133.png"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/replacement-character-luke-shannon/04.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/65e7176a61627736e02f6c4a/308e3502-3649-4f7e-9d61-e6c4536cafe2/Luke+Shannon+-+Replacement+Character+plotter-scanner+4.jpeg?format=1500w"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/replacement-character-luke-shannon/05.jpg",
+        "origin": "https://images.squarespace-cdn.com/content/v1/65e7176a61627736e02f6c4a/1784817721304-NFS8RIPA22HEM37L73J2/Luke+Shannon+-+Replacement+Character+plotter-scanner+.png?format=1500w"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/replacement-character-luke-shannon/06.jpg",
+        "origin": "https://images.ctfassets.net/wd5scvjofn8n/rmMrJ3kC4oh9SzDvlHA5d/f5b0e0124bde20e9e497c6eb74a3d494/HP_Hero_Luke.jpg?w=1600"
+      }
+    ]
   }
 ]
