@@ -8721,5 +8721,268 @@
         "origin": "https://images.ctfassets.net/wd5scvjofn8n/rmMrJ3kC4oh9SzDvlHA5d/f5b0e0124bde20e9e497c6eb74a3d494/HP_Hero_Luke.jpg?w=1600"
       }
     ]
+  },
+  {
+    "id": "agent-in-public-daito-manabe",
+    "title": "Agent in Public",
+    "artist": "真鍋大度（Daito Manabe）／技術協力：ソニーPCL（群ロボットシステム groovots）",
+    "year": 2026,
+    "category": "installation",
+    "source": "x",
+    "sourceUrl": "https://x.com/ntv_rd/status/2124070131596984345",
+    "sourceSite": "X（@ntv_rd）／ソニーPCL ニュース（https://www.sonypcl.jp/news/00209.html）",
+    "summary": "「きょうのニュースは、10年後をどう変えるのか。」をテーマに、役割を割り振られた7つのAIエージェントが日経電子版や過去の新聞記事（日経API）をもとに毎日未来を議論し、その結果を自動生成した音楽・映像・ロボットの動きで上演する即興のAI演劇インスタレーション。演じ手は、ソニーが開発するエンタテインメント向け群ロボットシステム「groovots」の大型モデル7Dと中型モデル5D、計7台。LEDディスプレイを纏った縦長の柱のようなロボットが互いに呼応しながら駅のアトリウムを動き回り、台詞やテーマを文字と光で示す。日経創刊150周年記念イベント「Dialogues on the Future」の一環として、2026年11月18〜20日に虎ノ門ヒルズ駅B2ステーションアトリウムで無料公開された。動画：https://x.com/ntv_rd/status/2124070131596984345 ／ https://x.com/yskmjp/status/2123687420206145808",
+    "tags": [
+      "群ロボット",
+      "LEDディスプレイ",
+      "マルチエージェントAI",
+      "生成音楽",
+      "AI演劇",
+      "パブリックインスタレーション",
+      "真鍋大度"
+    ],
+    "thumbnail": "media/candidates/agent-in-public-daito-manabe/01.jpg",
+    "addedDate": "2026-11-23",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/agent-in-public-daito-manabe/01.jpg",
+        "origin": "https://pbs.twimg.com/amplify_video_thumb/2124070040953925633/img/t9pIAjp-VsYB9b0b.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/agent-in-public-daito-manabe/02.jpg",
+        "origin": "https://pbs.twimg.com/amplify_video_thumb/2123686784135725056/img/wAWAO69iKIjwHIk5.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/agent-in-public-daito-manabe/03.jpg",
+        "origin": "https://pbs.twimg.com/amplify_video_thumb/2123686783166849024/img/LqtZfBiOvH8OTSzF.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/agent-in-public-daito-manabe/04.jpg",
+        "origin": "https://pbs.twimg.com/amplify_video_thumb/2123686783162724353/img/1VK4InHMfrUi7zNv.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/agent-in-public-daito-manabe/05.jpg",
+        "origin": "https://pbs.twimg.com/amplify_video_thumb/2123778586201165824/img/nyuIzgvM2ViySLu_.jpg"
+      }
+    ]
+  },
+  {
+    "id": "operator-playfool",
+    "title": "[OP]erator",
+    "artist": "Playfool（Daniel Coppen & Saki Maruyama／ダニエル・コッペン＆サキ・マルヤマ）",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.studioplayfool.com/operator",
+    "sourceSite": "Playfool／Ars Electronica Festival 2026",
+    "summary": "実際に稼働する「ボットファーム」を舞台化したインタラクティブ彫刻。直径約3.4mの金属フレームに100台超のAndroidスマートフォンが環状に吊られ、中央の1台のマスター端末を来場者が操作すると、入力した考えや意見がLLMで各端末の“ペルソナ”に合わせて少しずつ言い換えられ、101台のX（Twitter）アカウントから一斉に投稿・読み上げられて、ボットたちの空間的な合唱になる。待機中は100の画面がニュースの見出しを同期した電光掲示板のように流す。SNS上の世論操作が実は物理的なスマホと人間の“指揮者”に支えられていることを可視化する。Onassis ONXのONX Seeds委嘱作品で、2026年9月のArs Electronica Festival（リンツ）で発表、Frankfurter Kunstvereinのグループ展『Propaganda』でも展示。",
+    "tags": [
+      "スマートフォン",
+      "マルチディスプレイ",
+      "LLM",
+      "ボットファーム",
+      "インタラクティブ彫刻",
+      "サーマルプリンター",
+      "Ars Electronica 2026"
+    ],
+    "thumbnail": "media/candidates/operator-playfool/01.jpg",
+    "addedDate": "2026-11-23",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/operator-playfool/01.jpg",
+        "origin": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/operator-op-img_02.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/operator-playfool/02.jpg",
+        "origin": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/operator-op-img_01.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/operator-playfool/03.jpg",
+        "origin": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/operator-op-img_07.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/operator-playfool/04.jpg",
+        "origin": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/operator-op-img_08.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/operator-playfool/05.jpg",
+        "origin": "https://filmsandfestivals.britishcouncil.org/storage/project/1001276/operator_20260706_141545_5CWm7ulNaFnA4EoKVARRwwMctlyX9j6GPx99xGQr.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/operator-playfool/06.jpg",
+        "origin": "https://filmsandfestivals.britishcouncil.org/storage/project/1001276/operator_20260706_141546_7rfO13PSH24pProyD6JEatqydxTQj10KOLAm8Rhz.webp"
+      }
+    ]
+  },
+  {
+    "id": "forest-seasons-christopher-bauder",
+    "title": "FOREST SEASONS",
+    "artist": "Christopher Bauder（クリストファー・バウダー）／音楽：Chris Kuijten、制作：WHITEvoid・DARK MATTER",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.christopherbauder.com/forest-seasons",
+    "sourceSite": "Christopher Bauder／DARK MATTER Berlin",
+    "summary": "ベルリンの光のミュージアムDARK MATTERの巨大な変電所ホール「TRANSFORMATOR」を、天井から逆さに吊られた木々の森に変えた大規模キネティック・ライトアート。45分ごとに春夏秋冬の1年がめぐり、レーザー光、新開発の可動式ビデオプロジェクター、昇降するキネティック要素（落ち葉や人工の太陽）、サウンドが精密に同期して、色と密度と“天気”が刻々と移り変わる。技術支援はKINETIC LIGHTS（キネティック照明）とROBE（照明機材）。2026年4月1日〜10月4日に展示された。",
+    "tags": [
+      "キネティック・ライト",
+      "レーザー",
+      "ムービングプロジェクター",
+      "ウインチ",
+      "光と音",
+      "没入型",
+      "DARK MATTER"
+    ],
+    "thumbnail": "media/candidates/forest-seasons-christopher-bauder/01.jpg",
+    "addedDate": "2026-11-23",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/forest-seasons-christopher-bauder/01.jpg",
+        "origin": "https://static.wixstatic.com/media/7e619e_9a021f81ec3443bf80afbd9eacdfd4e1~mv2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/forest-seasons-christopher-bauder/02.jpg",
+        "origin": "https://static.wixstatic.com/media/7e619e_0c1d23bd79084580987bd8bae8d22047~mv2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/forest-seasons-christopher-bauder/03.jpg",
+        "origin": "https://static.wixstatic.com/media/7e619e_7980bc221deb4752a1b5d5fa4880094b~mv2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/forest-seasons-christopher-bauder/04.jpg",
+        "origin": "https://static.wixstatic.com/media/7e619e_a2fcb90e4a1743cca0f7b9fe9fc07b1a~mv2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/forest-seasons-christopher-bauder/05.jpg",
+        "origin": "https://static.wixstatic.com/media/7e619e_261473075173418da3888ca79be58ba8~mv2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/forest-seasons-christopher-bauder/06.jpg",
+        "origin": "https://static.wixstatic.com/media/7e619e_33ba99d571a146859719bf9a81fd8e5c~mv2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/forest-seasons-christopher-bauder/07.jpg",
+        "origin": "https://static.wixstatic.com/media/7e619e_6e8c999f341c471faa4fe9486e2c158a~mv2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/forest-seasons-christopher-bauder/08.jpg",
+        "origin": "https://static.wixstatic.com/media/7e619e_a7f07a40e5cb42d6accb45f11c7a8e25~mv2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "leva-kinetic-face",
+    "title": "Kinetic Face（Morgane）",
+    "artist": "Leva（Leva Engineering）× Puy du Fou",
+    "year": 2025,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://leva.io/projects/kinetic-face",
+    "sourceSite": "Leva",
+    "summary": "フランスのテーマパーク、ピュイ・デュ・フーのショー『L’Épée du Roi Arthur（アーサー王の剣）』のために作られた常設キネティック壁面彫刻。石積みの塔に見える約12㎡の面が、石の形をした206個の特注モジュール（それぞれ最大70cmストロークのリニアアクチュエーターで駆動）で構成され、独自のモーションコントロールで一斉に動いて、伝説の魔女モルガンの顔が浮かび上がり、表情を変え、話す。屋外で一年中繰り返し上演できる耐候設計。メイキング動画：https://www.youtube.com/watch?v=cAYYXIjOcKs",
+    "tags": [
+      "リニアアクチュエーター",
+      "206モジュール",
+      "モーションコントロール",
+      "キネティック・ウォール",
+      "屋外常設",
+      "テーマパーク"
+    ],
+    "thumbnail": "media/candidates/leva-kinetic-face/01.jpg",
+    "addedDate": "2026-11-23",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/leva-kinetic-face/01.jpg",
+        "origin": "https://leva.io/media/kinetic-face.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/leva-kinetic-face/02.jpg",
+        "origin": "https://cdn.prod.website-files.com/674b441a6aad6e56fb402f67/68483f7ef1d71d43fbe9d7e5_left-img.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/leva-kinetic-face/03.jpg",
+        "origin": "https://cdn.prod.website-files.com/674b441a6aad6e56fb402f67/68483c7f67518da107ea02a1_8B2A8587.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/leva-kinetic-face/04.jpg",
+        "origin": "https://cdn.prod.website-files.com/674b441a6aad6e56fb402f67/68483baf460a002747b77e00_8B2A8311.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/leva-kinetic-face/05.jpg",
+        "origin": "https://i.ytimg.com/vi/cAYYXIjOcKs/maxresdefault.jpg"
+      }
+    ]
+  },
+  {
+    "id": "climate-shift-breakfast",
+    "title": "Climate Shift",
+    "artist": "BREAKFAST（ブレックファスト）",
+    "year": 2025,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://theartistbreakfast.com/works/climate-shift",
+    "sourceSite": "BREAKFAST",
+    "summary": "電磁石で1枚ずつ反転するフリップディスク（片面に彩色）を敷き詰めた3枚組のキネティック作品（全体約2.1×0.9m×3面）。縦の縞1本が2年分の世界平均気温を表し、左端の1857年から右端の2025年まで、Ed Hawkinsの「Climate Stripes」に倣って青から赤へ並ぶ。内蔵カメラが前に立つ人を捉えるとディスクがカタカタと音を立てて裏返り、鑑賞者の姿が縞の中に鏡のように現れる。その映り込みの鮮明さは、ライブで取得する現在の世界気温によって変わる。動画：https://media.theartistbreakfast.com/works/climate-shift/hero.mp4",
+    "tags": [
+      "フリップディスク",
+      "電磁石",
+      "カメラ",
+      "リアルタイムデータ",
+      "インタラクティブミラー",
+      "気候変動"
+    ],
+    "thumbnail": "media/candidates/climate-shift-breakfast/01.jpg",
+    "addedDate": "2026-11-23",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/climate-shift-breakfast/01.jpg",
+        "origin": "https://media.theartistbreakfast.com/works/climate-shift/poster.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/climate-shift-breakfast/02.jpg",
+        "origin": "https://media.theartistbreakfast.com/works/climate-shift/poster-vertical.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/climate-shift-breakfast/03.jpg",
+        "origin": "frames/bf_0.15.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/climate-shift-breakfast/04.jpg",
+        "origin": "frames/bf_0.4.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/climate-shift-breakfast/05.jpg",
+        "origin": "frames/bf_0.65.jpg"
+      }
+    ]
   }
 ]
