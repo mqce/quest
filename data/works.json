@@ -8984,5 +8984,295 @@
         "origin": "frames/bf_0.65.jpg"
       }
     ]
+  },
+  {
+    "id": "oko-antonin-kindl",
+    "title": "OKO",
+    "artist": "Antonín Kindl（アントニーン・キンドル）／サウンド：Martin Štefánik、制作：PrusaLab",
+    "year": 2025,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://kindl.work/2025/OKO",
+    "sourceSite": "kindl.work（Antonín Kindl）",
+    "summary": "三脚状の鉄骨フレームの頂部に据えられた球体の「頭」が、2基の産業用ステッピングモーターによる2軸の首振りで周囲を見回す屋外インスタレーション。頭には赤外線カメラとレーザープロジェクターを内蔵し、リアルタイムの物体認識で見つけた人や物にラベルを付け、ローカルLLMが情景を文章化し、生成グラフィックを地面や群衆へ投影し返す。「観察・命名・記憶・開示」の4モードを巡り、4chの生成音楽も挙動に連動する。制御はSTM32ベースの自作基板とMac mini M4。Signal Calling 2025の受賞作として、2025年のSignal Festival（プラハ、Sady Svatopluka Čecha）で公開され、Lumen Prize 2026 Experiential Innovation部門のファイナリストにも選ばれた。",
+    "tags": [
+      "ステッピングモーター",
+      "2軸パン・チルト",
+      "STM32",
+      "コンピュータビジョン",
+      "レーザープロジェクター",
+      "ローカルLLM",
+      "Signal Festival"
+    ],
+    "thumbnail": "media/candidates/oko-antonin-kindl/01.jpg",
+    "addedDate": "2026-11-24",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/oko-antonin-kindl/01.jpg",
+        "origin": "https://kindl.work/vault-images/80e03bb54f5ba23b/1920.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/oko-antonin-kindl/02.jpg",
+        "origin": "https://kindl.work/vault-images/009d61e341ce0c24/1440.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/oko-antonin-kindl/03.jpg",
+        "origin": "https://kindl.work/vault-images/ec85c52c59ff98ae/1920.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/oko-antonin-kindl/04.jpg",
+        "origin": "https://kindl.work/vault-images/c875555f22a0ab4e/1440.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/oko-antonin-kindl/05.jpg",
+        "origin": "https://kindl.work/vault-images/e7251b45bbe9b4e9/1920.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/oko-antonin-kindl/06.jpg",
+        "origin": "https://kindl.work/vault-images/2c0bfa69dafbe118/1920.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/oko-antonin-kindl/07.jpg",
+        "origin": "https://kindl.work/vault-images/b83108e5f104fcac/1920.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/oko-antonin-kindl/08.jpg",
+        "origin": "https://kindl.work/vault-images/b10efc72c88a273a/1440.webp"
+      }
+    ]
+  },
+  {
+    "id": "caos-jeanine-verloop",
+    "title": "CAOS",
+    "artist": "Jeanine Verloop（ジャニーン・フェルループ）／クリエイティブ・テクノロジスト：Nathan Marcus、PCB設計：Loden Rietveld、委嘱：Tetem",
+    "year": 2025,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://ars.electronica.art/center/en/caos/",
+    "sourceSite": "Ars Electronica Center",
+    "summary": "天井から床まで吊られた手吹きガラスのらせんが、それぞれスピーカーに接続されている。カオス理論に基づくソフトウェアが会場の環境音やモーションセンサーの反応を低周波の振動に変換し、らせんを揺らして鳴らす。ガラスの種類や色、形でらせんごとに動きと音色が異なり、共振周波数に達すると割れてしまうこともあり、そのたびに音と見た目が変わっていく。組込みソフトと自作基板で制御する。オランダのTetemで2025年に初公開され、Ars Electronica Festival 2026の展示（Ars Electronica Center、2026年9月9日〜10月11日）でも紹介された。",
+    "tags": [
+      "ガラス",
+      "スピーカー加振",
+      "共振",
+      "カオス理論",
+      "モーションセンサー",
+      "自作PCB",
+      "Ars Electronica"
+    ],
+    "thumbnail": "media/candidates/caos-jeanine-verloop/01.jpg",
+    "addedDate": "2026-11-24",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/caos-jeanine-verloop/01.jpg",
+        "origin": "https://tetem.nl/wp-content/uploads/2025/06/JCLU-20250314-0001-2-scaled-1.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/caos-jeanine-verloop/02.jpg",
+        "origin": "https://ars.electronica.art/center/files/2026/08/image7-scaled.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/caos-jeanine-verloop/03.jpg",
+        "origin": "https://ars.electronica.art/center/files/2026/08/55520171674_b42b6069b1_k.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/caos-jeanine-verloop/04.jpg",
+        "origin": "https://ars.electronica.art/center/files/2026/08/image6-scaled.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/caos-jeanine-verloop/05.jpg",
+        "origin": "https://tetem.nl/wp-content/uploads/2025/06/JCLU-20250314-0006-scaled-1.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/caos-jeanine-verloop/06.jpg",
+        "origin": "https://tetem.nl/wp-content/uploads/2025/06/JCLU-20250314-0011-scaled-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "ez-quality-sorter-v2-verena-friedrich",
+    "title": "EZ Quality Sorter V2（ERBSENZÄHLER）",
+    "artist": "Verena Friedrich（フェレーナ・フリードリヒ）",
+    "year": 2023,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://festival.dac.taipei/en/work-detail/?id=main-05",
+    "sourceSite": "2026 Taipei Digital Art Festival",
+    "summary": "工業機械のような見た目の、エンドウ豆の選別機。供給機構とベルトコンベアで豆を1粒ずつ運び、観客は顕微鏡のような光学装置で豆を見て、緑か赤のボタンで「良い」「悪い」を判定する。ボタンを押すたびに豆の接写画像が判定とともにデータベースに加わり、観客が去ると機械はその判断を学習して自動で選別を続ける。人の主観的な判断が「客観的な」AIシステムに埋め込まれていく過程を体験させる。Prix Ars Electronica 2023 栄誉賞。2026年の台北デジタルアートフェスティバル「灰色自動體」（台北典蔵植物園、10月31日〜11月15日）で展示された。",
+    "tags": [
+      "ベルトコンベア",
+      "選別機",
+      "カメラ",
+      "機械学習",
+      "インタラクティブ",
+      "Prix Ars Electronica",
+      "台北デジタルアートフェス"
+    ],
+    "thumbnail": "media/candidates/ez-quality-sorter-v2-verena-friedrich/01.jpg",
+    "addedDate": "2026-11-24",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/ez-quality-sorter-v2-verena-friedrich/01.jpg",
+        "origin": "https://festival.dac.taipei/wp-content/themes/daf2026/assets/images/works/main/main-05/02.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/ez-quality-sorter-v2-verena-friedrich/02.jpg",
+        "origin": "https://festival.dac.taipei/wp-content/themes/daf2026/assets/images/works/main/main-05/01.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/ez-quality-sorter-v2-verena-friedrich/03.jpg",
+        "origin": "https://festival.dac.taipei/wp-content/themes/daf2026/assets/images/works/main/main-05/main.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/ez-quality-sorter-v2-verena-friedrich/04.jpg",
+        "origin": "https://festival.dac.taipei/wp-content/themes/daf2026/assets/images/works/main/main-05/03.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/ez-quality-sorter-v2-verena-friedrich/05.jpg",
+        "origin": "https://ars.electronica.art/who-owns-the-truth/files/2023/08/53165469912_fc4c133df1_k.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/ez-quality-sorter-v2-verena-friedrich/06.jpg",
+        "origin": "https://khk.rwth-aachen.de/wp-content/uploads/2025/11/EZQS_RicardEstay_3.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/ez-quality-sorter-v2-verena-friedrich/07.jpg",
+        "origin": "https://ars.electronica.art/who-owns-the-truth/files/2023/08/53073015085_8d6b6a2a2d_k.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/ez-quality-sorter-v2-verena-friedrich/08.jpg",
+        "origin": "https://ars.electronica.art/who-owns-the-truth/files/2023/08/53072804714_33286f1af2_5k.jpg"
+      }
+    ]
+  },
+  {
+    "id": "solar-pink-pong-assocreation",
+    "title": "Solar Pink Pong",
+    "artist": "Assocreation（アソクリエーション）／Daylight Media Lab",
+    "year": 2015,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://festival.dac.taipei/en/work-detail/?id=outdoor-02",
+    "sourceSite": "2026 Taipei Digital Art Festival",
+    "summary": "電柱や建物の壁に取り付けた装置が、コンピューター制御で動くダイクロイック（色付き）ミラーで太陽光を反射し、路面にピンク色の光の「ボール」を映し出す屋外ストリート・ビデオゲーム。カメラ（コンピュータビジョン）で人の体や影を検出し、光の球が影に当たると跳ね返る“Pong”として遊べる。ソーラーパネルで動き、電源不要で自律運転する。Myron Kruegerの『Videoplace』と初期ゲーム『Pong』を参照した作品で、第19回文化庁メディア芸術祭エンターテインメント部門優秀賞。2026年の台北デジタルアートフェスティバルで屋外展示された。",
+    "tags": [
+      "可動ミラー",
+      "太陽光",
+      "コンピュータビジョン",
+      "ソーラーパネル",
+      "ストリートゲーム",
+      "パブリックアート",
+      "文化庁メディア芸術祭"
+    ],
+    "thumbnail": "media/candidates/solar-pink-pong-assocreation/01.jpg",
+    "addedDate": "2026-11-24",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/solar-pink-pong-assocreation/01.jpg",
+        "origin": "https://solarpinkpong.com/assets/img/photos/spp8.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/solar-pink-pong-assocreation/02.jpg",
+        "origin": "https://festival.dac.taipei/wp-content/themes/daf2026/assets/images/works/outdoor/outdoor-02/01.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/solar-pink-pong-assocreation/03.jpg",
+        "origin": "https://festival.dac.taipei/wp-content/themes/daf2026/assets/images/works/outdoor/outdoor-02/main.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/solar-pink-pong-assocreation/04.jpg",
+        "origin": "https://festival.dac.taipei/wp-content/themes/daf2026/assets/images/works/outdoor/outdoor-02/02.webp"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/solar-pink-pong-assocreation/05.jpg",
+        "origin": "https://solarpinkpong.com/assets/img/photos/spp4.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/solar-pink-pong-assocreation/06.jpg",
+        "origin": "https://solarpinkpong.com/assets/img/photos/spp11.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/solar-pink-pong-assocreation/07.jpg",
+        "origin": "https://solarpinkpong.com/assets/img/photos/spp12.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/solar-pink-pong-assocreation/08.jpg",
+        "origin": "https://assocreation.com/wp-content/uploads/2016/06/SolarPinkPong_2016_01.jpg"
+      }
+    ]
+  },
+  {
+    "id": "color-machine-studio-lemercier",
+    "title": "The Color Machine",
+    "artist": "Studio Lemercier（Joanie Lemercier & Juliette Bibasse／スタジオ・ルメルシエ）",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://joanielemercier.com/thresholds-at-hek-basel/",
+    "sourceSite": "Studio Lemercier（ブログ）",
+    "summary": "木製フレームに円形の鏡19枚を並べたモーター駆動の彫刻。太陽光を集めて向きを変えるために作った「Solar Concentrator（太陽光集光器）」をもとに、色付きの光源を組み合わせて色の機械にした。モーターが鏡の向きをゆっくり変え、反射した色や空間の像が周囲を移ろい、鑑賞者自身も鏡の中の像に入り込む。役に立たない動きを楽しむイームズ夫妻の「Do-Nothing Machine」へのオマージュで、安く簡単に作れることも意図している。HEK（バーゼル）の個展「Thresholds」（2026年）で発表された。",
+    "tags": [
+      "鏡",
+      "モーター",
+      "自作エレクトロニクス",
+      "色光",
+      "キネティック",
+      "HEK Basel",
+      "Solar Lab"
+    ],
+    "thumbnail": "media/candidates/color-machine-studio-lemercier/01.jpg",
+    "addedDate": "2026-11-24",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/color-machine-studio-lemercier/01.jpg",
+        "origin": "https://i0.wp.com/joanielemercier.com/wp-content/uploads/2026/09/PXL_20260822_144948312-scaled.jpg?w=1905&ssl=1"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/color-machine-studio-lemercier/02.jpg",
+        "origin": "https://i0.wp.com/joanielemercier.com/wp-content/uploads/2026/09/PXL_20260824_164339082-color-scaled.jpg?w=1928&ssl=1"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/color-machine-studio-lemercier/03.jpg",
+        "origin": "https://i0.wp.com/joanielemercier.com/wp-content/uploads/2026/09/PXL_20260824_164510497-scaled.jpg?w=1928&ssl=1"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/color-machine-studio-lemercier/04.jpg",
+        "origin": "https://www.facebook.com/studiojoanielemercier/videos/the-color-machine-open-now-at-hek_basel/909139728544822"
+      }
+    ]
   }
 ]
