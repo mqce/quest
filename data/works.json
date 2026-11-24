@@ -9274,5 +9274,210 @@
         "origin": "https://www.facebook.com/studiojoanielemercier/videos/the-color-machine-open-now-at-hek_basel/909139728544822"
       }
     ]
+  },
+  {
+    "id": "barbershop-wonderland-jeon-byeong-sam",
+    "title": "Barbershop Wonderland",
+    "artist": "Jeon Byeong Sam（전병삼／チョン・ビョンサム）",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.ilightsingapore.gov.sg/2026-installations/barbershop-wonderland/",
+    "sourceSite": "i Light Singapore 2026（公式）",
+    "summary": "理髪店の看板「サインポール」約200本を広場に並べたインタラクティブ・インスタレーション。各ポールにセンサーが仕込まれ、人が近づくとその周りのポールが点灯して回り出し、歩く人の動きに合わせて光と回転の波が広がる。かつて街角にあったサインポールの記憶を、モーターとセンサーで反応する光の群れとして蘇らせた。i Light Singapore 2026（2026年6月5日〜28日、クリフォード・スクエア／The Fullerton Heritage提供）で展示された。",
+    "tags": [
+      "サインポール",
+      "センサー",
+      "モーター",
+      "LED",
+      "インタラクティブ",
+      "群れ",
+      "i Light Singapore",
+      "韓国"
+    ],
+    "thumbnail": "media/candidates/barbershop-wonderland-jeon-byeong-sam/01.jpg",
+    "addedDate": "2026-11-25",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/barbershop-wonderland-jeon-byeong-sam/01.jpg",
+        "origin": "https://isomer-user-content.by.gov.sg/365/7c6732d9-47d0-4e70-b7bb-417e47959bbc/Barbershop%20Wonderland.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/barbershop-wonderland-jeon-byeong-sam/02.jpg",
+        "origin": "https://confirmgood.com/wp-content/uploads/2026/06/i-Light-Singapore-2026-Barbershop-Wonderland.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/barbershop-wonderland-jeon-byeong-sam/03.jpg",
+        "origin": "https://confirmgood.com/wp-content/uploads/2026/06/i-Light-Singapore-2026-Barbershop-poles.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/barbershop-wonderland-jeon-byeong-sam/04.jpg",
+        "origin": "https://shaunchng.com/photos/upload/2026/06/07/20260607013717-9bfeae0d.jpg"
+      }
+    ]
+  },
+  {
+    "id": "earthscapes-anna-godzina",
+    "title": "Earthscapes / 35°2′4.34″N, 135°43′5.51″E",
+    "artist": "Anna Godzina（アンナ・ゴジナ）",
+    "year": 2024,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://kikkfestival.be/installations/earthscapes-35-2-4-34-n-135-43-5-51-e-art-trail-kikk2026",
+    "sourceSite": "KIKK Festival 2026（公式）",
+    "summary": "京都・龍安寺の石庭（タイトルはその座標）を模した台の上に、錆びた防波堤から削り出した鉄粉を敷き詰めた作品。台の下では強力な磁石を付けたモーター駆動のアームがゆっくり回り、鉄粉が持ち上がって枯山水の砂紋のような同心円の模様を描いては崩していく。制作はWerktank、音響はRaphael Malfliet。2024年にZ33（ハッセルト）で発表され、KIKK Festival 2026のアートトレイル（ナミュール、2026年10月22日〜25日）でも展示された。",
+    "tags": [
+      "磁石",
+      "鉄粉",
+      "モーター",
+      "キネティック",
+      "枯山水",
+      "サウンド",
+      "KIKK Festival",
+      "Z33"
+    ],
+    "thumbnail": "media/candidates/earthscapes-anna-godzina/01.jpg",
+    "addedDate": "2026-11-25",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/earthscapes-anna-godzina/01.jpg",
+        "origin": "https://www.werktank.org/storage/media/img/original/1063_2-sdim3327.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/earthscapes-anna-godzina/02.jpg",
+        "origin": "https://www.werktank.org/storage/media/img/original/1065_5-sdim3392.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/earthscapes-anna-godzina/03.jpg",
+        "origin": "https://www.werktank.org/storage/media/img/original/1066_4-sdim3399-2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/earthscapes-anna-godzina/04.jpg",
+        "origin": "https://www.werktank.org/storage/media/img/original/1067_sdim3298.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/earthscapes-anna-godzina/05.jpg",
+        "origin": "https://www.werktank.org/storage/media/img/original/1070_1-sdim3327-2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/earthscapes-anna-godzina/06.jpg",
+        "origin": "https://i.vimeocdn.com/video/1983462454-c619af378988d4af8396afc226c14aedb09063925a45d9d7688c765646486b45-d_1280?region=us"
+      },
+      {
+        "type": "video",
+        "src": "https://player.vimeo.com/video/1057499618",
+        "poster": "media/candidates/earthscapes-anna-godzina/06.jpg"
+      }
+    ]
+  },
+  {
+    "id": "muttoni-robert-and-john-night-paradise",
+    "title": "ロバートとジョンのナイト・パラダイス（ムットーニワールド からくりシアターⅥ）",
+    "artist": "MUTTONI（武藤政彦／ムットーニ）",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.yumebi.com/exb.html",
+    "sourceSite": "八王子市夢美術館",
+    "summary": "箱の中の小さな舞台で、モーター仕掛けの人形が照明・効果音・音楽と連動して物語を演じる「からくりシアター」。作家が機構の設計から組み立て・配線まで自分で手がけている。八王子市夢美術館の個展「ムットーニワールド からくりシアターⅥ」（2026年11月14日〜2027年1月11日）では約30点を上演し、未発表の新作《ロバートとジョンのナイト・パラダイス》（2024–2026）を初公開。2026年作の《ウィングズ》《ドール》なども並ぶ。",
+    "tags": [
+      "からくり",
+      "自動人形",
+      "モーター",
+      "照明制御",
+      "サウンド",
+      "ボックスシアター",
+      "八王子市夢美術館",
+      "日本"
+    ],
+    "thumbnail": "media/candidates/muttoni-robert-and-john-night-paradise/01.jpg",
+    "addedDate": "2026-11-25",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/muttoni-robert-and-john-night-paradise/01.jpg",
+        "origin": "https://www.artagenda.jp/img/event/12532/main_1.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/muttoni-robert-and-john-night-paradise/02.jpg",
+        "origin": "https://www.artagenda.jp/img/event/12532/main_2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/muttoni-robert-and-john-night-paradise/03.jpg",
+        "origin": "https://www.artagenda.jp/img/event/12532/main_13.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/muttoni-robert-and-john-night-paradise/04.jpg",
+        "origin": "https://www.artagenda.jp/img/event/12532/main_7.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/muttoni-robert-and-john-night-paradise/05.jpg",
+        "origin": "https://www.artagenda.jp/img/event/12532/main_8.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/muttoni-robert-and-john-night-paradise/06.jpg",
+        "origin": "https://www.artagenda.jp/img/event/12532/main_4.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/muttoni-robert-and-john-night-paradise/07.jpg",
+        "origin": "https://www.artagenda.jp/img/event/12532/main_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "bloom-from-the-flux-junsoo-kim",
+    "title": "Bloom from the Flux（흐름 속에서 피어나다）",
+    "artist": "Junsoo Kim（김준수／キム・ジュンス）",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.nabi.or.kr/page/board_view.php?brd_id=project&brd_idx=1447",
+    "sourceSite": "Art Center Nabi",
+    "summary": "協働ロボットアーム（Doosan M1509）の先に、結晶とCNC加工のアルミでできた生き物のような造形を取り付けた作品。DCサーボで動く部分とCree製LEDの光が組み合わさり、アームがゆっくり姿勢を変えるたびに結晶が光り、花が開くような有機的な動きを見せる。足元には砂が敷かれている。ロボットと人が共に動くリズムを探る特別展《ロボティック・エンブレイス：共にいることのリズム》（世界慶州フォーラム2026、慶州HICO、2026年10月8日〜9日、アートセンター・ナビ企画）で発表された。",
+    "tags": [
+      "ロボットアーム",
+      "協働ロボット",
+      "サーボ",
+      "LED",
+      "結晶",
+      "キネティック",
+      "アートセンター・ナビ",
+      "韓国"
+    ],
+    "thumbnail": "media/candidates/bloom-from-the-flux-junsoo-kim/01.jpg",
+    "addedDate": "2026-11-25",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/bloom-from-the-flux-junsoo-kim/01.jpg",
+        "origin": "https://www.nabi.or.kr/upload_file/board/editor/1795162012_WfGqkZ.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/bloom-from-the-flux-junsoo-kim/02.jpg",
+        "origin": "https://www.nabi.or.kr/upload_file/board/editor/1795162060_XzDVGH.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/bloom-from-the-flux-junsoo-kim/03.jpg",
+        "origin": "https://www.nabi.or.kr/upload_file/board/editor/1795162947_zlvBAl.jpg"
+      }
+    ]
   }
 ]
