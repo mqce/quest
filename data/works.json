@@ -9737,5 +9737,237 @@
         "origin": "https://gloweindhoven.nl/assets/uploads/BvOF-GLOW2025_21-Rings-of-Resonance-Fontys-BeCreative-03-lr-2560x1707.jpg"
       }
     ]
+  },
+  {
+    "id": "suspended-geometries-elias-crespin",
+    "title": "Suspended Geometries（Tetralineados Alu Rouge ほか 電動キネティック彫刻群）",
+    "artist": "Elias Crespin（エリアス・クレスピン）",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.ascasogallery.com/exhibition/suspended-geometries/",
+    "sourceSite": "Ascaso Gallery",
+    "summary": "ナイロン糸で吊るされた金属の線や面が、プログラム制御のモーターで糸の長さを少しずつ変えられ、知覚できるかできないかの速さで形を変えていく電動キネティック彫刻のシリーズ。線がそろったり離れたり、面が折れ曲がったり平らになったりしながら、次々と別の幾何学の形が現れては消えていく。作者はコンピュータ技術者出身で、ソフトウェア・電子回路・機構をすべて自分で作る（ルーヴル美術館の常設作品「L'Onde du Midi」でも知られる）。本展は新作のガラスや木の作品を含む21点で構成され、米マイアミのAscaso Galleryで2026年11月30日〜2027年2月27日に開催される、作者のマイアミ初個展。",
+    "tags": [
+      "キネティック彫刻",
+      "モーター",
+      "ナイロン糸",
+      "アルゴリズム",
+      "吊り下げ",
+      "幾何学",
+      "マイアミ"
+    ],
+    "thumbnail": "media/candidates/suspended-geometries-elias-crespin/01.jpg",
+    "addedDate": "2026-11-27",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/suspended-geometries-elias-crespin/01.jpg",
+        "origin": "https://www.ascasogallery.com/wp-content/uploads/2026/11/1DSC_2555.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/suspended-geometries-elias-crespin/02.jpg",
+        "origin": "https://www.ascasogallery.com/wp-content/uploads/2026/11/CDSC_2650-scaled.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/suspended-geometries-elias-crespin/03.jpg",
+        "origin": "https://www.ascasogallery.com/wp-content/uploads/2026/11/3DSC_2580.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/suspended-geometries-elias-crespin/04.jpg",
+        "origin": "https://www.ascasogallery.com/wp-content/uploads/2026/11/6DSC_2612.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/suspended-geometries-elias-crespin/05.jpg",
+        "origin": "https://www.ascasogallery.com/wp-content/uploads/2026/11/7DSC_2630.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/suspended-geometries-elias-crespin/06.jpg",
+        "origin": "https://www.ascasogallery.com/wp-content/uploads/2026/11/DDSC_2655-1.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/suspended-geometries-elias-crespin/07.jpg",
+        "origin": "https://www.ascasogallery.com/wp-content/uploads/2026/11/EDSC_2606-1.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/suspended-geometries-elias-crespin/08.jpg",
+        "origin": "https://www.ascasogallery.com/wp-content/uploads/2026/11/02-Cubo-ondulatorio-scaled.jpg"
+      }
+    ]
+  },
+  {
+    "id": "histolysis-morakana",
+    "title": "Histolysis",
+    "artist": "MORAKANA（Tiri Kananuruk & Sebastián Morales Prado）",
+    "year": 2025,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://morakana.com/work/histolysis",
+    "sourceSite": "MORAKANA",
+    "summary": "床のすぐ上に吊られた木の根のような構造体が、腸のぜん動のようにゆっくりと脈打つキネティック・ライト・インスタレーション。20個のモジュール（ノード）で構成され、それぞれにESP32を載せた自作の基板、ギア付きDCモーター、マイク、LEDが入っている。ノード同士は磁石でつながり、組み替えや増設ができる。カーボンファイバーの棒とダイニーマの糸を張力で動かす、ソフトロボティクスに着想を得たしなやかな動きが特徴で、局所的な動きが波のように全体へ伝わる。題名は、昆虫の変態のときに組織が分解される過程（組織融解）から。2025年にNEW INCのCreative Science Demo Festival（ニューヨーク）で初めて展示され、LIT Lighting Design Awards 2026を受賞した。",
+    "tags": [
+      "ESP32",
+      "DCモーター",
+      "LED",
+      "マイク",
+      "カスタム基板",
+      "ソフトロボティクス",
+      "モジュール",
+      "ニューヨーク"
+    ],
+    "thumbnail": "media/candidates/histolysis-morakana/01.jpg",
+    "addedDate": "2026-11-27",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/histolysis-morakana/01.jpg",
+        "origin": "https://morakana.com/wp-content/uploads/2025/07/histolysis_close.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/histolysis-morakana/02.jpg",
+        "origin": "https://morakana.com/wp-content/uploads/2025/07/histolysis_wide2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/histolysis-morakana/03.jpg",
+        "origin": "https://morakana.com/wp-content/uploads/2025/07/histolysis_wide3.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/histolysis-morakana/04.jpg",
+        "origin": "https://morakana.com/wp-content/uploads/2025/07/histolysis_people.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/histolysis-morakana/05.jpg",
+        "origin": "https://morakana.com/wp-content/uploads/2025/07/hiastolysis_node1.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/histolysis-morakana/06.jpg",
+        "origin": "https://litthreec.s3.us-east-2.amazonaws.com/uploads/26368/31-6868-25/full/16cdb59f43449d3d7a226c7f2526fd2a.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/histolysis-morakana/07.jpg",
+        "origin": "https://litthreec.s3.us-east-2.amazonaws.com/uploads/26368/31-6868-25/full/be276bdaaac6cc82590b815ed20a5660.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/histolysis-morakana/08.jpg",
+        "origin": "https://litthreec.s3.us-east-2.amazonaws.com/uploads/26368/31-6868-25/full/d1aba0b9b0d9d06db870935dc5cfeebf.jpg"
+      }
+    ]
+  },
+  {
+    "id": "sasu-28-yuichiro-katsumoto",
+    "title": "Sasu 28",
+    "artist": "勝本雄一朗（Yuichiro Katsumoto）",
+    "year": 2025,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.creativeapplications.net/member/sasu-28-crossing-the-boundaries-between-sign-and-matter-digital-and-analog/",
+    "sourceSite": "CreativeApplications.Net",
+    "summary": "黒いニットの布の表面から28本の縫い針が出たり引っ込んだりして時刻を表す、キネティック・タイポグラフィの時計作品。4つの黒いユニットの中にそれぞれ自作の直動アクチュエーターが7つあり、7セグメント表示のように並んでいる。各ユニットをESP32で、全体をMax/MSPで制御する。布との微妙なずれで針が傾いて寝ていき、「点」から「線」に変わっていく。時刻表示の合間には、振り付けとランダムを組み合わせた動きが続く。「針」が時計の針と縫い針の両方を指すことから着想した。Asia Digital Art Award 2025、Tokyo TDC 2026でTDC賞を受賞し、ギンザ・グラフィック・ギャラリーのTDC展2026では実物が展示された。",
+    "tags": [
+      "ESP32",
+      "リニアアクチュエーター",
+      "Max/MSP",
+      "キネティック・タイポグラフィ",
+      "時計",
+      "縫い針",
+      "日本"
+    ],
+    "thumbnail": "media/candidates/sasu-28-yuichiro-katsumoto/01.jpg",
+    "addedDate": "2026-11-27",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/sasu-28-yuichiro-katsumoto/01.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2025/09/sasu28_perspective-cover.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/sasu-28-yuichiro-katsumoto/02.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2025/09/sasu28_main.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/sasu-28-yuichiro-katsumoto/03.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2025/09/sasu28_side-1600x1000.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/sasu-28-yuichiro-katsumoto/04.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2025/09/ca01.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/sasu-28-yuichiro-katsumoto/05.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2025/09/ca02.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/sasu-28-yuichiro-katsumoto/06.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2025/09/ca03.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/sasu-28-yuichiro-katsumoto/07.jpg",
+        "origin": "https://www.creativeapplications.net/wp-content/uploads/2025/09/ca04.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/sasu-28-yuichiro-katsumoto/08.jpg",
+        "origin": "https://tokyotypedirectorsclub.org/wp-content/uploads/2026/02/8_TDC-Prize%E5%8B%9D%E6%9C%AC%E9%9B%84%E4%B8%80%E6%9C%97_c.jpg"
+      }
+    ]
+  },
+  {
+    "id": "gossip-bots-quintus-glerum",
+    "title": "Gossip Bots",
+    "artist": "Quintus Glerum（クインタス・グレルム）",
+    "year": 2026,
+    "category": "installation",
+    "source": "web",
+    "sourceUrl": "https://www.quintusglerum.com/portfolio-1/gossip-bots",
+    "sourceSite": "Quintus Glerum（作家サイト）",
+    "summary": "金属の街路用ポールに取り付けた2台のロボット監視カメラ（CCTV）が、絶えず情報をやり取りし合い、まるで噂話（ゴシップ）をしているように見えるロボット彫刻（160×60×60cm、3Dプリントの自作パーツ使用）。作者はアニメーションの経験を生かして監視カメラに動きを与え、噂話というとても人間らしい行為を機械の動きに置き換えた。自動化が進むなかで「何が人間らしさなのか」を問いかける。オランダの作家による2026年の新作で、作者は2020年にも同じ題名のバーチャル作品（来場者を追いかけて噂話をする2体のボット）を発表している。",
+    "tags": [
+      "ロボットカメラ",
+      "CCTV",
+      "モーター",
+      "3Dプリント",
+      "監視",
+      "ユーモア",
+      "オランダ"
+    ],
+    "thumbnail": "media/candidates/gossip-bots-quintus-glerum/01.jpg",
+    "addedDate": "2026-11-27",
+    "candidates": [
+      {
+        "type": "image",
+        "src": "media/candidates/gossip-bots-quintus-glerum/01.jpg",
+        "origin": "https://static.wixstatic.com/media/dbb5fb_a4ac36eb058b46e480fb8d588dea1cf4~mv2.jpg/v1/fit/w_1920,h_1440,q_90/dbb5fb_a4ac36eb058b46e480fb8d588dea1cf4~mv2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/gossip-bots-quintus-glerum/02.jpg",
+        "origin": "https://static.wixstatic.com/media/dbb5fb_4e246928e9774c648fcac8d53babf223~mv2.jpg/v1/fit/w_1920,h_1440,q_90/dbb5fb_4e246928e9774c648fcac8d53babf223~mv2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/candidates/gossip-bots-quintus-glerum/03.jpg",
+        "origin": "https://static.wixstatic.com/media/dbb5fb_a2207e7fcb7446caac2eae0518724150~mv2.jpg/v1/fit/w_1920,h_1440,q_90/dbb5fb_a2207e7fcb7446caac2eae0518724150~mv2.jpg"
+      }
+    ]
   }
 ]
